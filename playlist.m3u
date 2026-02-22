@@ -436,7 +436,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="COMEDY CENTRAL 瑞士" tvg-logo="https://live.fanmingming.com/tv/COMEDY CENTRAL 瑞士.png" group-title="综合",COMEDY CENTRAL 瑞士
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="综合",Discovery
-http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
+http://aacc2.hd4.co:8888/USA_DISCOVERY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal lPlanet" tvg-logo="https://live.fanmingming.com/tv/Animal lPlanet.png" group-title="综合",Animal lPlanet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal lPlanet 捷克" tvg-logo="https://live.fanmingming.com/tv/Animal lPlanet 捷克.png" group-title="综合",Animal lPlanet 捷克
@@ -498,9 +498,9 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="卡特尔Al Jazeera 阿语" tvg-logo="https://live.fanmingming.com/tv/卡特尔Al Jazeera 阿语.png" group-title="新闻",卡特尔Al Jazeera 阿语
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-name="俄罗斯BRIDGE DELUXE" tvg-logo="https://live.fanmingming.com/tv/俄罗斯BRIDGE DELUXE.png" group-title="音乐",俄罗斯BRIDGE DELUXE
-http://188.191.160.238:7780/udp/239.195.5.213:1234
+http://194.143.150.123:8080/udp/239.195.5.213:1234
 #EXTINF:-1 tvg-name="俄罗斯ЖAPA" tvg-logo="https://live.fanmingming.com/tv/俄罗斯ЖAPA.png" group-title="音乐",俄罗斯ЖAPA
-http://188.191.160.238:7780/udp/239.195.5.11:1234
+http://194.143.150.123:8080/udp/239.195.5.11:1234
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://live.fanmingming.com/tv/MTV LIVE.png" group-title="音乐",MTV LIVE
 http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5g5hwf_1cwe
 #EXTINF:-1 tvg-name="美国MTV LIVE" tvg-logo="https://live.fanmingming.com/tv/美国MTV LIVE.png" group-title="音乐",美国MTV LIVE
