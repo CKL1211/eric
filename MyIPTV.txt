@@ -45,7 +45,6 @@ CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 河南卫视,http://119.123.176.249:8086/hls/52/index.m3u8
 湖北卫视,http://119.123.176.249:8086/hls/54/index.m3u8
 湖南卫视,http://119.123.176.249:8086/hls/55/index.m3u8
-湖南国际,http://dsm.ikun.hn.cn:9981/stream/channelid/1802769943?profile=pass
 江苏卫视,http://119.123.176.249:8086/hls/59/index.m3u8
 深圳卫视,http://119.123.176.249:8086/hls/79/index.m3u8
 四川卫视,http://119.123.176.249:8086/hls/82/index.m3u8
@@ -61,7 +60,7 @@ CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 天津卫视,http://119.123.176.249:8086/hls/140/index.m3u8
 贵州卫视,http://119.123.176.249:8086/hls/143/index.m3u8
 河北卫视,http://119.123.176.249:8086/hls/144/index.m3u8
-三沙卫视,http://dsm.ikun.hn.cn:9981/stream/channelid/341893503?profile=pass
+三沙卫视,http://154.17.19.44:7088/udp/239.11.0.177:1025
 山西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
 陕西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
 内蒙古卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140
@@ -153,7 +152,6 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 欧洲体育4K,https://7pal.short.gy/eusport4k
 天空体育主赛事 4K,https://a1xs.vip/2000015
 天空体育F1 4K,https://a1xs.vip/2000016
-加拿大TSN 4K,http://primestreams.tv:826/mikes2sweet/ms291122/100673
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 捷克Oneplay Sport 1,http://195.146.131.222:3030/play/Oneplay%20Sport%201.m3u8
 捷克Oneplay Sport 2,http://195.146.131.222:3030/play/Oneplay%20Sport%202.m3u8
@@ -165,11 +163,30 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 捷克Nova Sport 4,http://195.146.131.222:3030/play/Nova%20Sport%204%20HD.m3u8
 捷克Nova Sport 5,http://195.146.131.222:3030/play/Nova%20Sport%205%20HD.m3u8
 捷克Nova Sport 6,http://195.146.131.222:3030/play/Nova%20Sport%206%20HD.m3u8
+捷克体育1台,http://91.187.52.18:15129/play/Sport1.m3u8
+捷克体育2台,http://91.187.52.18:15129/play/Sport2.m3u8
+捷克CT体育台,http://91.187.52.18:15129/play/%C4%8CT%20Sport%20HD.m3u8
+捷克付费体育1台,http://91.187.52.18:15129/play/Premier%20Sport%201.m3u8
+捷克付费体育2台,http://91.187.52.18:15129/play/Premier%20Sport%202.m3u8
+捷克付费体育3台,http://91.187.52.18:15129/play/Premier%20Sport%203.m3u8
+波兰Eleven Sports,http://193.24.244.60:1001/udp/239.254.4.221:6060
+波兰Eleven Sports 2,http://193.24.244.60:1001/udp/239.254.4.220:6060
+波兰Eleven Sports 3,http://193.24.244.60:1001/udp/239.254.4.219:6060
+波兰Eleven Sports 4,http://193.24.244.60:1001/udp/239.254.4.216:6060
+波兰Polsat Sport,http://193.24.244.60:1001/udp/239.254.2.8:6060
+波兰Polsat Sport 2,http://193.24.244.60:1001/udp/239.254.2.9:6060
+波兰Polsat Sport 3,http://193.24.244.60:1001/udp/239.254.2.5:6060
+波兰Polsat Sport Fight,http://193.24.244.60:1001/udp/239.254.2.29:6060
+波兰Canal + Sport,http://193.24.244.60:1001/udp/239.254.1.7:6060
+波兰Canal + Sport 2,http://193.24.244.60:1001/udp/239.254.1.8:6060
+波兰Canal + Sport 3,http://193.24.244.60:1001/udp/239.254.1.163:6060
+波兰Canal + Sport 4,http://193.24.244.60:1001/udp/239.254.1.242:6060
+波兰Canal + Sport 5,http://193.24.244.60:1001/udp/239.254.1.15:6060
 
 综合,#genre#
-CHC影迷电影,http://dsm.ikun.hn.cn:9981/stream/channelid/1898926728?profile=pass
-CHC动作电影,http://dsm.ikun.hn.cn:9981/stream/channelid/750230923?profile=pass
-CHC家庭影院,http://dsm.ikun.hn.cn:9981/stream/channelid/921606887?profile=pass
+CHC动作电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.174:5140
+CHC家庭影院,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.173:5140
+CHC影迷电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
 五星体育,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
 武术世界,http://198980.xyz:8888/udp/239.49.0.205:8000
 华数动画电影,http://119.123.176.249:8086/hls/78/index.m3u8
@@ -199,10 +216,8 @@ Cinemax经典,http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
 尼克少儿 台湾,https://tv.iill.top/4gtv/4gtv-live105
 尼克少儿 俄罗斯,http://de2.mirror-tv.net:80/nickelodeon-hd/tracks-v1a1a2a3/mono.m3u8?token=cy5g5hwf_1vda
 CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
-CN卡通 波兰,http://195.46.37.135:7088/udp/239.254.5.48:6060
 CN卡通 瑞士,https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 BOOMERANG,http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
-Cartoonito 波兰,http://195.46.37.135:7088/udp/239.254.5.47:6060
 COMEDY CENTRAL,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
 COMEDY CENTRAL 瑞士,https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 NHK国际付费频道,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226449/index.m3u8
@@ -217,8 +232,7 @@ Nat Geo WILD 捷克,http://195.146.131.222:3030/play/Nat%20Geo%20Wild%20HD.m3u8
 Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
 Love Nature 台湾,https://tv.iill.top/4gtv/4gtv-live208
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-花花公子 欧洲16+,http://213.192.12.185:8082/play/Playboy%20TV.m3u8
-花花公子 欧洲16+,http://195.46.37.135:7088/udp/239.254.4.227:6060
+花花公子 欧洲16+,http://193.24.244.60:1001/udp/239.254.4.227:6060
 花花公子 拉美18+,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 法国FTV,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 法国FTV,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LaJ4zAWLyADt-3moyHdZ
@@ -282,7 +296,7 @@ Vevo 90sㅤ,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987
 咪视界4K,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000005180
 晴彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011523
 晴彩少年,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011525
-晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
+晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011521
 晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011528
 晴彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011529
 咪视界 1,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000001000005308
@@ -319,5 +333,39 @@ Vevo 90sㅤ,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987
 咪视界 34,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011518
 咪视界 35,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011519
 咪视界 36,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011520
-咪视界 37,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011521
+咪视界 37,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
 咪视界 38,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
+
+按当天比赛时间,#genre#
+有直播的时候才可以看,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+NBA 01,http://primestreams.tv:826/live/mikes2sweet/ms291122/119713.m3u8
+NBA 02,http://primestreams.tv:826/live/mikes2sweet/ms291122/119714.m3u8
+NBA 03,http://primestreams.tv:826/live/mikes2sweet/ms291122/119715.m3u8
+NBA 04,http://primestreams.tv:826/live/mikes2sweet/ms291122/119716.m3u8
+NBA 05,http://primestreams.tv:826/live/mikes2sweet/ms291122/119717.m3u8
+NBA 06,http://primestreams.tv:826/live/mikes2sweet/ms291122/119718.m3u8
+NBA 07,http://primestreams.tv:826/live/mikes2sweet/ms291122/119719.m3u8
+NBA 08,http://primestreams.tv:826/live/mikes2sweet/ms291122/119720.m3u8
+NBA 09,http://primestreams.tv:826/live/mikes2sweet/ms291122/119721.m3u8
+NBA 10,http://primestreams.tv:826/live/mikes2sweet/ms291122/119722.m3u8
+NBA 11,http://primestreams.tv:826/live/mikes2sweet/ms291122/119723.m3u8
+NBA 12,http://primestreams.tv:826/live/mikes2sweet/ms291122/119724.m3u8
+NBA 13,http://primestreams.tv:826/live/mikes2sweet/ms291122/119725.m3u8
+NBA 14,http://primestreams.tv:826/live/mikes2sweet/ms291122/119726.m3u8
+NBA 15,http://primestreams.tv:826/live/mikes2sweet/ms291122/119727.m3u8
+NBA 16,http://primestreams.tv:826/live/mikes2sweet/ms291122/119728.m3u8
+NBA 17,http://primestreams.tv:826/live/mikes2sweet/ms291122/119729.m3u8
+NBA 18,http://primestreams.tv:826/live/mikes2sweet/ms291122/119730.m3u8
+NBA 19,http://primestreams.tv:826/live/mikes2sweet/ms291122/119731.m3u8
+NBA 20,http://primestreams.tv:826/live/mikes2sweet/ms291122/119732.m3u8
+NBA 21,http://primestreams.tv:826/live/mikes2sweet/ms291122/119733.m3u8
+NBA 22,http://primestreams.tv:826/live/mikes2sweet/ms291122/119734.m3u8
+NBA 23,http://primestreams.tv:826/live/mikes2sweet/ms291122/119735.m3u8
+NBA 24,http://primestreams.tv:826/live/mikes2sweet/ms291122/119736.m3u8
+NBA 25,http://primestreams.tv:826/live/mikes2sweet/ms291122/119737.m3u8
+NBA 26,http://primestreams.tv:826/live/mikes2sweet/ms291122/119738.m3u8
+NBA 27,http://primestreams.tv:826/live/mikes2sweet/ms291122/119739.m3u8
+NBA 28,http://primestreams.tv:826/live/mikes2sweet/ms291122/119740.m3u8
+NBA 29,http://primestreams.tv:826/live/mikes2sweet/ms291122/119741.m3u8
+NBA 30,http://primestreams.tv:826/live/mikes2sweet/ms291122/119742.m3u8
+ 
