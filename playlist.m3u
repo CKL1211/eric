@@ -87,8 +87,6 @@ http://119.123.176.249:8086/hls/52/index.m3u8
 http://119.123.176.249:8086/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://119.123.176.249:8086/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="卫视",湖南国际
-http://dsm.ikun.hn.cn:9981/stream/channelid/1802769943?profile=pass
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://119.123.176.249:8086/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
@@ -120,7 +118,7 @@ http://119.123.176.249:8086/hls/143/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
 http://119.123.176.249:8086/hls/144/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-http://dsm.ikun.hn.cn:9981/stream/channelid/341893503?profile=pass
+http://154.17.19.44:7088/udp/239.11.0.177:1025
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
@@ -287,8 +285,6 @@ https://7pal.short.gy/eusport4k
 https://a1xs.vip/2000015
 #EXTINF:-1 tvg-name="天空体育F1 4K" tvg-logo="https://live.fanmingming.com/tv/天空体育F1 4K.png" group-title="体育",天空体育F1 4K
 https://a1xs.vip/2000016
-#EXTINF:-1 tvg-name="加拿大TSN 4K" tvg-logo="https://live.fanmingming.com/tv/加拿大TSN 4K.png" group-title="体育",加拿大TSN 4K
-http://primestreams.tv:826/mikes2sweet/ms291122/100673
 #EXTINF:-1 tvg-name="奥地利红牛" tvg-logo="https://live.fanmingming.com/tv/奥地利红牛.png" group-title="体育",奥地利红牛
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="捷克Oneplay Sport 1" tvg-logo="https://live.fanmingming.com/tv/捷克Oneplay Sport 1.png" group-title="体育",捷克Oneplay Sport 1
@@ -311,12 +307,50 @@ http://195.146.131.222:3030/play/Nova%20Sport%204%20HD.m3u8
 http://195.146.131.222:3030/play/Nova%20Sport%205%20HD.m3u8
 #EXTINF:-1 tvg-name="捷克Nova Sport 6" tvg-logo="https://live.fanmingming.com/tv/捷克Nova Sport 6.png" group-title="体育",捷克Nova Sport 6
 http://195.146.131.222:3030/play/Nova%20Sport%206%20HD.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="综合",CHC影迷电影
-http://dsm.ikun.hn.cn:9981/stream/channelid/1898926728?profile=pass
+#EXTINF:-1 tvg-name="捷克体育1台" tvg-logo="https://live.fanmingming.com/tv/捷克体育1台.png" group-title="体育",捷克体育1台
+http://91.187.52.18:15129/play/Sport1.m3u8
+#EXTINF:-1 tvg-name="捷克体育2台" tvg-logo="https://live.fanmingming.com/tv/捷克体育2台.png" group-title="体育",捷克体育2台
+http://91.187.52.18:15129/play/Sport2.m3u8
+#EXTINF:-1 tvg-name="捷克CT体育台" tvg-logo="https://live.fanmingming.com/tv/捷克CT体育台.png" group-title="体育",捷克CT体育台
+http://91.187.52.18:15129/play/%C4%8CT%20Sport%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克付费体育1台" tvg-logo="https://live.fanmingming.com/tv/捷克付费体育1台.png" group-title="体育",捷克付费体育1台
+http://91.187.52.18:15129/play/Premier%20Sport%201.m3u8
+#EXTINF:-1 tvg-name="捷克付费体育2台" tvg-logo="https://live.fanmingming.com/tv/捷克付费体育2台.png" group-title="体育",捷克付费体育2台
+http://91.187.52.18:15129/play/Premier%20Sport%202.m3u8
+#EXTINF:-1 tvg-name="捷克付费体育3台" tvg-logo="https://live.fanmingming.com/tv/捷克付费体育3台.png" group-title="体育",捷克付费体育3台
+http://91.187.52.18:15129/play/Premier%20Sport%203.m3u8
+#EXTINF:-1 tvg-name="波兰Eleven Sports" tvg-logo="https://live.fanmingming.com/tv/波兰Eleven Sports.png" group-title="体育",波兰Eleven Sports
+http://193.24.244.60:1001/udp/239.254.4.221:6060
+#EXTINF:-1 tvg-name="波兰Eleven Sports 2" tvg-logo="https://live.fanmingming.com/tv/波兰Eleven Sports 2.png" group-title="体育",波兰Eleven Sports 2
+http://193.24.244.60:1001/udp/239.254.4.220:6060
+#EXTINF:-1 tvg-name="波兰Eleven Sports 3" tvg-logo="https://live.fanmingming.com/tv/波兰Eleven Sports 3.png" group-title="体育",波兰Eleven Sports 3
+http://193.24.244.60:1001/udp/239.254.4.219:6060
+#EXTINF:-1 tvg-name="波兰Eleven Sports 4" tvg-logo="https://live.fanmingming.com/tv/波兰Eleven Sports 4.png" group-title="体育",波兰Eleven Sports 4
+http://193.24.244.60:1001/udp/239.254.4.216:6060
+#EXTINF:-1 tvg-name="波兰Polsat Sport" tvg-logo="https://live.fanmingming.com/tv/波兰Polsat Sport.png" group-title="体育",波兰Polsat Sport
+http://193.24.244.60:1001/udp/239.254.2.8:6060
+#EXTINF:-1 tvg-name="波兰Polsat Sport 2" tvg-logo="https://live.fanmingming.com/tv/波兰Polsat Sport 2.png" group-title="体育",波兰Polsat Sport 2
+http://193.24.244.60:1001/udp/239.254.2.9:6060
+#EXTINF:-1 tvg-name="波兰Polsat Sport 3" tvg-logo="https://live.fanmingming.com/tv/波兰Polsat Sport 3.png" group-title="体育",波兰Polsat Sport 3
+http://193.24.244.60:1001/udp/239.254.2.5:6060
+#EXTINF:-1 tvg-name="波兰Polsat Sport Fight" tvg-logo="https://live.fanmingming.com/tv/波兰Polsat Sport Fight.png" group-title="体育",波兰Polsat Sport Fight
+http://193.24.244.60:1001/udp/239.254.2.29:6060
+#EXTINF:-1 tvg-name="波兰Canal + Sport" tvg-logo="https://live.fanmingming.com/tv/波兰Canal + Sport.png" group-title="体育",波兰Canal + Sport
+http://193.24.244.60:1001/udp/239.254.1.7:6060
+#EXTINF:-1 tvg-name="波兰Canal + Sport 2" tvg-logo="https://live.fanmingming.com/tv/波兰Canal + Sport 2.png" group-title="体育",波兰Canal + Sport 2
+http://193.24.244.60:1001/udp/239.254.1.8:6060
+#EXTINF:-1 tvg-name="波兰Canal + Sport 3" tvg-logo="https://live.fanmingming.com/tv/波兰Canal + Sport 3.png" group-title="体育",波兰Canal + Sport 3
+http://193.24.244.60:1001/udp/239.254.1.163:6060
+#EXTINF:-1 tvg-name="波兰Canal + Sport 4" tvg-logo="https://live.fanmingming.com/tv/波兰Canal + Sport 4.png" group-title="体育",波兰Canal + Sport 4
+http://193.24.244.60:1001/udp/239.254.1.242:6060
+#EXTINF:-1 tvg-name="波兰Canal + Sport 5" tvg-logo="https://live.fanmingming.com/tv/波兰Canal + Sport 5.png" group-title="体育",波兰Canal + Sport 5
+http://193.24.244.60:1001/udp/239.254.1.15:6060
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="综合",CHC动作电影
-http://dsm.ikun.hn.cn:9981/stream/channelid/750230923?profile=pass
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="综合",CHC家庭影院
-http://dsm.ikun.hn.cn:9981/stream/channelid/921606887?profile=pass
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.173:5140
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="综合",CHC影迷电影
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="综合",五星体育
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="综合",武术世界
@@ -375,14 +409,10 @@ https://tv.iill.top/4gtv/4gtv-live105
 http://de2.mirror-tv.net:80/nickelodeon-hd/tracks-v1a1a2a3/mono.m3u8?token=cy5g5hwf_1vda
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.com/tv/CN卡通.png" group-title="综合",CN卡通
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CN卡通 波兰" tvg-logo="https://live.fanmingming.com/tv/CN卡通 波兰.png" group-title="综合",CN卡通 波兰
-http://195.46.37.135:7088/udp/239.254.5.48:6060
 #EXTINF:-1 tvg-name="CN卡通 瑞士" tvg-logo="https://live.fanmingming.com/tv/CN卡通 瑞士.png" group-title="综合",CN卡通 瑞士
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://live.fanmingming.com/tv/BOOMERANG.png" group-title="综合",BOOMERANG
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Cartoonito 波兰" tvg-logo="https://live.fanmingming.com/tv/Cartoonito 波兰.png" group-title="综合",Cartoonito 波兰
-http://195.46.37.135:7088/udp/239.254.5.47:6060
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://live.fanmingming.com/tv/COMEDY CENTRAL.png" group-title="综合",COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="COMEDY CENTRAL 瑞士" tvg-logo="https://live.fanmingming.com/tv/COMEDY CENTRAL 瑞士.png" group-title="综合",COMEDY CENTRAL 瑞士
@@ -412,9 +442,7 @@ https://tv.iill.top/4gtv/4gtv-live208
 #EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://live.fanmingming.com/tv/Love Nature 4K.png" group-title="综合",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="花花公子 欧洲16+" tvg-logo="https://live.fanmingming.com/tv/花花公子 欧洲16+.png" group-title="综合",花花公子 欧洲16+
-http://213.192.12.185:8082/play/Playboy%20TV.m3u8
-#EXTINF:-1 tvg-name="花花公子 欧洲16+" tvg-logo="https://live.fanmingming.com/tv/花花公子 欧洲16+.png" group-title="综合",花花公子 欧洲16+
-http://195.46.37.135:7088/udp/239.254.4.227:6060
+http://193.24.244.60:1001/udp/239.254.4.227:6060
 #EXTINF:-1 tvg-name="花花公子 拉美18+" tvg-logo="https://live.fanmingming.com/tv/花花公子 拉美18+.png" group-title="综合",花花公子 拉美18+
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="法国FTV" tvg-logo="https://live.fanmingming.com/tv/法国FTV.png" group-title="综合",法国FTV
@@ -530,7 +558,7 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011523
 #EXTINF:-1 tvg-name="晴彩少年" tvg-logo="https://live.fanmingming.com/tv/晴彩少年.png" group-title="咪视界",晴彩少年
 http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011525
 #EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩竞技.png" group-title="咪视界",晴彩竞技
-http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
+http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011521
 #EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩竞技.png" group-title="咪视界",晴彩竞技
 http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011528
 #EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://live.fanmingming.com/tv/晴彩篮球.png" group-title="咪视界",晴彩篮球
@@ -604,6 +632,68 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011519
 #EXTINF:-1 tvg-name="咪视界 36" tvg-logo="https://live.fanmingming.com/tv/咪视界 36.png" group-title="咪视界",咪视界 36
 http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011520
 #EXTINF:-1 tvg-name="咪视界 37" tvg-logo="https://live.fanmingming.com/tv/咪视界 37.png" group-title="咪视界",咪视界 37
-http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011521
+http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
 #EXTINF:-1 tvg-name="咪视界 38" tvg-logo="https://live.fanmingming.com/tv/咪视界 38.png" group-title="咪视界",咪视界 38
 http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
+#EXTINF:-1 tvg-name="有直播的时候才可以看" tvg-logo="https://live.fanmingming.com/tv/有直播的时候才可以看.png" group-title="按当天比赛时间",有直播的时候才可以看
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="NBA 01" tvg-logo="https://live.fanmingming.com/tv/NBA 01.png" group-title="按当天比赛时间",NBA 01
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119713.m3u8
+#EXTINF:-1 tvg-name="NBA 02" tvg-logo="https://live.fanmingming.com/tv/NBA 02.png" group-title="按当天比赛时间",NBA 02
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119714.m3u8
+#EXTINF:-1 tvg-name="NBA 03" tvg-logo="https://live.fanmingming.com/tv/NBA 03.png" group-title="按当天比赛时间",NBA 03
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119715.m3u8
+#EXTINF:-1 tvg-name="NBA 04" tvg-logo="https://live.fanmingming.com/tv/NBA 04.png" group-title="按当天比赛时间",NBA 04
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119716.m3u8
+#EXTINF:-1 tvg-name="NBA 05" tvg-logo="https://live.fanmingming.com/tv/NBA 05.png" group-title="按当天比赛时间",NBA 05
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119717.m3u8
+#EXTINF:-1 tvg-name="NBA 06" tvg-logo="https://live.fanmingming.com/tv/NBA 06.png" group-title="按当天比赛时间",NBA 06
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119718.m3u8
+#EXTINF:-1 tvg-name="NBA 07" tvg-logo="https://live.fanmingming.com/tv/NBA 07.png" group-title="按当天比赛时间",NBA 07
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119719.m3u8
+#EXTINF:-1 tvg-name="NBA 08" tvg-logo="https://live.fanmingming.com/tv/NBA 08.png" group-title="按当天比赛时间",NBA 08
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119720.m3u8
+#EXTINF:-1 tvg-name="NBA 09" tvg-logo="https://live.fanmingming.com/tv/NBA 09.png" group-title="按当天比赛时间",NBA 09
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119721.m3u8
+#EXTINF:-1 tvg-name="NBA 10" tvg-logo="https://live.fanmingming.com/tv/NBA 10.png" group-title="按当天比赛时间",NBA 10
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119722.m3u8
+#EXTINF:-1 tvg-name="NBA 11" tvg-logo="https://live.fanmingming.com/tv/NBA 11.png" group-title="按当天比赛时间",NBA 11
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119723.m3u8
+#EXTINF:-1 tvg-name="NBA 12" tvg-logo="https://live.fanmingming.com/tv/NBA 12.png" group-title="按当天比赛时间",NBA 12
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119724.m3u8
+#EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://live.fanmingming.com/tv/NBA 13.png" group-title="按当天比赛时间",NBA 13
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119725.m3u8
+#EXTINF:-1 tvg-name="NBA 14" tvg-logo="https://live.fanmingming.com/tv/NBA 14.png" group-title="按当天比赛时间",NBA 14
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119726.m3u8
+#EXTINF:-1 tvg-name="NBA 15" tvg-logo="https://live.fanmingming.com/tv/NBA 15.png" group-title="按当天比赛时间",NBA 15
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119727.m3u8
+#EXTINF:-1 tvg-name="NBA 16" tvg-logo="https://live.fanmingming.com/tv/NBA 16.png" group-title="按当天比赛时间",NBA 16
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119728.m3u8
+#EXTINF:-1 tvg-name="NBA 17" tvg-logo="https://live.fanmingming.com/tv/NBA 17.png" group-title="按当天比赛时间",NBA 17
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119729.m3u8
+#EXTINF:-1 tvg-name="NBA 18" tvg-logo="https://live.fanmingming.com/tv/NBA 18.png" group-title="按当天比赛时间",NBA 18
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119730.m3u8
+#EXTINF:-1 tvg-name="NBA 19" tvg-logo="https://live.fanmingming.com/tv/NBA 19.png" group-title="按当天比赛时间",NBA 19
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119731.m3u8
+#EXTINF:-1 tvg-name="NBA 20" tvg-logo="https://live.fanmingming.com/tv/NBA 20.png" group-title="按当天比赛时间",NBA 20
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119732.m3u8
+#EXTINF:-1 tvg-name="NBA 21" tvg-logo="https://live.fanmingming.com/tv/NBA 21.png" group-title="按当天比赛时间",NBA 21
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119733.m3u8
+#EXTINF:-1 tvg-name="NBA 22" tvg-logo="https://live.fanmingming.com/tv/NBA 22.png" group-title="按当天比赛时间",NBA 22
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119734.m3u8
+#EXTINF:-1 tvg-name="NBA 23" tvg-logo="https://live.fanmingming.com/tv/NBA 23.png" group-title="按当天比赛时间",NBA 23
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119735.m3u8
+#EXTINF:-1 tvg-name="NBA 24" tvg-logo="https://live.fanmingming.com/tv/NBA 24.png" group-title="按当天比赛时间",NBA 24
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119736.m3u8
+#EXTINF:-1 tvg-name="NBA 25" tvg-logo="https://live.fanmingming.com/tv/NBA 25.png" group-title="按当天比赛时间",NBA 25
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119737.m3u8
+#EXTINF:-1 tvg-name="NBA 26" tvg-logo="https://live.fanmingming.com/tv/NBA 26.png" group-title="按当天比赛时间",NBA 26
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119738.m3u8
+#EXTINF:-1 tvg-name="NBA 27" tvg-logo="https://live.fanmingming.com/tv/NBA 27.png" group-title="按当天比赛时间",NBA 27
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119739.m3u8
+#EXTINF:-1 tvg-name="NBA 28" tvg-logo="https://live.fanmingming.com/tv/NBA 28.png" group-title="按当天比赛时间",NBA 28
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119740.m3u8
+#EXTINF:-1 tvg-name="NBA 29" tvg-logo="https://live.fanmingming.com/tv/NBA 29.png" group-title="按当天比赛时间",NBA 29
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119741.m3u8
+#EXTINF:-1 tvg-name="NBA 30" tvg-logo="https://live.fanmingming.com/tv/NBA 30.png" group-title="按当天比赛时间",NBA 30
+http://primestreams.tv:826/live/mikes2sweet/ms291122/119742.m3u8
