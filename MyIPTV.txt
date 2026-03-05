@@ -17,8 +17,6 @@ CCTV14,http://119.123.176.249:8086/hls/15/index.m3u8
 CCTV15,http://119.123.176.249:8086/hls/16/index.m3u8
 CCTV16,http://119.123.176.249:8086/hls/17/index.m3u8
 CCTV17,http://154.17.19.44:7088/udp/239.10.0.244:1025
-CCTV4K,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=cctv4k
-CCTV8K,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=cctv8k
 CCTV世界地理,http://154.17.19.44:7088/udp/239.11.0.63:1025
 CCTV兵器科技,http://154.17.19.44:7088/udp/239.11.0.57:1025
 CCTV卫生健康,http://154.17.19.44:7088/udp/239.11.0.185:1025
@@ -32,15 +30,15 @@ CCTV风云剧场,http://154.17.19.44:7088/udp/239.11.0.65:1025
 CCTV风云足球,http://154.17.19.44:7088/udp/239.11.0.59:1025
 CCTV高尔夫网球,http://154.17.19.44:7088/udp/239.11.0.61:1025
 CCTV风云音乐,http://154.17.19.44:7088/udp/239.11.0.68:1025
-CETV1,http://154.17.19.44:7088/udp/239.10.0.223:1025
-CETV4,http://154.17.19.44:7088/udp/239.11.0.176:1025
-CETV早期教育,http://154.17.19.44:7088/udp/239.11.0.100:1025
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN俄语,https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 CGTN法语,https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN西语,https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CETV1,http://154.17.19.44:7088/udp/239.10.0.223:1025
+CETV4,http://154.17.19.44:7088/udp/239.11.0.176:1025
+CETV早期教育,http://154.17.19.44:7088/udp/239.11.0.100:1025
 
 卫视,#genre#
 广东卫视,http://119.123.176.249:8086/hls/44/index.m3u8
@@ -197,13 +195,11 @@ CHC影迷电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-华龙洋片,https://tv.iill.top/ofiii/litv-xinchuang02
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-好莱坞电影,https://hls.iill.top/api/Hollywood-Movie/index.m3u8
 Star Movies亚洲,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226469/index.m3u8
 AXN亚洲,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226429/index.m3u8
 HBO亚洲,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226423/index.m3u8
