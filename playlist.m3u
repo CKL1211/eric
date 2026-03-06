@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml.gz"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://119.123.176.249:8086/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
@@ -66,13 +66,15 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视",CGTN记录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
-https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
-https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
-https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
-https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN财经" tvg-logo="https://live.fanmingming.com/tv/CGTN财经.png" group-title="央视",CGTN财经
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
 http://154.17.19.44:7088/udp/239.10.0.223:1025
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视",CETV4
@@ -389,18 +391,22 @@ http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 #EXTINF:-1 tvg-name="Cinemax经典" tvg-logo="https://live.fanmingming.com/tv/Cinemax经典.png" group-title="综合",Cinemax经典
 http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="美国ION TV" tvg-logo="https://live.fanmingming.com/tv/美国ION TV.png" group-title="综合",美国ION TV
+https://b54ddbfc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0lPTl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="猫和老鼠轮播" tvg-logo="https://live.fanmingming.com/tv/猫和老鼠轮播.png" group-title="综合",猫和老鼠轮播
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="4GTV经典动画轮播" tvg-logo="https://live.fanmingming.com/tv/4GTV经典动画轮播.png" group-title="综合",4GTV经典动画轮播
-https://tv.iill.top/4gtv/4gtv-live022
+http://tv.iill.top/4gtv/4gtv-live022
 #EXTINF:-1 tvg-name="尼克少儿" tvg-logo="https://live.fanmingming.com/tv/尼克少儿.png" group-title="综合",尼克少儿
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="尼克少儿 台湾" tvg-logo="https://live.fanmingming.com/tv/尼克少儿 台湾.png" group-title="综合",尼克少儿 台湾
-https://tv.iill.top/4gtv/4gtv-live105
+http://tv.iill.top/4gtv/4gtv-live105
 #EXTINF:-1 tvg-name="尼克少儿 俄罗斯" tvg-logo="https://live.fanmingming.com/tv/尼克少儿 俄罗斯.png" group-title="综合",尼克少儿 俄罗斯
 http://de2.mirror-tv.net:80/nickelodeon-hd/tracks-v1a1a2a3/mono.m3u8?token=cy5g5hwf_1vda
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.com/tv/CN卡通.png" group-title="综合",CN卡通
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="CN卡通 捷克" tvg-logo="https://live.fanmingming.com/tv/CN卡通 捷克.png" group-title="综合",CN卡通 捷克
+https://estreams.tv.nej.cz/dash/CH_CARTOON_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-name="CN卡通 瑞士" tvg-logo="https://live.fanmingming.com/tv/CN卡通 瑞士.png" group-title="综合",CN卡通 瑞士
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://live.fanmingming.com/tv/BOOMERANG.png" group-title="综合",BOOMERANG
@@ -432,7 +438,7 @@ http://213.192.12.185:8082/play/Nat%20Geo%20Wild%20HD.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/Love Nature.png" group-title="综合",Love Nature
 https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
 #EXTINF:-1 tvg-name="Love Nature 台湾" tvg-logo="https://live.fanmingming.com/tv/Love Nature 台湾.png" group-title="综合",Love Nature 台湾
-https://tv.iill.top/4gtv/4gtv-live208
+http://tv.iill.top/4gtv/4gtv-live208
 #EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://live.fanmingming.com/tv/Love Nature 4K.png" group-title="综合",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="花花公子 欧洲16+" tvg-logo="https://live.fanmingming.com/tv/花花公子 欧洲16+.png" group-title="综合",花花公子 欧洲16+
@@ -450,7 +456,7 @@ https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="日漫英配" tvg-logo="https://live.fanmingming.com/tv/日漫英配.png" group-title="综合",日漫英配
 https://aka-live1050.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="新闻",中天新闻
-https://tv.iill.top/4gtv/4gtv-4gtv009
+http://tv.iill.top/4gtv/4gtv-4gtv009
 #EXTINF:-1 tvg-name="英国BBC新闻" tvg-logo="https://live.fanmingming.com/tv/英国BBC新闻.png" group-title="新闻",英国BBC新闻
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="英国BBC新闻 美国版" tvg-logo="https://live.fanmingming.com/tv/英国BBC新闻 美国版.png" group-title="新闻",英国BBC新闻 美国版
@@ -689,6 +695,66 @@ http://primestreams.tv:826/mikes2sweet/ms291122/119740
 http://primestreams.tv:826/mikes2sweet/ms291122/119741
 #EXTINF:-1 tvg-name="NBA 30" tvg-logo="https://live.fanmingming.com/tv/NBA 30.png" group-title="美国东部时间 UTC+4",NBA 30
 http://primestreams.tv:826/mikes2sweet/ms291122/119742
+#EXTINF:-1 tvg-name="亚特兰大老鹰" tvg-logo="https://live.fanmingming.com/tv/亚特兰大老鹰.png" group-title="主队有比赛才能看",亚特兰大老鹰
+http://primestreams.tv:826/mikes2sweet/ms291122/102109
+#EXTINF:-1 tvg-name="波士顿凯尔特人" tvg-logo="https://live.fanmingming.com/tv/波士顿凯尔特人.png" group-title="主队有比赛才能看",波士顿凯尔特人
+http://primestreams.tv:826/mikes2sweet/ms291122/102110
+#EXTINF:-1 tvg-name="布鲁克林篮网" tvg-logo="https://live.fanmingming.com/tv/布鲁克林篮网.png" group-title="主队有比赛才能看",布鲁克林篮网
+http://primestreams.tv:826/mikes2sweet/ms291122/102111
+#EXTINF:-1 tvg-name="夏洛特黄蜂" tvg-logo="https://live.fanmingming.com/tv/夏洛特黄蜂.png" group-title="主队有比赛才能看",夏洛特黄蜂
+http://primestreams.tv:826/mikes2sweet/ms291122/102112
+#EXTINF:-1 tvg-name="芝加哥公牛" tvg-logo="https://live.fanmingming.com/tv/芝加哥公牛.png" group-title="主队有比赛才能看",芝加哥公牛
+http://primestreams.tv:826/mikes2sweet/ms291122/102113
+#EXTINF:-1 tvg-name="克利夫兰骑士" tvg-logo="https://live.fanmingming.com/tv/克利夫兰骑士.png" group-title="主队有比赛才能看",克利夫兰骑士
+http://primestreams.tv:826/mikes2sweet/ms291122/102114
+#EXTINF:-1 tvg-name="达拉斯独行侠" tvg-logo="https://live.fanmingming.com/tv/达拉斯独行侠.png" group-title="主队有比赛才能看",达拉斯独行侠
+http://primestreams.tv:826/mikes2sweet/ms291122/102115
+#EXTINF:-1 tvg-name="丹佛掘金" tvg-logo="https://live.fanmingming.com/tv/丹佛掘金.png" group-title="主队有比赛才能看",丹佛掘金
+http://primestreams.tv:826/mikes2sweet/ms291122/102116
+#EXTINF:-1 tvg-name="底特律活塞" tvg-logo="https://live.fanmingming.com/tv/底特律活塞.png" group-title="主队有比赛才能看",底特律活塞
+http://primestreams.tv:826/mikes2sweet/ms291122/102117
+#EXTINF:-1 tvg-name="金州勇士" tvg-logo="https://live.fanmingming.com/tv/金州勇士.png" group-title="主队有比赛才能看",金州勇士
+http://primestreams.tv:826/mikes2sweet/ms291122/102118
+#EXTINF:-1 tvg-name="休斯顿火箭" tvg-logo="https://live.fanmingming.com/tv/休斯顿火箭.png" group-title="主队有比赛才能看",休斯顿火箭
+http://primestreams.tv:826/mikes2sweet/ms291122/102119
+#EXTINF:-1 tvg-name="印第安纳步行者" tvg-logo="https://live.fanmingming.com/tv/印第安纳步行者.png" group-title="主队有比赛才能看",印第安纳步行者
+http://primestreams.tv:826/mikes2sweet/ms291122/102120
+#EXTINF:-1 tvg-name="洛杉矶快船" tvg-logo="https://live.fanmingming.com/tv/洛杉矶快船.png" group-title="主队有比赛才能看",洛杉矶快船
+http://primestreams.tv:826/mikes2sweet/ms291122/102121
+#EXTINF:-1 tvg-name="洛杉矶湖人" tvg-logo="https://live.fanmingming.com/tv/洛杉矶湖人.png" group-title="主队有比赛才能看",洛杉矶湖人
+http://primestreams.tv:826/mikes2sweet/ms291122/102122
+#EXTINF:-1 tvg-name="孟菲斯灰熊" tvg-logo="https://live.fanmingming.com/tv/孟菲斯灰熊.png" group-title="主队有比赛才能看",孟菲斯灰熊
+http://primestreams.tv:826/mikes2sweet/ms291122/102123
+#EXTINF:-1 tvg-name="迈阿密热火" tvg-logo="https://live.fanmingming.com/tv/迈阿密热火.png" group-title="主队有比赛才能看",迈阿密热火
+http://primestreams.tv:826/mikes2sweet/ms291122/102124
+#EXTINF:-1 tvg-name="密尔沃基雄鹿" tvg-logo="https://live.fanmingming.com/tv/密尔沃基雄鹿.png" group-title="主队有比赛才能看",密尔沃基雄鹿
+http://primestreams.tv:826/mikes2sweet/ms291122/102125
+#EXTINF:-1 tvg-name="明尼苏达森林狼" tvg-logo="https://live.fanmingming.com/tv/明尼苏达森林狼.png" group-title="主队有比赛才能看",明尼苏达森林狼
+http://primestreams.tv:826/mikes2sweet/ms291122/102106
+#EXTINF:-1 tvg-name="新奥尔良鹈鹕" tvg-logo="https://live.fanmingming.com/tv/新奥尔良鹈鹕.png" group-title="主队有比赛才能看",新奥尔良鹈鹕
+http://primestreams.tv:826/mikes2sweet/ms291122/102107
+#EXTINF:-1 tvg-name="纽约尼克斯" tvg-logo="https://live.fanmingming.com/tv/纽约尼克斯.png" group-title="主队有比赛才能看",纽约尼克斯
+http://primestreams.tv:826/mikes2sweet/ms291122/102126
+#EXTINF:-1 tvg-name="俄克拉荷马城雷霆" tvg-logo="https://live.fanmingming.com/tv/俄克拉荷马城雷霆.png" group-title="主队有比赛才能看",俄克拉荷马城雷霆
+http://primestreams.tv:826/mikes2sweet/ms291122/102108
+#EXTINF:-1 tvg-name="奥兰多魔术" tvg-logo="https://live.fanmingming.com/tv/奥兰多魔术.png" group-title="主队有比赛才能看",奥兰多魔术
+http://primestreams.tv:826/mikes2sweet/ms291122/102127
+#EXTINF:-1 tvg-name="费城76人" tvg-logo="https://live.fanmingming.com/tv/费城76人.png" group-title="主队有比赛才能看",费城76人
+http://primestreams.tv:826/mikes2sweet/ms291122/102128
+#EXTINF:-1 tvg-name="菲尼克斯太阳" tvg-logo="https://live.fanmingming.com/tv/菲尼克斯太阳.png" group-title="主队有比赛才能看",菲尼克斯太阳
+http://primestreams.tv:826/mikes2sweet/ms291122/102129
+#EXTINF:-1 tvg-name="波特兰开拓者" tvg-logo="https://live.fanmingming.com/tv/波特兰开拓者.png" group-title="主队有比赛才能看",波特兰开拓者
+http://primestreams.tv:826/mikes2sweet/ms291122/102130
+#EXTINF:-1 tvg-name="萨克拉门托国王" tvg-logo="https://live.fanmingming.com/tv/萨克拉门托国王.png" group-title="主队有比赛才能看",萨克拉门托国王
+http://primestreams.tv:826/mikes2sweet/ms291122/102131
+#EXTINF:-1 tvg-name="圣安东尼奥马刺" tvg-logo="https://live.fanmingming.com/tv/圣安东尼奥马刺.png" group-title="主队有比赛才能看",圣安东尼奥马刺
+http://primestreams.tv:826/mikes2sweet/ms291122/102132
+#EXTINF:-1 tvg-name="多伦多猛龙" tvg-logo="https://live.fanmingming.com/tv/多伦多猛龙.png" group-title="主队有比赛才能看",多伦多猛龙
+http://primestreams.tv:826/mikes2sweet/ms291122/102133
+#EXTINF:-1 tvg-name="犹他爵士" tvg-logo="https://live.fanmingming.com/tv/犹他爵士.png" group-title="主队有比赛才能看",犹他爵士
+http://primestreams.tv:826/mikes2sweet/ms291122/102134
+#EXTINF:-1 tvg-name="华盛顿奇才" tvg-logo="https://live.fanmingming.com/tv/华盛顿奇才.png" group-title="主队有比赛才能看",华盛顿奇才
+http://primestreams.tv:826/mikes2sweet/ms291122/102135
 #EXTINF:-1 tvg-name="德国Das Erste" tvg-logo="https://live.fanmingming.com/tv/德国Das Erste.png" group-title="ARD  需要德国ip",德国Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="德国BR Fernsehen - Nord" tvg-logo="https://live.fanmingming.com/tv/德国BR Fernsehen - Nord.png" group-title="ARD  需要德国ip",德国BR Fernsehen - Nord
