@@ -32,10 +32,11 @@ CCTV高尔夫网球,http://154.17.19.44:7088/udp/239.11.0.61:1025
 CCTV风云音乐,http://154.17.19.44:7088/udp/239.11.0.68:1025
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN俄语,https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-CGTN法语,https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN西语,https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN西语,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN财经,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
 CETV1,http://154.17.19.44:7088/udp/239.10.0.223:1025
 CETV4,http://154.17.19.44:7088/udp/239.11.0.176:1025
 CETV早期教育,http://154.17.19.44:7088/udp/239.11.0.100:1025
@@ -208,12 +209,14 @@ HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 Cinemax精选,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 Cinemax经典,http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
+美国ION TV,https://b54ddbfc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0lPTl9ITFM/playlist.m3u8
 猫和老鼠轮播,https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-4GTV经典动画轮播,https://tv.iill.top/4gtv/4gtv-live022
+4GTV经典动画轮播,http://tv.iill.top/4gtv/4gtv-live022
 尼克少儿,http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
-尼克少儿 台湾,https://tv.iill.top/4gtv/4gtv-live105
+尼克少儿 台湾,http://tv.iill.top/4gtv/4gtv-live105
 尼克少儿 俄罗斯,http://de2.mirror-tv.net:80/nickelodeon-hd/tracks-v1a1a2a3/mono.m3u8?token=cy5g5hwf_1vda
 CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+CN卡通 捷克,https://estreams.tv.nej.cz/dash/CH_CARTOON_HD.ism/playlist.mpd
 CN卡通 瑞士,https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 BOOMERANG,http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 COMEDY CENTRAL,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
@@ -229,7 +232,7 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 国家地理频道,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226466/index.m3u8
 Nat Geo WILD 捷克,http://213.192.12.185:8082/play/Nat%20Geo%20Wild%20HD.m3u8
 Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
-Love Nature 台湾,https://tv.iill.top/4gtv/4gtv-live208
+Love Nature 台湾,http://tv.iill.top/4gtv/4gtv-live208
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 花花公子 欧洲16+,http://213.192.12.185:8082/play/Playboy%20TV.m3u8
 花花公子 欧洲16+,http://193.24.244.60:1001/udp/239.254.4.227:6060
@@ -240,7 +243,7 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 日漫英配,https://aka-live1050.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
 
 新闻,#genre#
-中天新闻,https://tv.iill.top/4gtv/4gtv-4gtv009
+中天新闻,http://tv.iill.top/4gtv/4gtv-4gtv009
 英国BBC新闻,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 英国BBC新闻 美国版,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 天空新闻,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
@@ -366,6 +369,38 @@ NBA 27,http://primestreams.tv:826/mikes2sweet/ms291122/119739
 NBA 28,http://primestreams.tv:826/mikes2sweet/ms291122/119740
 NBA 29,http://primestreams.tv:826/mikes2sweet/ms291122/119741
 NBA 30,http://primestreams.tv:826/mikes2sweet/ms291122/119742
+
+主队有比赛才能看,#genre#
+亚特兰大老鹰,http://primestreams.tv:826/mikes2sweet/ms291122/102109
+波士顿凯尔特人,http://primestreams.tv:826/mikes2sweet/ms291122/102110
+布鲁克林篮网,http://primestreams.tv:826/mikes2sweet/ms291122/102111
+夏洛特黄蜂,http://primestreams.tv:826/mikes2sweet/ms291122/102112
+芝加哥公牛,http://primestreams.tv:826/mikes2sweet/ms291122/102113
+克利夫兰骑士,http://primestreams.tv:826/mikes2sweet/ms291122/102114
+达拉斯独行侠,http://primestreams.tv:826/mikes2sweet/ms291122/102115
+丹佛掘金,http://primestreams.tv:826/mikes2sweet/ms291122/102116
+底特律活塞,http://primestreams.tv:826/mikes2sweet/ms291122/102117
+金州勇士,http://primestreams.tv:826/mikes2sweet/ms291122/102118
+休斯顿火箭,http://primestreams.tv:826/mikes2sweet/ms291122/102119
+印第安纳步行者,http://primestreams.tv:826/mikes2sweet/ms291122/102120
+洛杉矶快船,http://primestreams.tv:826/mikes2sweet/ms291122/102121
+洛杉矶湖人,http://primestreams.tv:826/mikes2sweet/ms291122/102122
+孟菲斯灰熊,http://primestreams.tv:826/mikes2sweet/ms291122/102123
+迈阿密热火,http://primestreams.tv:826/mikes2sweet/ms291122/102124
+密尔沃基雄鹿,http://primestreams.tv:826/mikes2sweet/ms291122/102125
+明尼苏达森林狼,http://primestreams.tv:826/mikes2sweet/ms291122/102106
+新奥尔良鹈鹕,http://primestreams.tv:826/mikes2sweet/ms291122/102107
+纽约尼克斯,http://primestreams.tv:826/mikes2sweet/ms291122/102126
+俄克拉荷马城雷霆,http://primestreams.tv:826/mikes2sweet/ms291122/102108
+奥兰多魔术,http://primestreams.tv:826/mikes2sweet/ms291122/102127
+费城76人,http://primestreams.tv:826/mikes2sweet/ms291122/102128
+菲尼克斯太阳,http://primestreams.tv:826/mikes2sweet/ms291122/102129
+波特兰开拓者,http://primestreams.tv:826/mikes2sweet/ms291122/102130
+萨克拉门托国王,http://primestreams.tv:826/mikes2sweet/ms291122/102131
+圣安东尼奥马刺,http://primestreams.tv:826/mikes2sweet/ms291122/102132
+多伦多猛龙,http://primestreams.tv:826/mikes2sweet/ms291122/102133
+犹他爵士,http://primestreams.tv:826/mikes2sweet/ms291122/102134
+华盛顿奇才,http://primestreams.tv:826/mikes2sweet/ms291122/102135
 
 ARD  需要德国ip,#genre#
 德国Das Erste,https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
