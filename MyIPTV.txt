@@ -94,7 +94,7 @@ CETV早期教育,http://154.17.19.44:7088/udp/239.11.0.100:1025
 
 香港,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
@@ -425,4 +425,5 @@ ARD  需要德国ip,#genre#
 德国tagesschau24,https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 德国phoenix,https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
  
+
 
