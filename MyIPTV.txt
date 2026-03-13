@@ -104,7 +104,7 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
+娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
@@ -425,6 +425,7 @@ ARD  需要德国ip,#genre#
 德国tagesschau24,https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 德国phoenix,https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
  
+
 
 
 
