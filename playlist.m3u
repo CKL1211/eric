@@ -185,6 +185,10 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://live.fanmingming.com/tv/翡翠剧集台.png" group-title="香港",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.fanmingming.com/tv/华丽翡翠台.png" group-title="香港",华丽翡翠台
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.com/tv/千禧经典台.png" group-title="香港",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.com/tv/NOW新闻.png" group-title="香港",NOW新闻
@@ -195,8 +199,6 @@ https://cdn6.163189.xyz/163189/fhzw
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港台.png" group-title="香港",凤凰香港台
 https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-name="凤凰电影台" tvg-logo="https://live.fanmingming.com/tv/凤凰电影台.png" group-title="香港",凤凰电影台
-http://www.liyajun.top:7088/udp/239.253.93.81:6247
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="香港",HOY77
 https://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="香港",HOY78
@@ -207,10 +209,10 @@ https://cdn.163189.xyz/163189/rthk31
 https://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="香港",ViuTV
 https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.fanmingming.com/tv/华丽翡翠台.png" group-title="香港",华丽翡翠台
-https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="香港",天映频道
 https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://live.fanmingming.com/tv/天映经典频道.png" group-title="香港",天映经典频道
+http://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 tvg-name="Astro 酷哒哒" tvg-logo="https://live.fanmingming.com/tv/Astro 酷哒哒.png" group-title="香港",Astro 酷哒哒
 https://o11.163189.xyz/stream/live/test/
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://live.fanmingming.com/tv/Astro AOD.png" group-title="香港",Astro AOD
@@ -219,8 +221,6 @@ https://o11.163189.xyz/stream/live/aod/
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://live.fanmingming.com/tv/爱奇艺.png" group-title="香港",爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.com/tv/千禧经典台.png" group-title="香港",千禧经典台
-https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京",北京体育休闲
 http://r.xace.fun:4999/udp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.com/tv/北京国际.png" group-title="北京",北京国际
