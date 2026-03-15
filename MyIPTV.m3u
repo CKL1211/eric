@@ -36,9 +36,9 @@ http://107.150.60.122/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-17HD" tvg-name="CCTV-17HD" tvg-logo="" group-title="央视",CCTV-17HD
 http://107.150.60.122/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K超高清" tvg-name="CCTV-4K超高清" tvg-logo="" group-title="央视",CCTV-4K超高清
-http://107.150.60.122/live/cctv4k.m3u8
+https://www.yangshipin.cn/tv/home?pid=600002264
 #EXTINF:-1 tvg-id="CCTV-8K超高清" tvg-name="CCTV-8K超高清" tvg-logo="" group-title="央视",CCTV-8K超高清
-http://107.150.60.122/live/cctv8k.m3u8
+https://www.yangshipin.cn/tv/home?pid=600156816
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="" group-title="央视",CCTV世界地理
 http://154.17.19.44:7088/udp/239.11.0.63:1025
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="" group-title="央视",CCTV兵器科技
