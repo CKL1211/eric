@@ -17,8 +17,8 @@ CCTV-14HD,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-15HD,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV-16HD,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-17HD,http://107.150.60.122/live/cctv17hd.m3u8
-CCTV-4K超高清,http://107.150.60.122/live/cctv4k.m3u8
-CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
+CCTV-4K超高清,https://www.yangshipin.cn/tv/home?pid=600002264
+CCTV-8K超高清,https://www.yangshipin.cn/tv/home?pid=600156816
 CCTV世界地理,http://154.17.19.44:7088/udp/239.11.0.63:1025
 CCTV兵器科技,http://154.17.19.44:7088/udp/239.11.0.57:1025
 CCTV卫生健康,http://154.17.19.44:7088/udp/239.11.0.185:1025
