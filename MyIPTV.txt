@@ -41,56 +41,6 @@ CETV1,http://154.17.19.44:7088/udp/239.10.0.223:1025
 CETV4,http://154.17.19.44:7088/udp/239.11.0.176:1025
 CETV早期教育,http://154.17.19.44:7088/udp/239.11.0.100:1025
 
-卫视,#genre#
-广东卫视,http://119.123.177.183:8086/hls/44/index.m3u8
-广西卫视,http://119.123.177.183:8086/hls/48/index.m3u8
-海南卫视,http://119.123.177.183:8086/hls/50/index.m3u8
-河南卫视,http://119.123.177.183:8086/hls/52/index.m3u8
-湖北卫视,http://119.123.177.183:8086/hls/54/index.m3u8
-湖南卫视,http://119.123.177.183:8086/hls/55/index.m3u8
-金鹰卡通,http://154.17.19.44:7088/udp/239.11.0.125:1025
-金鹰纪实,http://154.17.19.44:7088/udp/239.10.0.206:1025
-三沙卫视,http://154.17.19.44:7088/udp/239.11.0.177:1025
-海峡卫视,http://wine600.i234.me:4567/rtp/239.61.2.151:8894
-江苏卫视,http://119.123.177.183:8086/hls/59/index.m3u8
-深圳卫视,http://119.123.177.183:8086/hls/79/index.m3u8
-四川卫视,http://119.123.177.183:8086/hls/82/index.m3u8
-重庆卫视,http://119.123.177.183:8086/hls/100/index.m3u8
-浙江卫视,http://119.123.177.183:8086/hls/101/index.m3u8
-浙江卫视,http://119.123.177.183:8086/hls/128/index.m3u8
-东方卫视,http://119.123.177.183:8086/hls/129/index.m3u8
-北京卫视,http://119.123.177.183:8086/hls/131/index.m3u8
-江西卫视,http://119.123.177.183:8086/hls/132/index.m3u8
-山东卫视,http://119.123.177.183:8086/hls/133/index.m3u8
-安徽卫视,http://119.123.177.183:8086/hls/137/index.m3u8
-东南卫视,http://119.123.177.183:8086/hls/161/index.m3u8
-天津卫视,http://119.123.177.183:8086/hls/140/index.m3u8
-贵州卫视,http://119.123.177.183:8086/hls/143/index.m3u8
-河北卫视,http://119.123.177.183:8086/hls/144/index.m3u8
-青海卫视,http://154.17.19.44:7088/udp/239.11.0.179:1025
-山西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
-陕西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
-内蒙古卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140
-兵团卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.221:5140	
-西藏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
-宁夏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
-新疆卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
-
-广东,#genre#
-广东大湾区,http://119.123.177.183:8086/hls/29/index.m3u8
-广东民生,http://119.123.177.183:8086/hls/39/index.m3u8
-广东少儿,http://119.123.177.183:8086/hls/40/index.m3u8
-广东体育,http://119.123.177.183:8086/hls/42/index.m3u8
-广东新闻,http://119.123.177.183:8086/hls/45/index.m3u8
-广东影视,http://119.123.177.183:8086/hls/46/index.m3u8
-广东珠江,http://119.123.177.183:8086/hls/47/index.m3u8
-广东经济,http://119.123.177.183:8086/hls/63/index.m3u8
-嘉佳卡通,http://154.17.19.44:7088/udp/239.10.0.200:1025
-岭南戏曲,http://154.17.19.44:7088/udp/239.11.0.180:1025
-深圳都市,http://119.123.177.183:8086/hls/103/index.m3u8
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 香港,#genre#
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
@@ -110,13 +60,72 @@ HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
-ViuTV,https://cdn.163189.xyz/163189/viu
+ViuTV99,https://cdn.163189.xyz/163189/viu
+VIUTV96,https://cdn10.163189.xyz/stream/163189/viu6/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
+天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
 Astro 酷哒哒,https://o11.163189.xyz/stream/live/test/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+
+
+广东,#genre#
+广东大湾区,http://119.123.177.183:8086/hls/29/index.m3u8
+广东民生,http://119.123.177.183:8086/hls/39/index.m3u8
+广东少儿,http://119.123.177.183:8086/hls/40/index.m3u8
+广东体育,http://119.123.177.183:8086/hls/42/index.m3u8
+广东新闻,http://119.123.177.183:8086/hls/45/index.m3u8
+广东影视,http://119.123.177.183:8086/hls/46/index.m3u8
+广东珠江,http://119.123.177.183:8086/hls/47/index.m3u8
+广东经济,http://119.123.177.183:8086/hls/63/index.m3u8
+嘉佳卡通,http://154.17.19.44:7088/udp/239.10.0.200:1025
+岭南戏曲,http://154.17.19.44:7088/udp/239.11.0.180:1025
+深圳都市,http://119.123.177.183:8086/hls/103/index.m3u8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+
+
+卫视,#genre#
+广东卫视,http://119.123.177.183:8086/hls/44/index.m3u8
+广西卫视,http://119.123.177.183:8086/hls/48/index.m3u8
+海南卫视,http://119.123.177.183:8086/hls/50/index.m3u8
+河南卫视,http://119.123.177.183:8086/hls/52/index.m3u8
+湖北卫视,http://119.123.177.183:8086/hls/54/index.m3u8
+湖南卫视,http://119.123.177.183:8086/hls/55/index.m3u8
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+三沙卫视,http://154.17.19.44:7088/udp/239.11.0.177:1025
+海峡卫视,http://wine600.i234.me:4567/rtp/239.61.2.151:8894
+江苏卫视,http://119.123.177.183:8086/hls/59/index.m3u8
+苏州卫视4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+深圳卫视,http://119.123.177.183:8086/hls/79/index.m3u8
+四川卫视,http://119.123.177.183:8086/hls/82/index.m3u8
+重庆卫视,http://119.123.177.183:8086/hls/100/index.m3u8
+浙江卫视,http://119.123.177.183:8086/hls/101/index.m3u8
+浙江卫视,http://119.123.177.183:8086/hls/128/index.m3u8
+东方卫视,http://119.123.177.183:8086/hls/129/index.m3u8
+北京卫视,http://119.123.177.183:8086/hls/131/index.m3u8
+江西卫视,http://119.123.177.183:8086/hls/132/index.m3u8
+山东卫视,http://119.123.177.183:8086/hls/133/index.m3u8
+安徽卫视,http://119.123.177.183:8086/hls/137/index.m3u8
+东南卫视,http://119.123.177.183:8086/hls/161/index.m3u8
+天津卫视,http://119.123.177.183:8086/hls/140/index.m3u8
+贵州卫视,http://119.123.177.183:8086/hls/143/index.m3u8
+河北卫视,http://119.123.177.183:8086/hls/144/index.m3u8
+河北卫视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+青海卫视,http://154.17.19.44:7088/udp/239.11.0.179:1025
+山西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
+陕西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
+内蒙古卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140
+兵团卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.221:5140	
+西藏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
+宁夏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
+新疆卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
+金鹰卡通,http://154.17.19.44:7088/udp/239.11.0.125:1025
+金鹰纪实,http://154.17.19.44:7088/udp/239.10.0.206:1025
+
 
 北京,#genre#
 北京体育休闲,http://r.xace.fun:4999/udp/239.3.1.243:8000
@@ -135,61 +144,12 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 北京IPTV淘电影,http://r.xace.fun:4999/udp/239.3.1.250:8001
 北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 
-体育,#genre#
-英超CANAL+ Sport,http://195.146.131.216:3030/play/CANAL%2B%20Sport.m3u8
-英超CANAL+ Sport 4,http://195.146.131.216:3030/play/CANAL%2B%20Sport%204.m3u8
-英超CANAL+ Sport 5,http://195.146.131.216:3030/play/CANAL%2B%20Sport%205.m3u8
-英超CANAL+ Sport 6,http://195.146.131.216:3030/play/CANAL%2B%20Sport%206.m3u8
-英超CANAL+ Sport 7,http://195.146.131.216:3030/play/CANAL%2B%20Sport%207.m3u8
-英超CANAL+ Sport 8,http://195.146.131.216:3030/play/CANAL%2B%20Sport%208.m3u8
-网球CANAL+ Sport 2,http://195.146.131.216:3030/play/CANAL%2B%20Sport%202.m3u8
-网球CANAL+ Sport 3,http://195.146.131.216:3030/play/CANAL%2B%20Sport%203.m3u8
-美国NBAㅤ,http://103.148.44.38:8000/play/a03m/index.m3u8
-美国NBA,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-美国NBC体育,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-美国UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-美国SPEED SPORT 1,https://aka-live1050.delivery.roku.com/63e7c506-7574-46d4-a388-2453864eae36/t2-origin/out/v1/live.m3u8
-欧洲体育1,http://195.146.131.216:3030/play/Eurosport%20HD.m3u8
-欧洲体育2,http://195.146.131.216:3030/play/Eurosport%202%20HD.m3u8
-欧洲体育4K,https://7pal.short.gy/eusport4k
-天空体育主赛事 4K,https://a1xs.vip/2000015
-天空体育F1 4K,https://a1xs.vip/2000016
-奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-捷克Oneplay Sport 1,http://195.146.131.216:3030/play/Oneplay%20Sport%201.m3u8
-捷克Oneplay Sport 2,http://195.146.131.216:3030/play/Oneplay%20Sport%202.m3u8
-捷克Oneplay Sport 3,http://195.146.131.216:3030/play/Oneplay%20Sport%203.m3u8
-捷克Oneplay Sport 4,http://195.146.131.216:3030/play/Oneplay%20Sport%204.m3u8
-捷克Nova Sport 1,http://195.146.131.216:3030/play/Nova%20Sport%201%20HD.m3u8
-捷克Nova Sport 2,http://195.146.131.216:3030/play/Nova%20Sport%202%20HD.m3u8
-捷克Nova Sport 3,http://195.146.131.216:3030/play/Nova%20Sport%203%20HD.m3u8
-捷克Nova Sport 4,http://195.146.131.216:3030/play/Nova%20Sport%204%20HD.m3u8
-捷克Nova Sport 5,http://195.146.131.216:3030/play/Nova%20Sport%205%20HD.m3u8
-捷克Nova Sport 6,http://195.146.131.216:3030/play/Nova%20Sport%206%20HD.m3u8
-捷克体育1台,http://195.146.131.216:3030/play/Sport1.m3u8
-捷克体育2台,http://195.146.131.216:3030/play/Sport2.m3u8
-捷克CT体育台,http://195.146.131.216:3030/play/%C4%8CT%20Sport%20HD.m3u8
-捷克付费体育1台,http://195.146.131.216:3030/play/Premier%20Sport%201.m3u8
-捷克付费体育2台,http://195.146.131.216:3030/play/Premier%20Sport%202.m3u8
-捷克付费体育3台,http://195.146.131.216:3030/play/Premier%20Sport%203.m3u8
-波兰Eleven Sports,http://193.24.244.60:1001/udp/239.254.4.221:6060
-波兰Eleven Sports 2,http://193.24.244.60:1001/udp/239.254.4.220:6060
-波兰Eleven Sports 3,http://193.24.244.60:1001/udp/239.254.4.219:6060
-波兰Eleven Sports 4,http://193.24.244.60:1001/udp/239.254.4.216:6060
-波兰Polsat Sport,http://193.24.244.60:1001/udp/239.254.2.8:6060
-波兰Polsat Sport 2,http://193.24.244.60:1001/udp/239.254.2.9:6060
-波兰Polsat Sport 3,http://193.24.244.60:1001/udp/239.254.2.5:6060
-波兰Polsat Sport Fight,http://193.24.244.60:1001/udp/239.254.2.29:6060
-波兰Canal + Sport,http://193.24.244.60:1001/udp/239.254.1.7:6060
-波兰Canal + Sport 2,http://193.24.244.60:1001/udp/239.254.1.8:6060
-波兰Canal + Sport 3,http://193.24.244.60:1001/udp/239.254.1.163:6060
-波兰Canal + Sport 4,http://193.24.244.60:1001/udp/239.254.1.242:6060
-波兰Canal + Sport 5,http://193.24.244.60:1001/udp/239.254.1.15:6060
 
 综合,#genre#
 CHC动作电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.174:5140
 CHC家庭影院,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.173:5140
 CHC影迷电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
-华数动画电影,http://119.123.176.46:8086/hls/78/index.m3u8
+华数动画电影,http://119.123.177.183:8086/hls/78/index.m3u8
 五星体育,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
 武术世界,http://198980.xyz:8888/udp/239.49.0.205:8000
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -227,19 +187,18 @@ HNK BSP4K,https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc
 Discovery,http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
 探索亚洲频道,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226463/index.m3u8
 Animal lPlanet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
-Animal lPlanet 捷克,http://195.146.131.216:3030/play/Animal%20Planet%20HD.m3u8
+Animal lPlanet 捷克,http://46.36.37.186:33379/play/Animal%20Planet%20HD.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 国家地理频道,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226466/index.m3u8
-Nat Geo WILD 捷克,http://195.146.131.216:3030/play/Nat%20Geo%20Wild%20HD.m3u8
+Nat Geo WILD 捷克,http://46.36.37.186:33379/play/Nat%20Geo%20Wild%20HD.m3u8
 Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
 Love Nature 台湾,http://tv.iill.top/4gtv/4gtv-live208
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-花花公子 欧洲16+,http://193.24.244.60:1001/udp/239.254.4.227:6060
-花花公子 拉美18+,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 法国FTV,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 法国FTV,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LaJ4zAWLyADt-3moyHdZ
 流言终结者,https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
 日漫英配,https://aka-live1050.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
+
 
 新闻,#genre#
 中天新闻,http://tv.iill.top/4gtv/4gtv-4gtv009
@@ -261,35 +220,6 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 卡塔尔Al Jazeera 英文,https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 卡特尔Al Jazeera 阿语,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-音乐,#genre#
-俄罗斯BRIDGE DELUXE,http://194.143.150.123:8080/udp/239.195.5.213:1234
-俄罗斯ЖAPA,http://194.143.150.123:8080/udp/239.195.5.11:1234
-MTV LIVE,http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5g5hwf_1cwe
-美国MTV LIVE,http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
-法国Mezoo Live,http://195.146.131.216:3030/play/Mezzo%20live%20HD.m3u8
-韩国K-POP by CJ ENM,https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
-韩国NEW KPOP,https://d3fo5l6kdk2w79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-to32qiaqd9f4c/live/newid_086/samsung_tvplus/../../../../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-to32qiaqd9f4c/245402ca-64d1-492a-9748-b62d8b0970d7/0.m3u8
-荷兰Sol Música,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-英国Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
-电影背景音乐,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-XITE Hits,https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
-Vevo Pop,https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-Vevo Popㅤ,https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live.m3u8
-Vevo Rock,https://d2qrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
-Vevo Retro Rock,https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-Vevo Country,https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-Vevo Countryㅤ,https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live.m3u8
-Vevo Latino,https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live.m3u8
-Vevo Hip-Hop,https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live.m3u8
-Vevo R&B,https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live.m3u8
-Vevo Reggaeton & Trap,https://aka-live1050.delivery.roku.com/3facddc6-460f-4902-861c-0949fca8e3b6/t2-origin/out/v1/live.m3u8
-Vevo 2K,https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-Vevo 70s,https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-Vevo 70sㅤ,https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live.m3u8
-Vevo 80s,https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-Vevo 80sㅤ,https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live.m3u8
-Vevo 90s,https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-Vevo 90sㅤ,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
 
 咪视界,#genre#
 至臻视界,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000015686
@@ -336,96 +266,94 @@ Vevo 90sㅤ,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987
 咪视界 37,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
 咪视界 38,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
 
-美国东部时间 UTC+4,#genre#
-有直播的时候才可以看,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-NBA 01,http://primestreams.tv:826/mikes2sweet/ms291122/119713
-NBA 02,http://primestreams.tv:826/mikes2sweet/ms291122/119714
-NBA 03,http://primestreams.tv:826/mikes2sweet/ms291122/119715
-NBA 04,http://primestreams.tv:826/mikes2sweet/ms291122/119716
-NBA 05,http://primestreams.tv:826/mikes2sweet/ms291122/119717
-NBA 06,http://primestreams.tv:826/mikes2sweet/ms291122/119718
-NBA 07,http://primestreams.tv:826/mikes2sweet/ms291122/119719
-NBA 08,http://primestreams.tv:826/mikes2sweet/ms291122/119720
-NBA 09,http://primestreams.tv:826/mikes2sweet/ms291122/119721
-NBA 10,http://primestreams.tv:826/mikes2sweet/ms291122/119722
-NBA 11,http://primestreams.tv:826/mikes2sweet/ms291122/119723
-NBA 12,http://primestreams.tv:826/mikes2sweet/ms291122/119724
-NBA 13,http://primestreams.tv:826/mikes2sweet/ms291122/119725
-NBA 14,http://primestreams.tv:826/mikes2sweet/ms291122/119726
-NBA 15,http://primestreams.tv:826/mikes2sweet/ms291122/119727
-NBA 16,http://primestreams.tv:826/mikes2sweet/ms291122/119728
-NBA 17,http://primestreams.tv:826/mikes2sweet/ms291122/119729
-NBA 18,http://primestreams.tv:826/mikes2sweet/ms291122/119730
-NBA 19,http://primestreams.tv:826/mikes2sweet/ms291122/119731
-NBA 20,http://primestreams.tv:826/mikes2sweet/ms291122/119732
-NBA 21,http://primestreams.tv:826/mikes2sweet/ms291122/119733
-NBA 22,http://primestreams.tv:826/mikes2sweet/ms291122/119734
-NBA 23,http://primestreams.tv:826/mikes2sweet/ms291122/119735
-NBA 24,http://primestreams.tv:826/mikes2sweet/ms291122/119736
-NBA 25,http://primestreams.tv:826/mikes2sweet/ms291122/119737
-NBA 26,http://primestreams.tv:826/mikes2sweet/ms291122/119738
-NBA 27,http://primestreams.tv:826/mikes2sweet/ms291122/119739
-NBA 28,http://primestreams.tv:826/mikes2sweet/ms291122/119740
-NBA 29,http://primestreams.tv:826/mikes2sweet/ms291122/119741
-NBA 30,http://primestreams.tv:826/mikes2sweet/ms291122/119742
-
-主队有比赛才能看,#genre#
-亚特兰大老鹰,http://primestreams.tv:826/mikes2sweet/ms291122/102109
-波士顿凯尔特人,http://primestreams.tv:826/mikes2sweet/ms291122/102110
-布鲁克林篮网,http://primestreams.tv:826/mikes2sweet/ms291122/102111
-夏洛特黄蜂,http://primestreams.tv:826/mikes2sweet/ms291122/102112
-芝加哥公牛,http://primestreams.tv:826/mikes2sweet/ms291122/102113
-克利夫兰骑士,http://primestreams.tv:826/mikes2sweet/ms291122/102114
-达拉斯独行侠,http://primestreams.tv:826/mikes2sweet/ms291122/102115
-丹佛掘金,http://primestreams.tv:826/mikes2sweet/ms291122/102116
-底特律活塞,http://primestreams.tv:826/mikes2sweet/ms291122/102117
-金州勇士,http://primestreams.tv:826/mikes2sweet/ms291122/102118
-休斯顿火箭,http://primestreams.tv:826/mikes2sweet/ms291122/102119
-印第安纳步行者,http://primestreams.tv:826/mikes2sweet/ms291122/102120
-洛杉矶快船,http://primestreams.tv:826/mikes2sweet/ms291122/102121
-洛杉矶湖人,http://primestreams.tv:826/mikes2sweet/ms291122/102122
-孟菲斯灰熊,http://primestreams.tv:826/mikes2sweet/ms291122/102123
-迈阿密热火,http://primestreams.tv:826/mikes2sweet/ms291122/102124
-密尔沃基雄鹿,http://primestreams.tv:826/mikes2sweet/ms291122/102125
-明尼苏达森林狼,http://primestreams.tv:826/mikes2sweet/ms291122/102106
-新奥尔良鹈鹕,http://primestreams.tv:826/mikes2sweet/ms291122/102107
-纽约尼克斯,http://primestreams.tv:826/mikes2sweet/ms291122/102126
-俄克拉荷马城雷霆,http://primestreams.tv:826/mikes2sweet/ms291122/102108
-奥兰多魔术,http://primestreams.tv:826/mikes2sweet/ms291122/102127
-费城76人,http://primestreams.tv:826/mikes2sweet/ms291122/102128
-菲尼克斯太阳,http://primestreams.tv:826/mikes2sweet/ms291122/102129
-波特兰开拓者,http://primestreams.tv:826/mikes2sweet/ms291122/102130
-萨克拉门托国王,http://primestreams.tv:826/mikes2sweet/ms291122/102131
-圣安东尼奥马刺,http://primestreams.tv:826/mikes2sweet/ms291122/102132
-多伦多猛龙,http://primestreams.tv:826/mikes2sweet/ms291122/102133
-犹他爵士,http://primestreams.tv:826/mikes2sweet/ms291122/102134
-华盛顿奇才,http://primestreams.tv:826/mikes2sweet/ms291122/102135
-
-ARD  需要德国ip,#genre#
-德国Das Erste,https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-德国BR Fernsehen - Nord,https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-德国BR Fernsehen - Süd,https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-德国NDR,https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-德国hr-fernsehen,http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-德国DRM,https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
-德国NDR Sachsen-Anhalt,https://mdr-live.ard-mcdn.de/mdr/sa/hls/de/master.m3u8
-德国Radio Bremen Fernsehen,https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-德国rbb Berlin,https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
-德国rbb Brandenburg,https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
-德国SR Fernsehen,https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-德国SWR Baden-Württemberg,https://mcdn.swr.de/swr/swrbwd/master.m3u8
-德国SWR Rheinland-Pfalz,https://mcdn.swr.de/swr/swrrpd/master.m3u8
-德国WDR Köln,https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-德国ONE,https://mcdn-one.ard.de/ardone/hls/master.m3u8
-德国ARTR,https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-德国KiKA,https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
-德国3sat,https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-德国ARD alpha,https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-德国tagesschau24,https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
-德国phoenix,https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
- 
+体育,#genre#
+英超CANAL+ Sport,http://46.36.37.186:33379/play/CANAL%2B%20Sport.m3u8
+英超CANAL+ Sport 4,http://46.36.37.186:33379/play/CANAL%2B%20Sport%204.m3u8
+英超CANAL+ Sport 5,http://46.36.37.186:33379/play/CANAL%2B%20Sport%205.m3u8
+英超CANAL+ Sport 6,http://46.36.37.186:33379/play/CANAL%2B%20Sport%206.m3u8
+英超CANAL+ Sport 7,http://46.36.37.186:33379/play/CANAL%2B%20Sport%207.m3u8
+英超CANAL+ Sport 8,http://46.36.37.186:33379/play/CANAL%2B%20Sport%208.m3u8
+网球CANAL+ Sport 2,http://46.36.37.186:33379/play/CANAL%2B%20Sport%202.m3u8
+网球CANAL+ Sport 3,http://46.36.37.186:33379/play/CANAL%2B%20Sport%203.m3u8
+美国NBAㅤ,http://103.148.44.38:8000/play/a03m/index.m3u8
+美国NBA,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+美国NBC体育,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+美国UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+美国SPEED SPORT 1,https://aka-live1050.delivery.roku.com/63e7c506-7574-46d4-a388-2453864eae36/t2-origin/out/v1/live.m3u8
+欧洲体育1,http://46.36.37.186:33379/play/Eurosport%20HD.m3u8
+欧洲体育2,http://46.36.37.186:33379/play/Eurosport%202%20HD.m3u8
+欧洲体育4K,https://7pal.short.gy/eusport4k
+天空体育主赛事 4K,https://7pal.short.gy/SSMEuhd
+天空体育F1 4K,https://7pal.short.gy/SSF1uhd
+奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+捷克Oneplay Sport 1,http://46.36.37.186:33379/play/Oneplay%20Sport%201.m3u8
+捷克Oneplay Sport 2,http://46.36.37.186:33379/play/Oneplay%20Sport%202.m3u8
+捷克Oneplay Sport 3,http://46.36.37.186:33379/play/Oneplay%20Sport%203.m3u8
+捷克Oneplay Sport 4,http://46.36.37.186:33379/play/Oneplay%20Sport%204.m3u8
+捷克Nova Sport 1,http://46.36.37.186:33379/play/Nova%20Sport%201%20HD.m3u8
+捷克Nova Sport 2,http://46.36.37.186:33379/play/Nova%20Sport%202%20HD.m3u8
+捷克Nova Sport 3,http://46.36.37.186:33379/play/Nova%20Sport%203%20HD.m3u8
+捷克Nova Sport 4,http://46.36.37.186:33379/play/Nova%20Sport%204%20HD.m3u8
+捷克Nova Sport 5,http://46.36.37.186:33379/play/Nova%20Sport%205%20HD.m3u8
+捷克Nova Sport 6,http://46.36.37.186:33379/play/Nova%20Sport%206%20HD.m3u8
+捷克体育1台,http://46.36.37.186:33379/play/Sport1.m3u8
+捷克体育2台,http://46.36.37.186:33379/play/Sport2.m3u8
+捷克CT体育台,http://46.36.37.186:33379/play/%C4%8CT%20Sport%20HD.m3u8
+捷克付费体育1台,http://46.36.37.186:33379/play/Premier%20Sport%201.m3u8
+捷克付费体育2台,http://46.36.37.186:33379/play/Premier%20Sport%202.m3u8
+捷克付费体育3台,http://46.36.37.186:33379/play/Premier%20Sport%203.m3u8
+波兰Eleven Sports 1,http://193.24.244.60:1001/udp/239.254.4.221:6060
+波兰Eleven Sports 2,http://193.24.244.60:1001/udp/239.254.4.220:6060
+波兰Eleven Sports 3,http://193.24.244.60:1001/udp/239.254.4.219:6060
+波兰Eleven Sports 4,http://193.24.244.60:1001/udp/239.254.4.216:6060
+波兰Polsat Sport 1,http://193.24.244.60:1001/udp/239.254.2.8:6060
+波兰Polsat Sport 2,http://193.24.244.60:1001/udp/239.254.2.9:6060
+波兰Polsat Sport 3,http://193.24.244.60:1001/udp/239.254.2.5:6060
+波兰Polsat Sport Fight,http://193.24.244.60:1001/udp/239.254.2.29:6060
+波兰CANAL+ Sport,http://193.24.244.60:1001/udp/239.254.1.7:6060
+波兰CANAL+ Sport 2,http://193.24.244.60:1001/udp/239.254.1.8:6060
+波兰CANAL+ Sport 3,http://193.24.244.60:1001/udp/239.254.1.163:6060
+波兰CANAL+ Sport 4,http://193.24.244.60:1001/udp/239.254.1.242:6060
+波兰CANAL+ Sport 5,http://193.24.244.60:1001/udp/239.254.1.15:6060
+哥伦比亚ESPN,http://179.1.199.50:9000/play/a07j
+哥伦比亚ESPN 2,http://179.1.199.50:9000/play/a08f
+哥伦比亚ESPN 3,http://179.1.199.50:9000/play/a02r
+哥伦比亚ESPN 4,http://179.1.199.50:9000/play/a02q
+哥伦比亚ESPN 5,http://179.1.199.50:9000/play/a06r
+哥伦比亚ESPN 6,http://179.1.199.50:9000/play/a06q
+哥伦比亚ESPN 7,http://179.1.199.50:9000/play/a09g
+哥伦比亚ESPN Premium,http://179.1.199.50:9000/play/a08o
 
 
+音乐,#genre#
+俄罗斯BRIDGE DELUXE,http://194.143.150.123:8080/udp/239.195.5.213:1234
+俄罗斯ЖAPA,http://194.143.150.123:8080/udp/239.195.5.11:1234
+MTV LIVE,http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5g5hwf_1cwe
+美国MTV LIVE,http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
+法国Mezoo Live,http://46.36.37.186:33379/play/Mezzo%20live%20HD.m3u8
+韩国K-POP by CJ ENM,https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
+韩国NEW KPOP,https://jmp2.uk/stvp-GB17000088V
+荷兰Sol Música,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+英国Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+电影背景音乐,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+XITE Hits,https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+Vevo Pop,https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+Vevo Popㅤ,https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live.m3u8
+Vevo Rock,https://d2qrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+Vevo Retro Rock,https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+Vevo Country,https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+Vevo Countryㅤ,https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live.m3u8
+Vevo Latino,https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live.m3u8
+Vevo Hip-Hop,https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live.m3u8
+Vevo R&B,https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live.m3u8
+Vevo Reggaeton & Trap,https://aka-live1050.delivery.roku.com/3facddc6-460f-4902-861c-0949fca8e3b6/t2-origin/out/v1/live.m3u8
+Vevo 2K,https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+Vevo 70s,https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+Vevo 70sㅤ,https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live.m3u8
+Vevo 80s,https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+Vevo 80sㅤ,https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live.m3u8
+Vevo 90s,https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+Vevo 90sㅤ,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
 
 
 
