@@ -60,8 +60,8 @@ HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
-ViuTV99,https://cdn.163189.xyz/163189/viu
-VIUTV96,https://cdn10.163189.xyz/stream/163189/viu6/
+ViuTV,https://cdn.163189.xyz/163189/viu
+VIUTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
@@ -103,7 +103,7 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 深圳卫视,http://119.123.177.183:8086/hls/79/index.m3u8
 四川卫视,http://119.123.177.183:8086/hls/82/index.m3u8
 重庆卫视,http://119.123.177.183:8086/hls/100/index.m3u8
-浙江卫视,http://119.123.177.183:8086/hls/101/index.m3u8
+浙江卫视,http://11.123.177.183:8086/hls/101/index.m3u8
 浙江卫视,http://119.123.177.183:8086/hls/128/index.m3u8
 东方卫视,http://119.123.177.183:8086/hls/129/index.m3u8
 北京卫视,http://119.123.177.183:8086/hls/131/index.m3u8
