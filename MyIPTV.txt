@@ -1,21 +1,21 @@
 央视,#genre#
-CCTV1,http://119.123.178.74:8086/hls/2/index.m3u8
-CCTV2,http://119.123.178.74:8086/hls/3/index.m3u8
-CCTV3,http://119.123.178.74:8086/hls/4/index.m3u8
-CCTV4,http://119.123.178.74:8086/hls/5/index.m3u8
-CCTV5,http://119.123.178.74:8086/hls/6/index.m3u8
-CCTV5+,http://119.123.178.74:8086/hls/252/index.m3u8
-CCTV6,http://119.123.178.74:8086/hls/7/index.m3u8
-CCTV7,http://119.123.178.74:8086/hls/8/index.m3u8
-CCTV8,http://119.123.178.74:8086/hls/9/index.m3u8
-CCTV9,http://119.123.178.74:8086/hls/10/index.m3u8
-CCTV10,http://119.123.178.74:8086/hls/11/index.m3u8
-CCTV11,http://119.123.178.74:8086/hls/12/index.m3u8
-CCTV12,http://119.123.178.74:8086/hls/13/index.m3u8
-CCTV13,http://119.123.178.74:8086/hls/14/index.m3u8
-CCTV14,http://119.123.178.74:8086/hls/15/index.m3u8
-CCTV15,http://119.123.178.74:8086/hls/16/index.m3u8
-CCTV16,http://119.123.178.74:8086/hls/17/index.m3u8
+CCTV1,http://119.123.176.241:8086/hls/2/index.m3u8
+CCTV2,http://119.123.176.241:8086/hls/3/index.m3u8
+CCTV3,http://119.123.176.241:8086/hls/4/index.m3u8
+CCTV4,http://119.123.176.241:8086/hls/5/index.m3u8
+CCTV5,http://119.123.176.241:8086/hls/6/index.m3u8
+CCTV5+,http://119.123.176.241:8086/hls/252/index.m3u8
+CCTV6,http://119.123.176.241:8086/hls/7/index.m3u8
+CCTV7,http://119.123.176.241:8086/hls/8/index.m3u8
+CCTV8,http://119.123.176.241:8086/hls/9/index.m3u8
+CCTV9,http://119.123.176.241:8086/hls/10/index.m3u8
+CCTV10,http://119.123.176.241:8086/hls/11/index.m3u8
+CCTV11,http://119.123.176.241:8086/hls/12/index.m3u8
+CCTV12,http://119.123.176.241:8086/hls/13/index.m3u8
+CCTV13,http://119.123.176.241:8086/hls/14/index.m3u8
+CCTV14,http://119.123.176.241:8086/hls/15/index.m3u8
+CCTV15,http://119.123.176.241:8086/hls/16/index.m3u8
+CCTV16,http://119.123.176.241:8086/hls/17/index.m3u8
 CCTV17,http://154.17.19.44:7088/udp/239.10.0.244:1025
 CCTV世界地理,http://154.17.19.44:7088/udp/239.11.0.63:1025
 CCTV兵器科技,http://154.17.19.44:7088/udp/239.11.0.57:1025
@@ -72,50 +72,50 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 
 
 广东,#genre#
-广东大湾区,http://119.123.178.74:8086/hls/29/index.m3u8
-广东民生,http://119.123.178.74:8086/hls/39/index.m3u8
-广东少儿,http://119.123.178.74:8086/hls/40/index.m3u8
-广东体育,http://119.123.178.74:8086/hls/42/index.m3u8
-广东新闻,http://119.123.178.74:8086/hls/45/index.m3u8
-广东影视,http://119.123.178.74:8086/hls/46/index.m3u8
-广东珠江,http://119.123.178.74:8086/hls/47/index.m3u8
-广东经济,http://119.123.178.74:8086/hls/63/index.m3u8
+大湾区卫视,http://119.123.176.241:8086/hls/29/index.m3u8
+广东民生,http://119.123.176.241:8086/hls/39/index.m3u8
+广东少儿,http://119.123.176.241:8086/hls/40/index.m3u8
+广东体育,http://119.123.176.241:8086/hls/42/index.m3u8
+广东新闻,http://119.123.176.241:8086/hls/45/index.m3u8
+广东影视,http://119.123.176.241:8086/hls/46/index.m3u8
+广东珠江,http://119.123.176.241:8086/hls/47/index.m3u8
+广东经济,http://119.123.176.241:8086/hls/63/index.m3u8
 嘉佳卡通,http://154.17.19.44:7088/udp/239.10.0.200:1025
 岭南戏曲,http://154.17.19.44:7088/udp/239.11.0.180:1025
-深圳都市,http://119.123.178.74:8086/hls/103/index.m3u8
+深圳都市,http://119.123.176.241:8086/hls/103/index.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de mi
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 
 卫视,#genre#
-广东卫视,http://119.123.178.74:8086/hls/44/index.m3u8
-广西卫视,http://119.123.178.74:8086/hls/48/index.m3u8
-海南卫视,http://119.123.178.74:8086/hls/50/index.m3u8
-河南卫视,http://119.123.178.74:8086/hls/52/index.m3u8
-湖北卫视,http://119.123.178.74:8086/hls/54/index.m3u8
-湖南卫视,http://119.123.178.74:8086/hls/55/index.m3u8
+广东卫视,http://119.123.176.241:8086/hls/44/index.m3u8
+广西卫视,http://119.123.176.241:8086/hls/48/index.m3u8
+海南卫视,http://119.123.176.241:8086/hls/50/index.m3u8
+河南卫视,http://119.123.176.241:8086/hls/52/index.m3u8
+湖北卫视,http://119.123.176.241:8086/hls/54/index.m3u8
+湖南卫视,http://119.123.176.241:8086/hls/55/index.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 金鹰卡通,http://154.17.19.44:7088/udp/239.11.0.125:1025
 金鹰纪实,http://154.17.19.44:7088/udp/239.10.0.206:1025
 三沙卫视,http://154.17.19.44:7088/udp/239.11.0.177:1025
 海峡卫视,http://wine600.i234.me:4567/rtp/239.61.2.151:8894
-江苏卫视,http://119.123.178.74:8086/hls/59/index.m3u8
+江苏卫视,http://119.123.176.241:8086/hls/59/index.m3u8
 苏州卫视4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-深圳卫视,http://119.123.178.74:8086/hls/79/index.m3u8
-四川卫视,http://119.123.178.74:8086/hls/82/index.m3u8
-重庆卫视,http://119.123.178.74:8086/hls/100/index.m3u8
-浙江卫视,http://119.123.178.74:8086/hls/101/index.m3u8
-浙江卫视,http://119.123.178.74:8086/hls/128/index.m3u8
-东方卫视,http://119.123.178.74:8086/hls/129/index.m3u8
-北京卫视,http://119.123.178.74:8086/hls/131/index.m3u8
-江西卫视,http://119.123.178.74:8086/hls/132/index.m3u8
-山东卫视,http://119.123.178.74:8086/hls/133/index.m3u8
-安徽卫视,http://119.123.178.74:8086/hls/137/index.m3u8
-东南卫视,http://119.123.178.74:8086/hls/161/index.m3u8
-天津卫视,http://119.123.178.74:8086/hls/140/index.m3u8
-贵州卫视,http://119.123.178.74:8086/hls/143/index.m3u8
-河北卫视,http://119.123.178.74:8086/hls/144/index.m3u8
+深圳卫视,http://119.123.176.241:8086/hls/79/index.m3u8
+四川卫视,http://119.123.176.241:8086/hls/82/index.m3u8
+重庆卫视,http://119.123.176.241:8086/hls/100/index.m3u8
+浙江卫视,http://119.123.176.241:8086/hls/101/index.m3u8
+浙江卫视,http://119.123.176.241:8086/hls/128/index.m3u8
+东方卫视,http://119.123.176.241:8086/hls/129/index.m3u8
+北京卫视,http://119.123.176.241:8086/hls/131/index.m3u8
+江西卫视,http://119.123.176.241:8086/hls/132/index.m3u8
+山东卫视,http://119.123.176.241:8086/hls/133/index.m3u8
+安徽卫视,http://119.123.176.241:8086/hls/137/index.m3u8
+东南卫视,http://119.123.176.241:8086/hls/161/index.m3u8
+天津卫视,http://119.123.176.241:8086/hls/140/index.m3u8
+贵州卫视,http://119.123.176.241:8086/hls/143/index.m3u8
+河北卫视,http://119.123.176.241:8086/hls/144/index.m3u8
 河北卫视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 青海卫视,http://154.17.19.44:7088/udp/239.11.0.179:1025
 山西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
@@ -149,7 +149,7 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 CHC动作电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.174:5140
 CHC家庭影院,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.173:5140
 CHC影迷电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
-华数动画电影,http://119.123.177.183:8086/hls/78/index.m3u8
+华数动画电影,http://119.123.176.241:8086/hls/78/index.m3u8
 五星体育,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
 武术世界,http://198980.xyz:8888/udp/239.49.0.205:8000
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -194,6 +194,8 @@ Nat Geo WILD 捷克,http://46.36.37.186:33379/play/Nat%20Geo%20Wild%20HD.m3u8
 Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
 Love Nature 台湾,http://tv.iill.top/4gtv/4gtv-live208
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+花花公子 欧洲16+,http://193.24.244.60:1001/udp/239.254.4.227:6060
+花花公子 拉美18+,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 法国FTV,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 法国FTV,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LaJ4zAWLyADt-3moyHdZ
 流言终结者,https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
@@ -280,12 +282,23 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 美国NBC体育,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 美国UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 美国SPEED SPORT 1,https://aka-live1050.delivery.roku.com/63e7c506-7574-46d4-a388-2453864eae36/t2-origin/out/v1/live.m3u8
-欧洲体育1,http://46.36.37.186:33379/play/Eurosport%20HD.m3u8
-欧洲体育2,http://46.36.37.186:33379/play/Eurosport%202%20HD.m3u8
-欧洲体育4K,https://7pal.short.gy/eusport4k
 天空体育主赛事 4K,https://7pal.short.gy/SSMEuhd
 天空体育F1 4K,https://7pal.short.gy/SSF1uhd
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+匈牙利M4 Sport,http://46.107.233.49:50514/bysid/101
+欧洲体育1,http://46.36.37.186:33379/play/Eurosport%20HD.m3u8
+欧洲体育2,http://46.36.37.186:33379/play/Eurosport%202%20HD.m3u8
+欧洲体育 4K 法语,https://7pal.short.gy/eusport4k
+欧洲体育 4K 多音轨,http://5.14.83.157:9191/stream/channelid/112064054?profile=pass
+罗马尼亚Sport Extra,http://188.26.241.163:7000/stream/service/2afbf68144152c6e7e9af44f76d4d234
+罗马尼亚DIGI Sport1,http://188.26.241.163:7000/stream/service/80d61947f879486679d23cf5d09e3b21
+罗马尼亚DIGI Sport2,http://188.26.241.163:7000/stream/service/079b2ec312677e3050548afc99e20735
+罗马尼亚DIGI Sport3,http://188.26.241.163:7000/stream/service/0ada70a0e825f32022f485857fa42a7e
+罗马尼亚DIGI Sport4,http://188.26.241.163:7000/stream/service/27c59147a5e64f5d4b165806f0ff79e8
+罗马尼亚PRIMA Sport1,http://188.26.241.163:7000/stream/service/61e62b84d4ceac0a709fe17e62272f2c
+罗马尼亚PRIMA Sport2,http://188.26.241.163:7000/stream/service/c4242f7972d1e6f4a3793b9ae53d4040
+罗马尼亚PRIMA Sport3,http://188.26.241.163:7000/stream/service/3a75ee0af17e317cbff8d0afd194f96a
+罗马尼亚PRIMA 4K,http://5.14.83.157:9191/stream/channelid/436172488?profile=pass
 捷克Oneplay Sport 1,http://46.36.37.186:33379/play/Oneplay%20Sport%201.m3u8
 捷克Oneplay Sport 2,http://46.36.37.186:33379/play/Oneplay%20Sport%202.m3u8
 捷克Oneplay Sport 3,http://46.36.37.186:33379/play/Oneplay%20Sport%203.m3u8
@@ -299,6 +312,7 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 捷克体育1台,http://46.36.37.186:33379/play/Sport1.m3u8
 捷克体育2台,http://46.36.37.186:33379/play/Sport2.m3u8
 捷克CT体育台,http://46.36.37.186:33379/play/%C4%8CT%20Sport%20HD.m3u8
+捷克Sporty TV,https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
 捷克付费体育1台,http://46.36.37.186:33379/play/Premier%20Sport%201.m3u8
 捷克付费体育2台,http://46.36.37.186:33379/play/Premier%20Sport%202.m3u8
 捷克付费体育3台,http://46.36.37.186:33379/play/Premier%20Sport%203.m3u8
@@ -328,11 +342,13 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 音乐,#genre#
 俄罗斯BRIDGE DELUXE,http://194.143.150.123:8080/udp/239.195.5.213:1234
 俄罗斯ЖAPA,http://194.143.150.123:8080/udp/239.195.5.11:1234
+德国Deluxe Music,http://212.15.21.154:8000/play/a07s
 MTV LIVE,http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5g5hwf_1cwe
 美国MTV LIVE,http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
 法国Mezoo Live,http://46.36.37.186:33379/play/Mezzo%20live%20HD.m3u8
 韩国K-POP by CJ ENM,https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
-韩国NEW KPOP,https://jmp2.uk/stvp-GB17000088V
+韩国NEW KPOP,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
+韩国M.net,http://jm14.modhospital.kr:9981/stream/channelid/7
 荷兰Sol Música,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 英国Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
 电影背景音乐,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
@@ -354,6 +370,4 @@ Vevo 80s,https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/a
 Vevo 80sㅤ,https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live.m3u8
 Vevo 90s,https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 Vevo 90sㅤ,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
-
-
 
