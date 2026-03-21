@@ -41,6 +41,7 @@ CETV1,http://154.17.19.44:7088/udp/239.10.0.223:1025
 CETV4,http://154.17.19.44:7088/udp/239.11.0.176:1025
 CETV早期教育,http://154.17.19.44:7088/udp/239.11.0.100:1025
 
+
 香港,#genre#
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
@@ -199,6 +200,7 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 流言终结者,https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
 日漫英配,https://aka-live1050.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
 
+
 新闻,#genre#
 中天新闻,http://tv.iill.top/4gtv/4gtv-4gtv009
 英国BBC新闻,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
@@ -208,7 +210,13 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 美国CNN 英国版,https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
 美国Bloomberg,https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
 德国DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-俄罗斯RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+今日俄罗斯西班牙语,https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+今日俄罗斯法语,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+今日俄罗斯阿拉伯语,https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+今日俄罗斯德语,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+今日俄罗斯纪录 英语,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+今日俄罗斯纪录 俄语,https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 俄罗斯金砖TV,https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 法国France 24,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 欧洲新闻台,https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live.m3u8
@@ -265,6 +273,7 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 咪视界 37,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
 咪视界 38,http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
 
+
 体育,#genre#
 英超CANAL+ Sport,http://46.36.37.186:33379/play/CANAL%2B%20Sport.m3u8
 英超CANAL+ Sport 4,http://46.36.37.186:33379/play/CANAL%2B%20Sport%204.m3u8
@@ -285,17 +294,18 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 匈牙利M4 Sport,http://46.107.233.49:50514/bysid/101
 欧洲体育1,http://46.36.37.186:33379/play/Eurosport%20HD.m3u8
 欧洲体育2,http://46.36.37.186:33379/play/Eurosport%202%20HD.m3u8
-欧洲体育 4K 法语,https://7pal.short.gy/eusport4k
-欧洲体育 4K 多音轨,http://5.14.83.157:9191/stream/channelid/112064054?profile=pass
-罗马尼亚Sport Extra,http://188.26.241.163:7000/stream/service/2afbf68144152c6e7e9af44f76d4d234
-罗马尼亚DIGI Sport1,http://188.26.241.163:7000/stream/service/80d61947f879486679d23cf5d09e3b21
-罗马尼亚DIGI Sport2,http://188.26.241.163:7000/stream/service/079b2ec312677e3050548afc99e20735
-罗马尼亚DIGI Sport3,http://188.26.241.163:7000/stream/service/0ada70a0e825f32022f485857fa42a7e
-罗马尼亚DIGI Sport4,http://188.26.241.163:7000/stream/service/27c59147a5e64f5d4b165806f0ff79e8
-罗马尼亚PRIMA Sport1,http://188.26.241.163:7000/stream/service/61e62b84d4ceac0a709fe17e62272f2c
-罗马尼亚PRIMA Sport2,http://188.26.241.163:7000/stream/service/c4242f7972d1e6f4a3793b9ae53d4040
-罗马尼亚PRIMA Sport3,http://188.26.241.163:7000/stream/service/3a75ee0af17e317cbff8d0afd194f96a
-罗马尼亚PRIMA 4K,http://5.14.83.157:9191/stream/channelid/436172488?profile=pass
+欧洲体育 4K,http://update.faceboock.ro:8080/AN228666/XhTU44hpxP5acbQLEfdASGygIJKNJW/17995
+罗马尼亚Sport Extra,http://89.37.116.198:8000/play/a021
+罗马尼亚DIGI Sport1,http://89.37.116.198:8000/play/a04l
+罗马尼亚DIGI Sport2,http://89.37.116.198:8000/play/a04c
+罗马尼亚DIGI Sport3,http://89.37.116.198:8000/play/a04m
+罗马尼亚DIGI Sport4,http://89.37.116.198:8000/play/a04n
+罗马尼亚PRIMA Sport1,http://89.37.116.198:8000/play/a036
+罗马尼亚PRIMA Sport2,http://update.faceboock.ro:8080/AN228666/XhTU44hpxP5acbQLEfdASGygIJKNJW/70496
+罗马尼亚PRIMA Sport3,http://update.faceboock.ro:8080/AN228666/XhTU44hpxP5acbQLEfdASGygIJKNJW/70497
+罗马尼亚PRIMA Sport4,http://update.faceboock.ro:8080/AN228666/XhTU44hpxP5acbQLEfdASGygIJKNJW/70498
+罗马尼亚PRIMA Sport5,http://89.37.116.198:8000/play/a00g
+罗马尼亚PRIMA 4K,http://update.faceboock.ro:8080/AN228666/XhTU44hpxP5acbQLEfdASGygIJKNJW/19319
 捷克Oneplay Sport 1,http://46.36.37.186:33379/play/Oneplay%20Sport%201.m3u8
 捷克Oneplay Sport 2,http://46.36.37.186:33379/play/Oneplay%20Sport%202.m3u8
 捷克Oneplay Sport 3,http://46.36.37.186:33379/play/Oneplay%20Sport%203.m3u8
@@ -314,6 +324,7 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 捷克付费体育2台,http://46.36.37.186:33379/play/Premier%20Sport%202.m3u8
 捷克付费体育3台,http://46.36.37.186:33379/play/Premier%20Sport%203.m3u8
 波兰Eleven Sports 1,http://193.24.244.60:1001/udp/239.254.4.221:6060
+波兰Eleven Sports 1 4K,https://starshare.st/7654321/1234567/688288
 波兰Eleven Sports 2,http://193.24.244.60:1001/udp/239.254.4.220:6060
 波兰Eleven Sports 3,http://193.24.244.60:1001/udp/239.254.4.219:6060
 波兰Eleven Sports 4,http://193.24.244.60:1001/udp/239.254.4.216:6060
@@ -345,7 +356,6 @@ MTV LIVE,http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5
 法国Mezoo Live,http://46.36.37.186:33379/play/Mezzo%20live%20HD.m3u8
 韩国K-POP by CJ ENM,https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
 韩国NEW KPOP,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
-韩国M.net,http://jm14.modhospital.kr:9981/stream/channelid/7
 荷兰Sol Música,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 英国Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
 电影背景音乐,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
@@ -367,4 +377,3 @@ Vevo 80s,https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/a
 Vevo 80sㅤ,https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live.m3u8
 Vevo 90s,https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 Vevo 90sㅤ,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
-
