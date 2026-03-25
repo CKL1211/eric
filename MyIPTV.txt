@@ -64,9 +64,9 @@ ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
-Astro 酷哒哒,https://o11.163189.xyz/stream/live/test/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro酷哒哒,https://o11.163189.xyz/stream/live/test/
+AstroAOD,https://o11.163189.xyz/stream/live/aod/
+AstroAEC,https://o11.163189.xyz/stream/live/aec/
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 
@@ -87,9 +87,6 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 卫视,#genre#
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-苏州卫视4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北卫视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广东卫视,http://119.123.179.126:8086/hls/44/index.m3u8
 广西卫视,http://119.123.179.126:8086/hls/48/index.m3u8
 海南卫视,http://119.123.179.126:8086/hls/50/index.m3u8
@@ -123,6 +120,9 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 西藏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
 宁夏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
 新疆卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+苏州卫视4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北卫视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 
 
 北京,#genre#
@@ -147,7 +147,7 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 CHC动作电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.174:5140
 CHC家庭影院,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.173:5140
 CHC影迷电影,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
-华数动画电影,http://119.123.177.183:8086/hls/78/index.m3u8
+华数动画电影,http://119.123.179.126:8086/hls/78/index.m3u8
 五星体育,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
 武术世界,http://198980.xyz:8888/udp/239.49.0.205:8000
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -191,12 +191,6 @@ Nat Geo WILD 捷克,http://46.36.37.186:33379/play/Nat%20Geo%20Wild%20HD.m3u8
 Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
 Love Nature 台湾,http://tv.iill.top/4gtv/4gtv-live208
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-花花公子 欧洲16+,http://193.24.244.60:1001/udp/239.254.4.227:6060
-花花公子 拉美18+,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-法国FTV,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-法国FTV,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LaJ4zAWLyADt-3moyHdZ
-流言终结者,https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
-日漫英配,https://aka-live1050.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
 
 
 新闻,#genre#
