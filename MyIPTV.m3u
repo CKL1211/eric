@@ -270,7 +270,7 @@ http://jasonzhangnas.f3322.net:7088/udp/233.18.204.173:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="综合",CHC影迷电影
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.175:5140
 #EXTINF:-1 tvg-id="华数动画电影" tvg-name="华数动画电影" tvg-logo="" group-title="综合",华数动画电影
-http://119.123.177.183:8086/hls/78/index.m3u8
+http://119.123.179.126:8086/hls/78/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="综合",五星体育
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="" group-title="综合",武术世界
@@ -357,10 +357,6 @@ https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/pla
 http://tv.iill.top/4gtv/4gtv-live208
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="" group-title="综合",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="花花公子 欧洲16+" tvg-name="花花公子 欧洲16+" tvg-logo="" group-title="综合",花花公子 欧洲16+
-http://193.24.244.60:1001/udp/239.254.4.227:6060
-#EXTINF:-1 tvg-id="花花公子 拉美18+" tvg-name="花花公子 拉美18+" tvg-logo="" group-title="综合",花花公子 拉美18+
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="法国FTV" tvg-name="法国FTV" tvg-logo="" group-title="综合",法国FTV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="法国FTV" tvg-name="法国FTV" tvg-logo="" group-title="综合",法国FTV
