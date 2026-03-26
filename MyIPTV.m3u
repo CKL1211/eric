@@ -639,6 +639,156 @@ http://179.1.199.50:9000/play/a06q
 http://179.1.199.50:9000/play/a09g
 #EXTINF:-1 tvg-id="哥伦比亚ESPN Premium" tvg-name="哥伦比亚ESPN Premium" tvg-logo="" group-title="体育",哥伦比亚ESPN Premium
 http://179.1.199.50:9000/play/a08o
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国一台
+http://86.202.245.66:9981/stream/channelid/1219859297?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国二台
+http://86.202.245.66:9981/stream/channelid/1336998922?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国三台
+http://86.202.245.66:9981/stream/channelid/891927778?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国四台
+http://86.202.245.66:9981/stream/channelid/861442215?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国五台
+http://86.202.245.66:9981/stream/channelid/747479231?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国一台
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国二台
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国三台
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国四台
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法国五台
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利1台
+https://mynettv.duckdns.org/stream/channelid/749089377?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利1台 4K
+https://mynettv.duckdns.org/stream/channelid/1539667822?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利2台
+https://mynettv.duckdns.org/stream/channelid/1122914994?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利3台
+https://mynettv.duckdns.org/stream/channelid/1005484683?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利1台
+https://mynettv.duckdns.org/stream/channelid/1890133618?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利2台
+https://mynettv.duckdns.org/stream/channelid/72976509?profile=pass
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利3台
+https://mynettv.duckdns.org/stream/channelid/738155134?profile=passs
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利4台
+https://mynettv.duckdns.org/stream/service/fa29bac8851202b7d89b5c879ec21c16
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",意大利5台
+https://mynettv.duckdns.org/stream/service/3e226482c0fbfbe97390be59490d60d9
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 法比瑞
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 欧洲
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 中东
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 东南亚
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 太平洋
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 新闻
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 休闲
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 休闲
+https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",法语世界 少儿
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 伦敦
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 海峡群岛
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰东部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰东米德兰兹
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰东约克郡
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰东北部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰西北部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 北爱尔兰
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 苏格兰
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰南部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰东南部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰西南部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 威尔士
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰西部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 英格兰西米德兰兹
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 1 约克郡
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 2
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 2 北爱尔兰
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 2 威尔士
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 3
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 4
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 盖尔语
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC RB1
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 幼儿频道
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 少儿频道
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",BBC 议会频道
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国BR Fernsehen - Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国BR Fernsehen - Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国hr-fernsehen
+http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国DRM
+https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国NDR Sachsen-Anhalt
+https://mdr-live.ard-mcdn.de/mdr/sa/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国Radio Bremen Fernsehen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国rbb Berlin
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国rbb Brandenburg
+https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国SWR Baden-Württemberg
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国SWR Rheinland-Pfalz
+https://mcdn.swr.de/swr/swrrpd/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国WDR Köln
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国ARTR
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国KiKA
+https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国ARD alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国tagesschau24
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="欧洲电视台" tvg-logo="",德国phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="俄罗斯BRIDGE DELUXE" tvg-name="俄罗斯BRIDGE DELUXE" tvg-logo="" group-title="音乐",俄罗斯BRIDGE DELUXE
 http://194.143.150.123:8080/udp/239.195.5.213:1234
 #EXTINF:-1 tvg-id="俄罗斯ЖAPA" tvg-name="俄罗斯ЖAPA" tvg-logo="" group-title="音乐",俄罗斯ЖAPA
