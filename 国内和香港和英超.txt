@@ -1,14 +1,4 @@
-说明
-BBC台需要英国ip
-TV5monde有ip地域限制 可以伪装ip请求头
-有些德国频道需要德国ip
-境外频道需要梯子推荐欧洲节点
-NBA比赛一般双线路
-比如今天第5场比赛
-可能在NBA08 09 10 
-NBA比赛时间表
-https://m.miguvideo.com/mgs/hybrid/sportsdata/main/schedule/prd/competitionCombine.html?projectId=2&selectIndex=0&pageId=a248773b53f7486b8fa462ba0c8f8adf
-https://nba.hupu.com/schedule
+
 
 
 央视,#genre#
@@ -88,28 +78,31 @@ CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 
 香港,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct
-翡翠台 4K,https://o11.163189.xyz/stream/tvb/fct4k/
-明珠台,http://cdn6.163189.xyz/163189/mzt
+翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
-星空卫视,http://136.158.97.2:6610/001/2/ch00000090990000001337/manifest.mpd?JITPDRMType=NO&virtualDomain=001.live_hls.zte.com&BreakPoint=0&boid=001&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMjcsBWP9w%2FYVgaofn83Oe2%2FjHNuou2Jtxin49X3LQKw%3D%3D
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
 ViuTV,https://cdn.163189.xyz/163189/viu
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 天映频道,https://o11.163189.xyz/stream/live/typd/
+天映经典频道,http://o11.163189.xyz/stream/live/ccm/
+天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
+Astro 酷哒哒,https://o11.163189.xyz/stream/live/test/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi//
 
 北京,#genre#
 北京体育休闲,http://r.xace.fun:4999/udp/239.3.1.243:8000
