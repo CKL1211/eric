@@ -107,7 +107,7 @@ http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
-#EXTINF:-1 tvg-name="广东大湾区" tvg-logo="https://live.fanmingming.com/tv/广东大湾区.png" group-title="广东",广东大湾区
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/广东大湾区.png" group-title="广东",大湾区卫视
 http://119.123.176.91:8086/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
 http://119.123.176.91:8086/hls/39/index.m3u8
