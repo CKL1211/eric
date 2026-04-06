@@ -1,5 +1,6 @@
 央视,#genre#
 CCTV1,http://119.123.178.36:8086/hls/2/index.m3u8
+CCTV1香港,https://cdn10.163189.xyz/stream/163189/cctv1/
 CCTV2,http://119.123.178.36:8086/hls/3/index.m3u8
 CCTV3,http://119.123.178.36:8086/hls/4/index.m3u8
 CCTV4,http://119.123.178.36:8086/hls/5/index.m3u8
@@ -121,6 +122,14 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 
 
 体育,#genre#
+英超CANAL+ Sport,http://46.36.37.186:33379/play/CANAL%2B%20Sport.m3u8
+英超CANAL+ Sport 4,http://46.36.37.186:33379/play/CANAL%2B%20Sport%204.m3u8
+英超&网球CANAL+ Sport 5,http://46.36.37.186:33379/play/CANAL%2B%20Sport%205.m3u8
+英超CANAL+ Sport 6,http://46.36.37.186:33379/play/CANAL%2B%20Sport%206.m3u8
+英超CANAL+ Sport 7,http://46.36.37.186:33379/play/CANAL%2B%20Sport%207.m3u8
+英超CANAL+ Sport 8,http://46.36.37.186:33379/play/CANAL%2B%20Sport%208.m3u8
+网球CANAL+ Sport 2,http://46.36.37.186:33379/play/CANAL%2B%20Sport%202.m3u8
+网球CANAL+ Sport 3,http://46.36.37.186:33379/play/CANAL%2B%20Sport%203.m3u8
 新加坡HUB英超1,https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 新加坡HUB英超2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 新加坡HUB英超3,https://hls.iill.top/api/Hub-Premier-3/index.m3u8
@@ -152,6 +161,8 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 天空体育4K 1,http://czstream.com:826/LouCarey/KYsHfE1YLU/118944
 天空体育4K 2,http://czstream.com:826/LouCarey/KYsHfE1YLU/118945
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+欧洲体育1,http://46.36.37.186:33379/play/Eurosport%20HD.m3u8
+欧洲体育2,http://46.36.37.186:33379/play/Eurosport%202%20HD.m3u8
 欧洲体育1,https://hls.iill.top/api/Eurosport-1/index.m3u8
 欧洲体育2,https://hls.iill.top/api/Eurosport-2/index.m3u8
 澳大利亚福克斯501,http://czstream.com:826/LouCarey/KYsHfE1YLU/110881
@@ -161,6 +172,23 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 澳大利亚福克斯505,http://czstream.com:826/LouCarey/KYsHfE1YLU/110885
 澳大利亚福克斯506,http://czstream.com:826/LouCarey/KYsHfE1YLU/110886
 澳大利亚福克斯507,http://czstream.com:826/LouCarey/KYsHfE1YLU/110887
+捷克Oneplay Sport 1,http://46.36.37.186:33379/play/Oneplay%20Sport%201.m3u8
+捷克Oneplay Sport 2,http://46.36.37.186:33379/play/Oneplay%20Sport%202.m3u8
+捷克Oneplay Sport 3,http://46.36.37.186:33379/play/Oneplay%20Sport%203.m3u8
+捷克Oneplay Sport 4,http://46.36.37.186:33379/play/Oneplay%20Sport%204.m3u8
+捷克Nova Sport 1,http://46.36.37.186:33379/play/Nova%20Sport%201%20HD.m3u8
+捷克Nova Sport 2,http://46.36.37.186:33379/play/Nova%20Sport%202%20HD.m3u8
+捷克Nova Sport 3,http://46.36.37.186:33379/play/Nova%20Sport%203%20HD.m3u8
+捷克Nova Sport 4,http://46.36.37.186:33379/play/Nova%20Sport%204%20HD.m3u8
+捷克Nova Sport 5,http://46.36.37.186:33379/play/Nova%20Sport%205%20HD.m3u8
+捷克Nova Sport 6,http://46.36.37.186:33379/play/Nova%20Sport%206%20HD.m3u8
+捷克体育1台,http://46.36.37.186:33379/play/Sport1.m3u8
+捷克体育2台,http://46.36.37.186:33379/play/Sport2.m3u8
+捷克CT体育台,http://46.36.37.186:33379/play/%C4%8CT%20Sport%20HD.m3u8
+捷克Sporty TV,https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
+捷克付费体育1台,http://46.36.37.186:33379/play/Premier%20Sport%201.m3u8
+捷克付费体育2台,http://46.36.37.186:33379/play/Premier%20Sport%202.m3u8
+捷克付费体育3台,http://46.36.37.186:33379/play/Premier%20Sport%203.m3u8
 罗马尼亚Sport Extra,http://89.37.116.198:8000/play/a021
 罗马尼亚DIGI Sport1,http://89.37.116.198:8000/play/a04l
 罗马尼亚DIGI Sport2,http://89.37.116.198:8000/play/a04c
@@ -168,7 +196,6 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 罗马尼亚DIGI Sport4,http://89.37.116.198:8000/play/a04n
 罗马尼亚PRIMA Sport1,http://89.37.116.198:8000/play/a036
 罗马尼亚PRIMA Sport5,http://89.37.116.198:8000/play/a00g
-捷克Sporty TV,https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
 波兰Eleven Sports 1,http://193.24.244.60:1001/udp/239.254.4.221:6060
 波兰Eleven Sports 1 4K,https://starshare.st/7654321/1234567/688288
 波兰Eleven Sports 2,http://193.24.244.60:1001/udp/239.254.4.220:6060
