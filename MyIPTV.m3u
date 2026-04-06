@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://119.123.178.36:8086/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1香港" tvg-logo="https://live.fanmingming.com/tv/CCTV1香港.png" group-title="央视",CCTV1香港
+https://cdn10.163189.xyz/stream/163189/cctv1/
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 http://119.123.178.36:8086/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
@@ -219,6 +221,22 @@ http://r.xace.fun:4999/udp/239.3.1.100:8001
 http://r.xace.fun:4999/udp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="北京",北京IPTV4K
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
+#EXTINF:-1 tvg-name="英超CANAL+ Sport" tvg-logo="https://live.fanmingming.com/tv/英超CANAL+ Sport.png" group-title="体育",英超CANAL+ Sport
+http://46.36.37.186:33379/play/CANAL%2B%20Sport.m3u8
+#EXTINF:-1 tvg-name="英超CANAL+ Sport 4" tvg-logo="https://live.fanmingming.com/tv/英超CANAL+ Sport 4.png" group-title="体育",英超CANAL+ Sport 4
+http://46.36.37.186:33379/play/CANAL%2B%20Sport%204.m3u8
+#EXTINF:-1 tvg-name="英超&网球CANAL+ Sport 5" tvg-logo="https://live.fanmingming.com/tv/英超&网球CANAL+ Sport 5.png" group-title="体育",英超&网球CANAL+ Sport 5
+http://46.36.37.186:33379/play/CANAL%2B%20Sport%205.m3u8
+#EXTINF:-1 tvg-name="英超CANAL+ Sport 6" tvg-logo="https://live.fanmingming.com/tv/英超CANAL+ Sport 6.png" group-title="体育",英超CANAL+ Sport 6
+http://46.36.37.186:33379/play/CANAL%2B%20Sport%206.m3u8
+#EXTINF:-1 tvg-name="英超CANAL+ Sport 7" tvg-logo="https://live.fanmingming.com/tv/英超CANAL+ Sport 7.png" group-title="体育",英超CANAL+ Sport 7
+http://46.36.37.186:33379/play/CANAL%2B%20Sport%207.m3u8
+#EXTINF:-1 tvg-name="英超CANAL+ Sport 8" tvg-logo="https://live.fanmingming.com/tv/英超CANAL+ Sport 8.png" group-title="体育",英超CANAL+ Sport 8
+http://46.36.37.186:33379/play/CANAL%2B%20Sport%208.m3u8
+#EXTINF:-1 tvg-name="网球CANAL+ Sport 2" tvg-logo="https://live.fanmingming.com/tv/网球CANAL+ Sport 2.png" group-title="体育",网球CANAL+ Sport 2
+http://46.36.37.186:33379/play/CANAL%2B%20Sport%202.m3u8
+#EXTINF:-1 tvg-name="网球CANAL+ Sport 3" tvg-logo="https://live.fanmingming.com/tv/网球CANAL+ Sport 3.png" group-title="体育",网球CANAL+ Sport 3
+http://46.36.37.186:33379/play/CANAL%2B%20Sport%203.m3u8
 #EXTINF:-1 tvg-name="新加坡HUB英超1" tvg-logo="https://live.fanmingming.com/tv/新加坡HUB英超1.png" group-title="体育",新加坡HUB英超1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1 tvg-name="新加坡HUB英超2" tvg-logo="https://live.fanmingming.com/tv/新加坡HUB英超2.png" group-title="体育",新加坡HUB英超2
@@ -282,6 +300,10 @@ http://czstream.com:826/LouCarey/KYsHfE1YLU/118945
 #EXTINF:-1 tvg-name="奥地利红牛" tvg-logo="https://live.fanmingming.com/tv/奥地利红牛.png" group-title="体育",奥地利红牛
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="欧洲体育1" tvg-logo="https://live.fanmingming.com/tv/欧洲体育1.png" group-title="体育",欧洲体育1
+http://46.36.37.186:33379/play/Eurosport%20HD.m3u8
+#EXTINF:-1 tvg-name="欧洲体育2" tvg-logo="https://live.fanmingming.com/tv/欧洲体育2.png" group-title="体育",欧洲体育2
+http://46.36.37.186:33379/play/Eurosport%202%20HD.m3u8
+#EXTINF:-1 tvg-name="欧洲体育1" tvg-logo="https://live.fanmingming.com/tv/欧洲体育1.png" group-title="体育",欧洲体育1
 https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1 tvg-name="欧洲体育2" tvg-logo="https://live.fanmingming.com/tv/欧洲体育2.png" group-title="体育",欧洲体育2
 https://hls.iill.top/api/Eurosport-2/index.m3u8
@@ -299,6 +321,40 @@ http://czstream.com:826/LouCarey/KYsHfE1YLU/110885
 http://czstream.com:826/LouCarey/KYsHfE1YLU/110886
 #EXTINF:-1 tvg-name="澳大利亚福克斯507" tvg-logo="https://live.fanmingming.com/tv/澳大利亚福克斯507.png" group-title="体育",澳大利亚福克斯507
 http://czstream.com:826/LouCarey/KYsHfE1YLU/110887
+#EXTINF:-1 tvg-name="捷克Oneplay Sport 1" tvg-logo="https://live.fanmingming.com/tv/捷克Oneplay Sport 1.png" group-title="体育",捷克Oneplay Sport 1
+http://46.36.37.186:33379/play/Oneplay%20Sport%201.m3u8
+#EXTINF:-1 tvg-name="捷克Oneplay Sport 2" tvg-logo="https://live.fanmingming.com/tv/捷克Oneplay Sport 2.png" group-title="体育",捷克Oneplay Sport 2
+http://46.36.37.186:33379/play/Oneplay%20Sport%202.m3u8
+#EXTINF:-1 tvg-name="捷克Oneplay Sport 3" tvg-logo="https://live.fanmingming.com/tv/捷克Oneplay Sport 3.png" group-title="体育",捷克Oneplay Sport 3
+http://46.36.37.186:33379/play/Oneplay%20Sport%203.m3u8
+#EXTINF:-1 tvg-name="捷克Oneplay Sport 4" tvg-logo="https://live.fanmingming.com/tv/捷克Oneplay Sport 4.png" group-title="体育",捷克Oneplay Sport 4
+http://46.36.37.186:33379/play/Oneplay%20Sport%204.m3u8
+#EXTINF:-1 tvg-name="捷克Nova Sport 1" tvg-logo="https://live.fanmingming.com/tv/捷克Nova Sport 1.png" group-title="体育",捷克Nova Sport 1
+http://46.36.37.186:33379/play/Nova%20Sport%201%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克Nova Sport 2" tvg-logo="https://live.fanmingming.com/tv/捷克Nova Sport 2.png" group-title="体育",捷克Nova Sport 2
+http://46.36.37.186:33379/play/Nova%20Sport%202%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克Nova Sport 3" tvg-logo="https://live.fanmingming.com/tv/捷克Nova Sport 3.png" group-title="体育",捷克Nova Sport 3
+http://46.36.37.186:33379/play/Nova%20Sport%203%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克Nova Sport 4" tvg-logo="https://live.fanmingming.com/tv/捷克Nova Sport 4.png" group-title="体育",捷克Nova Sport 4
+http://46.36.37.186:33379/play/Nova%20Sport%204%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克Nova Sport 5" tvg-logo="https://live.fanmingming.com/tv/捷克Nova Sport 5.png" group-title="体育",捷克Nova Sport 5
+http://46.36.37.186:33379/play/Nova%20Sport%205%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克Nova Sport 6" tvg-logo="https://live.fanmingming.com/tv/捷克Nova Sport 6.png" group-title="体育",捷克Nova Sport 6
+http://46.36.37.186:33379/play/Nova%20Sport%206%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克体育1台" tvg-logo="https://live.fanmingming.com/tv/捷克体育1台.png" group-title="体育",捷克体育1台
+http://46.36.37.186:33379/play/Sport1.m3u8
+#EXTINF:-1 tvg-name="捷克体育2台" tvg-logo="https://live.fanmingming.com/tv/捷克体育2台.png" group-title="体育",捷克体育2台
+http://46.36.37.186:33379/play/Sport2.m3u8
+#EXTINF:-1 tvg-name="捷克CT体育台" tvg-logo="https://live.fanmingming.com/tv/捷克CT体育台.png" group-title="体育",捷克CT体育台
+http://46.36.37.186:33379/play/%C4%8CT%20Sport%20HD.m3u8
+#EXTINF:-1 tvg-name="捷克Sporty TV" tvg-logo="https://live.fanmingming.com/tv/捷克Sporty TV.png" group-title="体育",捷克Sporty TV
+https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-name="捷克付费体育1台" tvg-logo="https://live.fanmingming.com/tv/捷克付费体育1台.png" group-title="体育",捷克付费体育1台
+http://46.36.37.186:33379/play/Premier%20Sport%201.m3u8
+#EXTINF:-1 tvg-name="捷克付费体育2台" tvg-logo="https://live.fanmingming.com/tv/捷克付费体育2台.png" group-title="体育",捷克付费体育2台
+http://46.36.37.186:33379/play/Premier%20Sport%202.m3u8
+#EXTINF:-1 tvg-name="捷克付费体育3台" tvg-logo="https://live.fanmingming.com/tv/捷克付费体育3台.png" group-title="体育",捷克付费体育3台
+http://46.36.37.186:33379/play/Premier%20Sport%203.m3u8
 #EXTINF:-1 tvg-name="罗马尼亚Sport Extra" tvg-logo="https://live.fanmingming.com/tv/罗马尼亚Sport Extra.png" group-title="体育",罗马尼亚Sport Extra
 http://89.37.116.198:8000/play/a021
 #EXTINF:-1 tvg-name="罗马尼亚DIGI Sport1" tvg-logo="https://live.fanmingming.com/tv/罗马尼亚DIGI Sport1.png" group-title="体育",罗马尼亚DIGI Sport1
@@ -313,8 +369,6 @@ http://89.37.116.198:8000/play/a04n
 http://89.37.116.198:8000/play/a036
 #EXTINF:-1 tvg-name="罗马尼亚PRIMA Sport5" tvg-logo="https://live.fanmingming.com/tv/罗马尼亚PRIMA Sport5.png" group-title="体育",罗马尼亚PRIMA Sport5
 http://89.37.116.198:8000/play/a00g
-#EXTINF:-1 tvg-name="捷克Sporty TV" tvg-logo="https://live.fanmingming.com/tv/捷克Sporty TV.png" group-title="体育",捷克Sporty TV
-https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-name="波兰Eleven Sports 1" tvg-logo="https://live.fanmingming.com/tv/波兰Eleven Sports 1.png" group-title="体育",波兰Eleven Sports 1
 http://193.24.244.60:1001/udp/239.254.4.221:6060
 #EXTINF:-1 tvg-name="波兰Eleven Sports 1 4K" tvg-logo="https://live.fanmingming.com/tv/波兰Eleven Sports 1 4K.png" group-title="体育",波兰Eleven Sports 1 4K
