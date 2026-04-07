@@ -279,6 +279,8 @@ http://103.148.44.38:8000/play/a03m/index.m3u8
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="美国NBC NOW" tvg-logo="https://live.fanmingming.com/tv/美国NBC NOW.png" group-title="体育",美国NBC NOW
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="美国CBC SPORTS HQ" tvg-logo="https://live.fanmingming.com/tv/美国CBC SPORTS HQ.png" group-title="体育",美国CBC SPORTS HQ
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 #EXTINF:-1 tvg-name="美国福克斯体育1台" tvg-logo="https://live.fanmingming.com/tv/美国福克斯体育1台.png" group-title="体育",美国福克斯体育1台
 http://czstream.com:826/LouCarey/KYsHfE1YLU/120160
 #EXTINF:-1 tvg-name="美国福克斯体育2台" tvg-logo="https://live.fanmingming.com/tv/美国福克斯体育2台.png" group-title="体育",美国福克斯体育2台
@@ -292,11 +294,11 @@ http://czstream.com:826/LouCarey/KYsHfE1YLU/98789
 #EXTINF:-1 tvg-name="天空体育主赛事 4K" tvg-logo="https://live.fanmingming.com/tv/天空体育主赛事 4K.png" group-title="体育",天空体育主赛事 4K
 https://starshare.st/live/8zpo3GsVY7/beneficial2concern/581305.ts
 #EXTINF:-1 tvg-name="天空体育F1 4K" tvg-logo="https://live.fanmingming.com/tv/天空体育F1 4K.png" group-title="体育",天空体育F1 4K
-http://czstream.com:826/LouCarey/KYsHfE1YLU/118946
+https://starshare.st/live/8zpo3GsVY7/beneficial2concern/384213.ts
 #EXTINF:-1 tvg-name="天空体育4K 1" tvg-logo="https://live.fanmingming.com/tv/天空体育4K 1.png" group-title="体育",天空体育4K 1
-http://czstream.com:826/LouCarey/KYsHfE1YLU/118944
+https://starshare.st/live/8zpo3GsVY7/beneficial2concern/384222.ts
 #EXTINF:-1 tvg-name="天空体育4K 2" tvg-logo="https://live.fanmingming.com/tv/天空体育4K 2.png" group-title="体育",天空体育4K 2
-http://czstream.com:826/LouCarey/KYsHfE1YLU/118945
+https://starshare.st/live/8zpo3GsVY7/beneficial2concern/384216.ts
 #EXTINF:-1 tvg-name="奥地利红牛" tvg-logo="https://live.fanmingming.com/tv/奥地利红牛.png" group-title="体育",奥地利红牛
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="欧洲体育1" tvg-logo="https://live.fanmingming.com/tv/欧洲体育1.png" group-title="体育",欧洲体育1
@@ -397,6 +399,8 @@ http://193.24.244.60:1001/udp/239.254.1.163:6060
 http://193.24.244.60:1001/udp/239.254.1.242:6060
 #EXTINF:-1 tvg-name="波兰CANAL+ Sport 5" tvg-logo="https://live.fanmingming.com/tv/波兰CANAL+ Sport 5.png" group-title="体育",波兰CANAL+ Sport 5
 http://193.24.244.60:1001/udp/239.254.1.15:6060
+#EXTINF:-1 tvg-name="波兰FIGHT BOX" tvg-logo="https://live.fanmingming.com/tv/波兰FIGHT BOX.png" group-title="体育",波兰FIGHT BOX
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8
 #EXTINF:-1 tvg-name="加拿大TSN1" tvg-logo="https://live.fanmingming.com/tv/加拿大TSN1.png" group-title="体育",加拿大TSN1
 http://czstream.com:826/LouCarey/KYsHfE1YLU/1621
 #EXTINF:-1 tvg-name="加拿大TSN2" tvg-logo="https://live.fanmingming.com/tv/加拿大TSN2.png" group-title="体育",加拿大TSN2
@@ -479,6 +483,8 @@ http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
 http://206.212.244.71:8080/live/0QgnMM/235554/20194.ts
 #EXTINF:-1 tvg-name="猫和老鼠轮播" tvg-logo="https://live.fanmingming.com/tv/猫和老鼠轮播.png" group-title="综合",猫和老鼠轮播
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="憨豆先生真人轮播" tvg-logo="https://live.fanmingming.com/tv/憨豆先生真人轮播.png" group-title="综合",憨豆先生真人轮播
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="憨豆先生动画轮播" tvg-logo="https://live.fanmingming.com/tv/憨豆先生动画轮播.png" group-title="综合",憨豆先生动画轮播
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-name="4GTV经典动画轮播" tvg-logo="https://live.fanmingming.com/tv/4GTV经典动画轮播.png" group-title="综合",4GTV经典动画轮播
@@ -503,18 +509,16 @@ http://206.212.244.71:8080/live/0QgnMM/235554/57380.ts
 http://206.212.244.71:8080/live/0QgnMM/235554/57356.ts
 #EXTINF:-1 tvg-name="CN卡通 捷克" tvg-logo="https://live.fanmingming.com/tv/CN卡通 捷克.png" group-title="综合",CN卡通 捷克
 https://estreams.tv.nej.cz/dash/CH_CARTOON_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-name="CN卡通 瑞士" tvg-logo="https://live.fanmingming.com/tv/CN卡通 瑞士.png" group-title="综合",CN卡通 瑞士
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="探索家庭频道" tvg-logo="https://live.fanmingming.com/tv/探索家庭频道.png" group-title="综合",探索家庭频道
 http://206.212.244.71:8080/live/0QgnMM/235554/10538.ts
+#EXTINF:-1 tvg-name="ANIMAX印度" tvg-logo="https://live.fanmingming.com/tv/ANIMAX印度.png" group-title="综合",ANIMAX印度
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://live.fanmingming.com/tv/BOOMERANG.png" group-title="综合",BOOMERANG
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://live.fanmingming.com/tv/COMEDY CENTRAL.png" group-title="综合",COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="NHK综合频道" tvg-logo="https://live.fanmingming.com/tv/NHK综合频道.png" group-title="综合",NHK综合频道
-https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
-#EXTINF:-1 tvg-name="NHK卫星频道" tvg-logo="https://live.fanmingming.com/tv/NHK卫星频道.png" group-title="综合",NHK卫星频道
-http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?JITPDRMType=NO&virtualDomain=001.live_hls.zte.com&BreakPoint=0&boid=001&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvraU%2BA8%2FN%2B6NCam0oBPn1syK4TH4mOENKJ45mwOyS0g%3D%3D
-#EXTINF:-1 tvg-name="富士卫星频道" tvg-logo="https://live.fanmingming.com/tv/富士卫星频道.png" group-title="综合",富士卫星频道
-http://136.158.97.2:6610/001/2/ch00000090990000001165/manifest.mpd?JITPDRMType=NO&virtualDomain=001.live_hls.zte.com&BreakPoint=0&boid=001&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqH%2B5l99GK8Rg%2FAZvU0C4flsyK4TH4mOENKJ45mwOyS0g%3D%3D
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="综合",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal lPlanet" tvg-logo="https://live.fanmingming.com/tv/Animal lPlanet.png" group-title="综合",Animal lPlanet
@@ -595,7 +599,7 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-name="俄罗斯BRIDGE DELUXE" tvg-logo="https://live.fanmingming.com/tv/俄罗斯BRIDGE DELUXE.png" group-title="音乐",俄罗斯BRIDGE DELUXE
 http://194.143.150.123:8080/udp/239.195.5.213:1234
-#EXTINF:-1 tvg-name="俄罗斯ЖAPA" tvg-logo="https://live.fanmingming.com/tv/俄罗斯ЖAPA.png" group-title="音乐",俄罗斯ЖAPA
+#EXTINF:-1 tvg-name="俄罗斯ЖАРА°ТВ" tvg-logo="https://live.fanmingming.com/tv/俄罗斯ЖАРА°ТВ.png" group-title="音乐",俄罗斯ЖАРА°ТВ
 http://194.143.150.123:8080/udp/239.195.5.11:1234
 #EXTINF:-1 tvg-name="德国Deluxe Music" tvg-logo="https://live.fanmingming.com/tv/德国Deluxe Music.png" group-title="音乐",德国Deluxe Music
 http://212.15.21.154:8000/play/a07s
@@ -607,10 +611,24 @@ http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5g5hwf_1cw
 http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="法国CSTAR" tvg-logo="https://live.fanmingming.com/tv/法国CSTAR.png" group-title="音乐",法国CSTAR
 http://62.129.183.89:9981/stream/channelid/541002557
+#EXTINF:-1 tvg-name="法国Mezoo" tvg-logo="https://live.fanmingming.com/tv/法国Mezoo.png" group-title="音乐",法国Mezoo
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+#EXTINF:-1 tvg-name="法国Mezoo Live" tvg-logo="https://live.fanmingming.com/tv/法国Mezoo Live.png" group-title="音乐",法国Mezoo Live
+http://46.36.37.186:33379/play/Mezzo%20live%20HD.m3u8
+#EXTINF:-1 tvg-name="日本MUSIC ON! TV" tvg-logo="https://live.fanmingming.com/tv/日本MUSIC ON! TV.png" group-title="音乐",日本MUSIC ON! TV
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1030477967?profile=pass
+#EXTINF:-1 tvg-name="日本Music Japan" tvg-logo="https://live.fanmingming.com/tv/日本Music Japan.png" group-title="音乐",日本Music Japan
+http://103.255.250.203:5002/cs06.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:-1 tvg-name="韩国K-POP by CJ ENM" tvg-logo="https://live.fanmingming.com/tv/韩国K-POP by CJ ENM.png" group-title="音乐",韩国K-POP by CJ ENM
 https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
 #EXTINF:-1 tvg-name="韩国NEW KPOP" tvg-logo="https://live.fanmingming.com/tv/韩国NEW KPOP.png" group-title="音乐",韩国NEW KPOP
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
+#EXTINF:-1 tvg-name="波兰JAZZ" tvg-logo="https://live.fanmingming.com/tv/波兰JAZZ.png" group-title="音乐",波兰JAZZ
+https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc121/jazztvhdraw/jazztvhdraw.mpd
+#EXTINF:-1 tvg-name="波兰MUSIC BOX" tvg-logo="https://live.fanmingming.com/tv/波兰MUSIC BOX.png" group-title="音乐",波兰MUSIC BOX
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc027/musicboxpolskahdraw/musicboxpolskahdraw.m3u8
+#EXTINF:-1 tvg-name="波兰RadioRAM" tvg-logo="https://live.fanmingming.com/tv/波兰RadioRAM.png" group-title="音乐",波兰RadioRAM
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
 #EXTINF:-1 tvg-name="荷兰Sol Música" tvg-logo="https://live.fanmingming.com/tv/荷兰Sol Música.png" group-title="音乐",荷兰Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-name="英国Trace Urban" tvg-logo="https://live.fanmingming.com/tv/英国Trace Urban.png" group-title="音乐",英国Trace Urban
@@ -739,68 +757,68 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011520
 http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000010000027691
 #EXTINF:-1 tvg-name="咪视界 38" tvg-logo="https://live.fanmingming.com/tv/咪视界 38.png" group-title="咪视界",咪视界 38
 http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
-#EXTINF:-1 tvg-name="有比赛直播才能看" tvg-logo="https://live.fanmingming.com/tv/有比赛直播才能看.png" group-title="按当天比赛顺序UTC+4",有比赛直播才能看
+#EXTINF:-1 tvg-name="有比赛直播才能看" tvg-logo="https://live.fanmingming.com/tv/有比赛直播才能看.png" group-title="按当天比赛顺序",有比赛直播才能看
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="NBA 01" tvg-logo="https://live.fanmingming.com/tv/NBA 01.png" group-title="按当天比赛顺序UTC+4",NBA 01
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119713
-#EXTINF:-1 tvg-name="NBA 02" tvg-logo="https://live.fanmingming.com/tv/NBA 02.png" group-title="按当天比赛顺序UTC+4",NBA 02
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119714
-#EXTINF:-1 tvg-name="NBA 03" tvg-logo="https://live.fanmingming.com/tv/NBA 03.png" group-title="按当天比赛顺序UTC+4",NBA 03
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119715
-#EXTINF:-1 tvg-name="NBA 04" tvg-logo="https://live.fanmingming.com/tv/NBA 04.png" group-title="按当天比赛顺序UTC+4",NBA 04
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119716
-#EXTINF:-1 tvg-name="NBA 05" tvg-logo="https://live.fanmingming.com/tv/NBA 05.png" group-title="按当天比赛顺序UTC+4",NBA 05
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119717
-#EXTINF:-1 tvg-name="NBA 06" tvg-logo="https://live.fanmingming.com/tv/NBA 06.png" group-title="按当天比赛顺序UTC+4",NBA 06
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119718
-#EXTINF:-1 tvg-name="NBA 07" tvg-logo="https://live.fanmingming.com/tv/NBA 07.png" group-title="按当天比赛顺序UTC+4",NBA 07
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119719
-#EXTINF:-1 tvg-name="NBA 08" tvg-logo="https://live.fanmingming.com/tv/NBA 08.png" group-title="按当天比赛顺序UTC+4",NBA 08
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119720
-#EXTINF:-1 tvg-name="NBA 09" tvg-logo="https://live.fanmingming.com/tv/NBA 09.png" group-title="按当天比赛顺序UTC+4",NBA 09
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119721
-#EXTINF:-1 tvg-name="NBA 10" tvg-logo="https://live.fanmingming.com/tv/NBA 10.png" group-title="按当天比赛顺序UTC+4",NBA 10
-http://czstream.com:826/LouCarey/KYsHfE1YLU/119722
-#EXTINF:-1 tvg-name="NBA 11" tvg-logo="https://live.fanmingming.com/tv/NBA 11.png" group-title="按当天比赛顺序UTC+4",NBA 11
+#EXTINF:-1 tvg-name="NBA 11" tvg-logo="https://live.fanmingming.com/tv/NBA 11.png" group-title="按当天比赛顺序",NBA 11
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119723
-#EXTINF:-1 tvg-name="NBA 12" tvg-logo="https://live.fanmingming.com/tv/NBA 12.png" group-title="按当天比赛顺序UTC+4",NBA 12
+#EXTINF:-1 tvg-name="NBA 12" tvg-logo="https://live.fanmingming.com/tv/NBA 12.png" group-title="按当天比赛顺序",NBA 12
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119724
-#EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://live.fanmingming.com/tv/NBA 13.png" group-title="按当天比赛顺序UTC+4",NBA 13
+#EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://live.fanmingming.com/tv/NBA 13.png" group-title="按当天比赛顺序",NBA 13
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119725
-#EXTINF:-1 tvg-name="NBA 14" tvg-logo="https://live.fanmingming.com/tv/NBA 14.png" group-title="按当天比赛顺序UTC+4",NBA 14
+#EXTINF:-1 tvg-name="NBA 14" tvg-logo="https://live.fanmingming.com/tv/NBA 14.png" group-title="按当天比赛顺序",NBA 14
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119726
-#EXTINF:-1 tvg-name="NBA 15" tvg-logo="https://live.fanmingming.com/tv/NBA 15.png" group-title="按当天比赛顺序UTC+4",NBA 15
+#EXTINF:-1 tvg-name="NBA 15" tvg-logo="https://live.fanmingming.com/tv/NBA 15.png" group-title="按当天比赛顺序",NBA 15
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119727
-#EXTINF:-1 tvg-name="NBA 16" tvg-logo="https://live.fanmingming.com/tv/NBA 16.png" group-title="按当天比赛顺序UTC+4",NBA 16
+#EXTINF:-1 tvg-name="NBA 16" tvg-logo="https://live.fanmingming.com/tv/NBA 16.png" group-title="按当天比赛顺序",NBA 16
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119728
-#EXTINF:-1 tvg-name="NBA 17" tvg-logo="https://live.fanmingming.com/tv/NBA 17.png" group-title="按当天比赛顺序UTC+4",NBA 17
+#EXTINF:-1 tvg-name="NBA 17" tvg-logo="https://live.fanmingming.com/tv/NBA 17.png" group-title="按当天比赛顺序",NBA 17
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119729
-#EXTINF:-1 tvg-name="NBA 18" tvg-logo="https://live.fanmingming.com/tv/NBA 18.png" group-title="按当天比赛顺序UTC+4",NBA 18
+#EXTINF:-1 tvg-name="NBA 18" tvg-logo="https://live.fanmingming.com/tv/NBA 18.png" group-title="按当天比赛顺序",NBA 18
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119730
-#EXTINF:-1 tvg-name="NBA 19" tvg-logo="https://live.fanmingming.com/tv/NBA 19.png" group-title="按当天比赛顺序UTC+4",NBA 19
+#EXTINF:-1 tvg-name="NBA 19" tvg-logo="https://live.fanmingming.com/tv/NBA 19.png" group-title="按当天比赛顺序",NBA 19
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119731
-#EXTINF:-1 tvg-name="NBA 20" tvg-logo="https://live.fanmingming.com/tv/NBA 20.png" group-title="按当天比赛顺序UTC+4",NBA 20
+#EXTINF:-1 tvg-name="NBA 20" tvg-logo="https://live.fanmingming.com/tv/NBA 20.png" group-title="按当天比赛顺序",NBA 20
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119732
-#EXTINF:-1 tvg-name="NBA 21" tvg-logo="https://live.fanmingming.com/tv/NBA 21.png" group-title="按当天比赛顺序UTC+4",NBA 21
+#EXTINF:-1 tvg-name="NBA 21" tvg-logo="https://live.fanmingming.com/tv/NBA 21.png" group-title="按当天比赛顺序",NBA 21
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119733
-#EXTINF:-1 tvg-name="NBA 22" tvg-logo="https://live.fanmingming.com/tv/NBA 22.png" group-title="按当天比赛顺序UTC+4",NBA 22
+#EXTINF:-1 tvg-name="NBA 22" tvg-logo="https://live.fanmingming.com/tv/NBA 22.png" group-title="按当天比赛顺序",NBA 22
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119734
-#EXTINF:-1 tvg-name="NBA 23" tvg-logo="https://live.fanmingming.com/tv/NBA 23.png" group-title="按当天比赛顺序UTC+4",NBA 23
+#EXTINF:-1 tvg-name="NBA 23" tvg-logo="https://live.fanmingming.com/tv/NBA 23.png" group-title="按当天比赛顺序",NBA 23
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119735
-#EXTINF:-1 tvg-name="NBA 24" tvg-logo="https://live.fanmingming.com/tv/NBA 24.png" group-title="按当天比赛顺序UTC+4",NBA 24
+#EXTINF:-1 tvg-name="NBA 24" tvg-logo="https://live.fanmingming.com/tv/NBA 24.png" group-title="按当天比赛顺序",NBA 24
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119736
-#EXTINF:-1 tvg-name="NBA 25" tvg-logo="https://live.fanmingming.com/tv/NBA 25.png" group-title="按当天比赛顺序UTC+4",NBA 25
+#EXTINF:-1 tvg-name="NBA 25" tvg-logo="https://live.fanmingming.com/tv/NBA 25.png" group-title="按当天比赛顺序",NBA 25
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119737
-#EXTINF:-1 tvg-name="NBA 26" tvg-logo="https://live.fanmingming.com/tv/NBA 26.png" group-title="按当天比赛顺序UTC+4",NBA 26
+#EXTINF:-1 tvg-name="NBA 26" tvg-logo="https://live.fanmingming.com/tv/NBA 26.png" group-title="按当天比赛顺序",NBA 26
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119738
-#EXTINF:-1 tvg-name="NBA 27" tvg-logo="https://live.fanmingming.com/tv/NBA 27.png" group-title="按当天比赛顺序UTC+4",NBA 27
+#EXTINF:-1 tvg-name="NBA 27" tvg-logo="https://live.fanmingming.com/tv/NBA 27.png" group-title="按当天比赛顺序",NBA 27
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119739
-#EXTINF:-1 tvg-name="NBA 28" tvg-logo="https://live.fanmingming.com/tv/NBA 28.png" group-title="按当天比赛顺序UTC+4",NBA 28
+#EXTINF:-1 tvg-name="NBA 28" tvg-logo="https://live.fanmingming.com/tv/NBA 28.png" group-title="按当天比赛顺序",NBA 28
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119740
-#EXTINF:-1 tvg-name="NBA 29" tvg-logo="https://live.fanmingming.com/tv/NBA 29.png" group-title="按当天比赛顺序UTC+4",NBA 29
+#EXTINF:-1 tvg-name="NBA 29" tvg-logo="https://live.fanmingming.com/tv/NBA 29.png" group-title="按当天比赛顺序",NBA 29
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119741
-#EXTINF:-1 tvg-name="NBA 30" tvg-logo="https://live.fanmingming.com/tv/NBA 30.png" group-title="按当天比赛顺序UTC+4",NBA 30
+#EXTINF:-1 tvg-name="NBA 30" tvg-logo="https://live.fanmingming.com/tv/NBA 30.png" group-title="按当天比赛顺序",NBA 30
 http://czstream.com:826/LouCarey/KYsHfE1YLU/119742
+#EXTINF:-1 tvg-name="NBA 01" tvg-logo="https://live.fanmingming.com/tv/NBA 01.png" group-title="按当天比赛顺序",NBA 01
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119713
+#EXTINF:-1 tvg-name="NBA 02" tvg-logo="https://live.fanmingming.com/tv/NBA 02.png" group-title="按当天比赛顺序",NBA 02
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119714
+#EXTINF:-1 tvg-name="NBA 03" tvg-logo="https://live.fanmingming.com/tv/NBA 03.png" group-title="按当天比赛顺序",NBA 03
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119715
+#EXTINF:-1 tvg-name="NBA 04" tvg-logo="https://live.fanmingming.com/tv/NBA 04.png" group-title="按当天比赛顺序",NBA 04
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119716
+#EXTINF:-1 tvg-name="NBA 05" tvg-logo="https://live.fanmingming.com/tv/NBA 05.png" group-title="按当天比赛顺序",NBA 05
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119717
+#EXTINF:-1 tvg-name="NBA 06" tvg-logo="https://live.fanmingming.com/tv/NBA 06.png" group-title="按当天比赛顺序",NBA 06
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119718
+#EXTINF:-1 tvg-name="NBA 07" tvg-logo="https://live.fanmingming.com/tv/NBA 07.png" group-title="按当天比赛顺序",NBA 07
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119719
+#EXTINF:-1 tvg-name="NBA 08" tvg-logo="https://live.fanmingming.com/tv/NBA 08.png" group-title="按当天比赛顺序",NBA 08
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119720
+#EXTINF:-1 tvg-name="NBA 09" tvg-logo="https://live.fanmingming.com/tv/NBA 09.png" group-title="按当天比赛顺序",NBA 09
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119721
+#EXTINF:-1 tvg-name="NBA 10" tvg-logo="https://live.fanmingming.com/tv/NBA 10.png" group-title="按当天比赛顺序",NBA 10
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119722
 #EXTINF:-1 tvg-name="亚特兰大老鹰" tvg-logo="https://live.fanmingming.com/tv/亚特兰大老鹰.png" group-title="队伍有比赛才能看",亚特兰大老鹰
 http://czstream.com:826/LouCarey/KYsHfE1YLU/102109
 #EXTINF:-1 tvg-name="波士顿凯尔特人" tvg-logo="https://live.fanmingming.com/tv/波士顿凯尔特人.png" group-title="队伍有比赛才能看",波士顿凯尔特人
@@ -861,6 +879,70 @@ http://czstream.com:826/LouCarey/KYsHfE1YLU/102133
 http://czstream.com:826/LouCarey/KYsHfE1YLU/102134
 #EXTINF:-1 tvg-name="华盛顿奇才" tvg-logo="https://live.fanmingming.com/tv/华盛顿奇才.png" group-title="队伍有比赛才能看",华盛顿奇才
 http://czstream.com:826/LouCarey/KYsHfE1YLU/102135
+#EXTINF:-1 tvg-name="NHK综合" tvg-logo="https://live.fanmingming.com/tv/NHK综合.png" group-title="日本电视台",NHK综合
+https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
+#EXTINF:-1 tvg-name="NHK综合" tvg-logo="https://live.fanmingming.com/tv/NHK综合.png" group-title="日本电视台",NHK综合
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1471517821?profile=pass
+#EXTINF:-1 tvg-name="NHK教育" tvg-logo="https://live.fanmingming.com/tv/NHK教育.png" group-title="日本电视台",NHK教育
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/825208944?profile=pass
+#EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://live.fanmingming.com/tv/NHK BS.png" group-title="日本电视台",NHK BS
+http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvraU%2BA8%2FN%2B6NCam0oBPn1syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1359033252120&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OPBUENZVWSGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20452820260101155239103653&ispcode=55
+#EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://live.fanmingming.com/tv/NHK BS.png" group-title="日本电视台",NHK BS
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/2006720574?profile=pass
+#EXTINF:-1 tvg-name="BS富士" tvg-logo="https://live.fanmingming.com/tv/BS富士.png" group-title="日本电视台",BS富士
+http://136.239.173.10:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqH%2B5l99GK8Rg%2FAZvU0C4flsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1819022413813&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02C8ZA4KMMUKXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155239199069&ispcode=55
+#EXTINF:-1 tvg-name="BS富士" tvg-logo="https://live.fanmingming.com/tv/BS富士.png" group-title="日本电视台",BS富士
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1136246610?profile=pass
+#EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://live.fanmingming.com/tv/BS朝日.png" group-title="日本电视台",BS朝日
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/411377370?profile=pass
+#EXTINF:-1 tvg-name="BS东京" tvg-logo="https://live.fanmingming.com/tv/BS东京.png" group-title="日本电视台",BS东京
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1561213941?profile=pass
+#EXTINF:-1 tvg-name="BS吉本" tvg-logo="https://live.fanmingming.com/tv/BS吉本.png" group-title="日本电视台",BS吉本
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/894615938?profile=pass
+#EXTINF:-1 tvg-name="BS日本电视台" tvg-logo="https://live.fanmingming.com/tv/BS日本电视台.png" group-title="日本电视台",BS日本电视台
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1254201695?profile=pass
+#EXTINF:-1 tvg-name="J:COM卫星频道" tvg-logo="https://live.fanmingming.com/tv/J:COM卫星频道.png" group-title="日本电视台",J:COM卫星频道
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/182698543?profile=pass
+#EXTINF:-1 tvg-name="J:COM有线频道" tvg-logo="https://live.fanmingming.com/tv/J:COM有线频道.png" group-title="日本电视台",J:COM有线频道
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1510025175?profile=pass
+#EXTINF:-1 tvg-name="J:COM无线频道" tvg-logo="https://live.fanmingming.com/tv/J:COM无线频道.png" group-title="日本电视台",J:COM无线频道
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/872879899?profile=pass
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://live.fanmingming.com/tv/TBS.png" group-title="日本电视台",TBS
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1185758307?profile=pass
+#EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://live.fanmingming.com/tv/BS TBS.png" group-title="日本电视台",BS TBS
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/837524832?profile=pass
+#EXTINF:-1 tvg-name="TOKYO MX 1" tvg-logo="https://live.fanmingming.com/tv/TOKYO MX 1.png" group-title="日本电视台",TOKYO MX 1
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1331923988?profile=pass
+#EXTINF:-1 tvg-name="日本电视台" tvg-logo="https://live.fanmingming.com/tv/日本电视台.png" group-title="日本电视台",日本电视台
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1252490581?profile=pass
+#EXTINF:-1 tvg-name="富士电视台" tvg-logo="https://live.fanmingming.com/tv/富士电视台.png" group-title="日本电视台",富士电视台
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/2070430283?profile=pass
+#EXTINF:-1 tvg-name="朝日电视台" tvg-logo="https://live.fanmingming.com/tv/朝日电视台.png" group-title="日本电视台",朝日电视台
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1438572335?profile=pass
+#EXTINF:-1 tvg-name="千叶电视台" tvg-logo="https://live.fanmingming.com/tv/千叶电视台.png" group-title="日本电视台",千叶电视台
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1996984645?profile=pass
+#EXTINF:-1 tvg-name="琦玉电视台" tvg-logo="https://live.fanmingming.com/tv/琦玉电视台.png" group-title="日本电视台",琦玉电视台
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1717599019?profile=pass
+#EXTINF:-1 tvg-name="神奈川电视台" tvg-logo="https://live.fanmingming.com/tv/神奈川电视台.png" group-title="日本电视台",神奈川电视台
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1536394780?profile=pass
+#EXTINF:-1 tvg-name="BS10" tvg-logo="https://live.fanmingming.com/tv/BS10.png" group-title="日本电视台",BS10
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/390690282?profile=pass
+#EXTINF:-1 tvg-name="BS11" tvg-logo="https://live.fanmingming.com/tv/BS11.png" group-title="日本电视台",BS11
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/623833091?profile=pass
+#EXTINF:-1 tvg-name="BS12" tvg-logo="https://live.fanmingming.com/tv/BS12.png" group-title="日本电视台",BS12
+http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1496765316?profile=pass
+#EXTINF:-1 tvg-name="法国1台" tvg-logo="https://live.fanmingming.com/tv/法国1台.png" group-title="欧洲电视台",法国1台
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 tvg-name="法国2台" tvg-logo="https://live.fanmingming.com/tv/法国2台.png" group-title="欧洲电视台",法国2台
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 tvg-name="法国3台" tvg-logo="https://live.fanmingming.com/tv/法国3台.png" group-title="欧洲电视台",法国3台
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 tvg-name="法国4台" tvg-logo="https://live.fanmingming.com/tv/法国4台.png" group-title="欧洲电视台",法国4台
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 tvg-name="法国5台" tvg-logo="https://live.fanmingming.com/tv/法国5台.png" group-title="欧洲电视台",法国5台
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 tvg-name="法国新闻台" tvg-logo="https://live.fanmingming.com/tv/法国新闻台.png" group-title="欧洲电视台",法国新闻台
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 tvg-name="意大利1台" tvg-logo="https://live.fanmingming.com/tv/意大利1台.png" group-title="欧洲电视台",意大利1台
 https://mynettv.duckdns.org/stream/channelid/749089377?profile=pass
 #EXTINF:-1 tvg-name="意大利1台 4K" tvg-logo="https://live.fanmingming.com/tv/意大利1台 4K.png" group-title="欧洲电视台",意大利1台 4K
@@ -899,6 +981,30 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
 #EXTINF:-1 tvg-name="法语世界 少儿" tvg-logo="https://live.fanmingming.com/tv/法语世界 少儿.png" group-title="欧洲电视台",法语世界 少儿
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 tvg-name="爱尔兰RTÉ ONE" tvg-logo="https://live.fanmingming.com/tv/爱尔兰RTÉ ONE.png" group-title="欧洲电视台",爱尔兰RTÉ ONE
+http://41.180.140.146:4200/bysid/2101
+#EXTINF:-1 tvg-name="西班牙star" tvg-logo="https://live.fanmingming.com/tv/西班牙star.png" group-title="欧洲电视台",西班牙star
+https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
+#EXTINF:-1 tvg-name="英国BBC One NI" tvg-logo="https://live.fanmingming.com/tv/英国BBC One NI.png" group-title="欧洲电视台",英国BBC One NI
+http://41.180.140.146:4202/bysid/6963
+#EXTINF:-1 tvg-name="英国BBC Two" tvg-logo="https://live.fanmingming.com/tv/英国BBC Two.png" group-title="欧洲电视台",英国BBC Two
+http://41.180.140.146:4202/bysid/6940
+#EXTINF:-1 tvg-name="英国BBC CBBC" tvg-logo="https://live.fanmingming.com/tv/英国BBC CBBC.png" group-title="欧洲电视台",英国BBC CBBC
+http://41.180.140.146:4202/bysid/6972
+#EXTINF:-1 tvg-name="英国BBC CBeebies" tvg-logo="https://live.fanmingming.com/tv/英国BBC CBeebies.png" group-title="欧洲电视台",英国BBC CBeebies
+http://41.180.140.146:4220/bysid/10395
+#EXTINF:-1 tvg-name="英国itv 1" tvg-logo="https://live.fanmingming.com/tv/英国itv 1.png" group-title="欧洲电视台",英国itv 1
+http://41.180.140.146:4203/bysid/20810
+#EXTINF:-1 tvg-name="英国itv 2" tvg-logo="https://live.fanmingming.com/tv/英国itv 2.png" group-title="欧洲电视台",英国itv 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:-1 tvg-name="英国itv 3" tvg-logo="https://live.fanmingming.com/tv/英国itv 3.png" group-title="欧洲电视台",英国itv 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-name="英国itv 4" tvg-logo="https://live.fanmingming.com/tv/英国itv 4.png" group-title="欧洲电视台",英国itv 4
+http://41.180.140.146:4203/bysid/20825
+#EXTINF:-1 tvg-name="英国itv Quiz" tvg-logo="https://live.fanmingming.com/tv/英国itv Quiz.png" group-title="欧洲电视台",英国itv Quiz
+http://41.180.140.146:4203/bysid/20835
+#EXTINF:-1 tvg-name="英国QUEST" tvg-logo="https://live.fanmingming.com/tv/英国QUEST.png" group-title="欧洲电视台",英国QUEST
+http://41.180.140.146:4212/bysid/2925
 #EXTINF:-1 tvg-name="BBC 1 伦敦" tvg-logo="https://live.fanmingming.com/tv/BBC 1 伦敦.png" group-title="欧洲电视台",BBC 1 伦敦
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC 1 海峡群岛" tvg-logo="https://live.fanmingming.com/tv/BBC 1 海峡群岛.png" group-title="欧洲电视台",BBC 1 海峡群岛
@@ -961,9 +1067,9 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-name="德国hr-fernsehen" tvg-logo="https://live.fanmingming.com/tv/德国hr-fernsehen.png" group-title="欧洲电视台",德国hr-fernsehen
 http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-name="德国DRM" tvg-logo="https://live.fanmingming.com/tv/德国DRM.png" group-title="欧洲电视台",德国DRM
+#EXTINF:-1 tvg-name="德国MDR" tvg-logo="https://live.fanmingming.com/tv/德国MDR.png" group-title="欧洲电视台",德国MDR
 https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="德国NDR Sachsen-Anhalt" tvg-logo="https://live.fanmingming.com/tv/德国NDR Sachsen-Anhalt.png" group-title="欧洲电视台",德国NDR Sachsen-Anhalt
+#EXTINF:-1 tvg-name="德国MDR Sachsen-Anhalt" tvg-logo="https://live.fanmingming.com/tv/德国MDR Sachsen-Anhalt.png" group-title="欧洲电视台",德国MDR Sachsen-Anhalt
 https://mdr-live.ard-mcdn.de/mdr/sa/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="德国Radio Bremen Fernsehen" tvg-logo="https://live.fanmingming.com/tv/德国Radio Bremen Fernsehen.png" group-title="欧洲电视台",德国Radio Bremen Fernsehen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
