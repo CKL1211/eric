@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml"
+#EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://119.123.176.187:8086/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1港澳版" tvg-logo="https://live.fanmingming.com/tv/CCTV1港澳版.png" group-title="央视",CCTV1港澳版
