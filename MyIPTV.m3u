@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://119.123.177.225:8086/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1香港" tvg-logo="https://live.fanmingming.com/tv/CCTV1香港.png" group-title="央视",CCTV1香港
+#EXTINF:-1 tvg-name="CCTV1港澳版" tvg-logo="https://live.fanmingming.com/tv/CCTV1香港.png" group-title="央视",CCTV1港澳版
 https://cdn10.163189.xyz/stream/163189/cctv1/
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 http://119.123.177.225:8086/hls/3/index.m3u8
