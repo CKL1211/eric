@@ -84,7 +84,7 @@ CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 深圳卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001521/index.m3u8?streamid=2af9bbae55f64f373a94440b8bb0a0bd&streamkey=02U7MIyTadx5OTup7GZ3iSHAopd9liOmB72zroTGRG1Jp8vSozGwEQmJuI7IuQmHiIeLm8w2myHRsiOBiLaXV3LghOO5w2e0q0kHQpwDw3H4zpbcWSkedAr4dCeJHEJ&token=1775753828-0fcf36ad56880609-0-56827b1584e31c551b4ec6d3710aa355
 四川卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001690/index.m3u8?streamid=401bf692a1a8b91298f26077d53316d6&streamkey=0bKBhLQXZpbdLfnJtHeIv3eieuGyrEEeNqyvzRCSRSCqs193VuUbmVUE5aodop0npzGwC8hbmN0F0NY5vcmjAg84IHS5WVRV6qWOjmQZVbbjTbV3HqPCDaExG27zC&token=1775753857-d81f3851a1720bc1-0-e40ae8788e6f2d25c955a6a331b76a83
 多彩文体,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3u8?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&streamkey=0AGMO6LiBIxyH4EhXQA4CyyBB6GWkVdx4wZhM6J1AywT63McWrpsYW9yLXS08YubrPIfbHwZLLnp7So4ZwIBrnd0XfZRr8BbmzbuifkWu2isG4qQh6gE8sxMfPTZh3ri&token=1775939208-d56ed9c8bb67d5e7-0-2a1d1f2081da3c539979b1c938effb5f
-CCTV4,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001451/index.m3u8?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&streamkey=0PV1gjFJAoweF3LBEa3Bs0tDJJ820W4wW1ZFaj9mvIJCTOb7YMJjyNipqSJ5XRwGMieXBE8k0nEcmgeD1GaGAG2QdDltcdT65Yz2RRyKTd82wMqT6&token=1775754026-64bf526cb923c04a-0-cf56d9188e3b064b963ed02898bf719d
+CCTV4K,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001451/index.m3u8?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&streamkey=0PV1gjFJAoweF3LBEa3Bs0tDJJ820W4wW1ZFaj9mvIJCTOb7YMJjyNipqSJ5XRwGMieXBE8k0nEcmgeD1GaGAG2QdDltcdT65Yz2RRyKTd82wMqT6&token=1775754026-64bf526cb923c04a-0-cf56d9188e3b064b963ed02898bf719d
 CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
 
 广东,#genre#
@@ -132,20 +132,20 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 北京,#genre#
-北京体育休闲,http://r.xace.fun:4999/udp/239.3.1.243:8000
-北京国际,http://r.xace.fun:4999/udp/239.3.1.235:8000
-北京影视,http://r.xace.fun:4999/udp/239.3.1.158:8000
-北京文艺,http://r.xace.fun:4999/udp/239.3.1.242:8000
-北京新闻,http://r.xace.fun:4999/udp/239.3.1.159:8000
-北京生活,http://r.xace.fun:4999/udp/239.3.1.117:8000
-北京纪实科教,http://r.xace.fun:4999/udp/239.3.1.115:8000
-北京财经,http://r.xace.fun:4999/udp/239.3.1.116:8000
-卡酷少儿,http://r.xace.fun:4999/udp/239.3.1.189:8000
-北京IPTV淘BABY,http://r.xace.fun:4999/udp/239.3.1.238:8001
-北京IPTV萌宠TV,http://r.xace.fun:4999/udp/239.3.1.102:8001
-北京IPTV淘剧场,http://r.xace.fun:4999/udp/239.3.1.95:8001
-北京IPTV淘娱乐,http://r.xace.fun:4999/udp/239.3.1.100:8001
-北京IPTV淘电影,http://r.xace.fun:4999/udp/239.3.1.250:8001
+北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
+北京国际,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
+北京影视,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.82:8000
+北京文艺,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.22:8002
+北京新闻,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.83:8000
+北京生活,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.108:8002
+北京纪实科教,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.105:8002
+北京财经,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.106:8002
+卡酷少儿,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.35:8000
+北京IPTV淘BABY,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
+北京IPTV萌宠TV,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
+北京IPTV淘剧场,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.37:8002
+北京IPTV淘娱乐,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.61:8002
+北京IPTV淘电影,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.38:8002
 北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 
 上海,#genre#
@@ -211,12 +211,14 @@ CHC动作电影,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch0000009099000
 美国ESPN8 THE OCHO,https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 美国NBAㅤ,http://103.148.44.38:8000/play/a03m/index.m3u8
 美国NBA,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+美国网球频道,http://23.237.104.106:8080/USA_TENNIS/tracks-v1a1/mono.m3u8
 美国NBC Sports NOW,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 美国CBC SPORTS HQ,https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 美国福克斯体育1台,http://czstream.com:826/LouCarey/KYsHfE1YLU/120160
 美国福克斯体育2台,http://czstream.com:826/LouCarey/KYsHfE1YLU/120161
 美国UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 美国SPEED SPORT 1,https://aka-live1050.delivery.roku.com/63e7c506-7574-46d4-a388-2453864eae36/t2-origin/out/v1/live.m3u8
+天空体育英超,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/335.ts
 天空体育英超,http://czstream.com:826/LouCarey/KYsHfE1YLU/98775
 天空体育赛事频道,http://czstream.com:826/LouCarey/KYsHfE1YLU/98789
 天空体育主赛事 4K,http://czstream.com:826/LouCarey/KYsHfE1YLU/119327
@@ -224,6 +226,9 @@ CHC动作电影,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch0000009099000
 天空体育4K 1,http://czstream.com:826/LouCarey/KYsHfE1YLU/118944
 天空体育4K 2,http://czstream.com:826/LouCarey/KYsHfE1YLU/118945
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+法国beIN体育1,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/450.ts
+法国beIN体育2,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/451.ts
+法国beIN体育3,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/453.ts
 欧洲体育1,http://46.36.37.186:33379/play/Eurosport%20HD.m3u8
 欧洲体育2,http://46.36.37.186:33379/play/Eurosport%202%20HD.m3u8
 欧洲体育1,https://hls.iill.top/api/Eurosport-1/index.m3u8
@@ -294,6 +299,7 @@ CHC动作电影,http://pplee.vicp.net:4022/udp/233.18.204.174:5140
 CHC家庭影院,http://pplee.vicp.net:4022/udp/233.18.204.173:5140
 CHC影迷电影,http://pplee.vicp.net:4022/udp/233.18.204.175:5140
 华数动画电影,http://119.123.177.225:8086/hls/78/index.m3u8
+峨眉电影 测试,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 五星体育,http://pplee.vicp.net:4022/udp/233.18.204.58:5140
 武术世界,http://www.frankgb.cn:4022/udp/239.49.0.205:8000
@@ -376,7 +382,8 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 加拿大Stingray Now 4K,http://czstream.com:826/LouCarey/KYsHfE1YLU/119332
 MTV LIVE,http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5g5hwf_1cwe
 美国MTV LIVE,http://23.237.104.106:8080/USA_MTV_LIVE/tracks-v1a1/mono.m3u8
-法国Mezoo Live,http://46.36.37.186:33379/play/Mezzo%20live%20HD.m3u8
+法国MEZZO,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/495.ts
+法国MEZZO LIVE,http://46.36.37.186:33379/play/Mezzo%20live%20HD.m3u8
 日本MUSIC ON! TV,http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1030477967?profile=pass
 日本Music Japan,http://103.255.250.203:5002/cs06.m3u8?token=guoziyun&channel=zhongying
 韩国K-POP by CJ ENM,https://dah0tmei2n9kh.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/chunklist.m3u8
@@ -544,6 +551,14 @@ BS12,http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1496765316?
 AT-X,https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 
 欧洲电视台,#genre#
+法国1台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/390.ts
+法国2台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/402.ts
+法国2台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/11008.ts
+法国3台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/11009.ts
+法国4台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/404.ts
+法国5台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/13.ts
+法国5台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/11011.ts
+法国5台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/405.ts
 意大利1台,https://mynettv.duckdns.org/stream/channelid/749089377?profile=pass
 意大利1台 4K,https://mynettv.duckdns.org/stream/channelid/1539667822?profile=pass
 意大利2台,https://mynettv.duckdns.org/stream/channelid/1122914994?profile=pass
@@ -569,6 +584,8 @@ AT-X,https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 英国BBC CBBC,http://41.180.140.146:4202/bysid/6972
 英国BBC CBeebies,http://41.180.140.146:4220/bysid/10395
 英国itv 1,http://41.180.140.146:4203/bysid/20810
+英国itv 2,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/240.ts
+英国itv 3,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/241.ts
 英国itv 4,http://41.180.140.146:4203/bysid/20825
 英国itv Quiz,http://41.180.140.146:4203/bysid/20835
 英国QUEST,http://41.180.140.146:4212/bysid/2925
@@ -619,6 +636,111 @@ BBC 议会频道,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:
 德国ARD alpha,https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 德国tagesschau24,https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 德国phoenix,https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+上海移动,#genre#
+CCTV1,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001022/index.m3u8
+CCTV2,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001220/index.m3u8
+CCTV3,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001186/index.m3u8
+CCTV4,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001221/index.m3u8
+CCTV5,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001187/index.m3u8
+CCTV6,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001188/index.m3u8
+CCTV7,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001236/index.m3u8
+CCTV8,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001189/index.m3u8
+CCTV9,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001237/index.m3u8
+CCTV10,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001238/index.m3u8
+CCTV11,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001309/index.m3u8
+CCTV12,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001239/index.m3u8
+CCTV13,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001328/index.m3u8
+CCTV14,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001240/index.m3u8
+CCTV15,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001338/index.m3u8
+CCTV16,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001248/index.m3u8
+CCTV17,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001241/index.m3u8
+风云足球,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001590/index.m3u8
+高尔夫·网球,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001630/index.m3u8
+央视文化精品,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001670/index.m3u8
+风云音乐,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001660/index.m3u8
+第一剧场,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001621/index.m3u8
+怀旧剧场,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001640/index.m3u8
+风云剧场,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001650/index.m3u8
+世界地理,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001620/index.m3u8
+兵器科技,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001610/index.m3u8
+女性时尚,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001571/index.m3u8
+央视台球,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001600/index.m3u8
+CHC家庭影院,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001570/index.m3u8
+CHC影迷电影,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001581/index.m3u8
+CHC动作电影,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001580/index.m3u8
+
+广东卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001032/index.m3u8
+广西卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001224/index.m3u8
+海南卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001183/index.m3u8
+河南卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001222/index.m3u8
+湖北卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001027/index.m3u8
+湖南卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001026/index.m3u8
+江苏卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001033/index.m3u8
+深圳卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001030/index.m3u8
+四川卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001130/index.m3u8
+重庆卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001129/index.m3u8
+云南卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001223/index.m3u8
+浙江卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001023/index.m3u8
+东方卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001013/index.m3u8
+北京卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001029/index.m3u8
+江西卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001034/index.m3u8
+山东卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001028/index.m3u8
+安徽卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001037/index.m3u8
+东南卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001201/index.m3u8
+天津卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001036/index.m3u8
+贵州卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001184/index.m3u8
+河北卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001229/index.m3u8
+黑龙江卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001031/index.m3u8
+青海卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001450/index.m3u8
+三沙卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001185/index.m3u8
+甘肃卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001298/index.m3u8
+山西卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001070/index.m3u8
+吉林卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001225/index.m3u8
+陕西卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001067/index.m3u8
+内蒙古卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001068/index.m3u8
+辽宁卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001035/index.m3u8
+兵团卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001066/index.m3u8
+西藏卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001072/index.m3u8
+宁夏卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001074/index.m3u8
+新疆卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001065/index.m3u8
+ 
+东方财经,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001318/index.m3u8
+第一财经,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001017/index.m3u8
+哈哈炫动,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001232/index.m3u8
+动漫秀场,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001196/index.m3u8
+游戏风云,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001192/index.m3u8
+乐游,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001200/index.m3u8
+法制天地,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001195/index.m3u8
+都市剧场,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001203/index.m3u8
+金色学堂,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001194/index.m3u8
+时尚生活,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001199/index.m3u8
+财富天下,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001219/index.m3u8
+快了垂钓,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001235/index.m3u8
+新闻综合,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001014/index.m3u8
+东方影视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001016/index.m3u8
+五星体育,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001018/index.m3u8
+上海都市,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001015/index.m3u8
+上海教育,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001268/index.m3u8
+多彩文体,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001193/index.m3u8
+金鹰卡通,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001460/index.m3u8
+金鹰纪实,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001230/index.m3u8
+CETV1,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001020/index.m3u8
+CETV4,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001348/index.m3u8
+CETV早期教育,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001680/index.m3u8
+
+山东卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001582/index.m3u8
+湖南卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001710/index.m3u8
+浙江卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001720/index.m3u8
+东方卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001641/index.m3u8
+北京卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001500/index.m3u8
+江苏卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001700/index.m3u8
+广东卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001540/index.m3u8
+深圳卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001521/index.m3u8
+四川卫视 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001690/index.m3u8
+多彩文体 4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001490/index.m3u8
+CCTV4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001451/index.m3u8
+CCTV16  4K,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001258/index.m3u8
 
 备用央视咪咕,#genre#
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
