@@ -1,25 +1,28 @@
 央视,#genre#
-CCTV1,http://119.123.177.188:8086/hls/2/index.m3u8
+CCTV1,http://119.123.177.33:8086/hls/2/index.m3u8
 CCTV1港澳版,https://cdn10.163189.xyz/stream/163189/cctv1/
-CCTV2,http://119.123.177.188:8086/hls/3/index.m3u8
-CCTV3,http://119.123.177.188:8086/hls/4/index.m3u8
-CCTV4,http://119.123.177.188:8086/hls/5/index.m3u8
-CCTV5,http://119.123.177.188:8086/hls/6/index.m3u8
-CCTV5+,http://119.123.177.188:8086/hls/252/index.m3u8
-CCTV6,http://119.123.177.188:8086/hls/7/index.m3u8
-CCTV7,http://119.123.177.188:8086/hls/8/index.m3u8
-CCTV8,http://119.123.177.188:8086/hls/9/index.m3u8
-CCTV9,http://119.123.177.188:8086/hls/10/index.m3u8
-CCTV10,http://119.123.177.188:8086/hls/11/index.m3u8
-CCTV11,http://119.123.177.188:8086/hls/12/index.m3u8
-CCTV12,http://119.123.177.188:8086/hls/13/index.m3u8
-CCTV13,http://119.123.177.188:8086/hls/14/index.m3u8
-CCTV14,http://119.123.177.188:8086/hls/15/index.m3u8
-CCTV15,http://119.123.177.188:8086/hls/16/index.m3u8
-CCTV16,http://119.123.177.188:8086/hls/17/index.m3u8
+CCTV2,http://119.123.177.33:8086/hls/3/index.m3u8
+CCTV3,http://119.123.177.33:8086/hls/4/index.m3u8
+CCTV4,http://119.123.177.33:8086/hls/5/index.m3u8
+CCTV5,http://119.123.177.33:8086/hls/6/index.m3u8
+CCTV5+,http://119.123.177.33:8086/hls/252/index.m3u8
+CCTV6,http://119.123.177.33:8086/hls/7/index.m3u8
+CCTV7,http://119.123.177.33:8086/hls/8/index.m3u8
+CCTV8,http://119.123.177.33:8086/hls/9/index.m3u8
+CCTV9,http://119.123.177.33:8086/hls/10/index.m3u8
+CCTV10,http://119.123.177.33:8086/hls/11/index.m3u8
+CCTV11,http://119.123.177.33:8086/hls/12/index.m3u8
+CCTV12,http://119.123.177.33:8086/hls/13/index.m3u8
+CCTV13,http://119.123.177.33:8086/hls/14/index.m3u8
+CCTV14,http://119.123.177.33:8086/hls/15/index.m3u8
+CCTV15,http://119.123.177.33:8086/hls/16/index.m3u8
+CCTV16,http://119.123.177.33:8086/hls/17/index.m3u8
 CCTV17,http://home.szjim.top:4000/udp/239.77.1.121:5146
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
+CETV1,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001020/index.m3u8?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&streamkey=06Au6xOXDlDEab661Jj4JZtB5rtbWJNHTgnSAVTvFlBNzzUBYjIEDgT9mS4Z4uWlLecUluW7TiiSPKV9p8qg7uORC8NHkZGp2wYI0D2H51xbeR6S&token=1776221422-a453c0c847327165-0-68e4509e1d03b7b6d7c3b8c927e72a7a
+CETV4,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001348/index.m3u8?streamid=37d60172a2bbb0d41f072d29213e6264&streamkey=06Au6xOXDlDEaapIVa7cpJhfzHs3AaqeIMjrUSQi1ZhQNbtlQYu45U2p26oN78H5M54F7fWWjiWa5JbgizqfzftqDt06P5Nj3CWuFMU3yFOgiX5n&token=1776221467-8fa99b3b879bacd8-0-b09602326b577119089417591328a91d
+CETV早期教育,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001680/index.m3u8?streamid=2c224135515a11c735f7351c17434a62&streamkey=070kmnWlSO6tVzLyh1sXZ20iCOCRLXoHmCsz0IqkkXJJD0eYMb2A5kwULwbki6Baf4Z2bJfsbp07kt5WoqgWvFeVzbkW96tGU7nFRu0brwnn5lybIRJA&token=1776221300-cf453e64c67843de-0-4539fce56dec116202db007052b0029c
 风云足球,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001590/index.m3u8?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&streamkey=0WsC3jqv5pZMcVlxFBNnufmiOCXFZigfn61ogjSwht3bqXevILtdE9S00t1S31TUcNtpNMycyrjLcmhMwenwuh8FAxcPIPYTEQUX1MDXgmTdP03V9WzCfa1iP&token=1775754113-ea7ee6d53b99caad-0-c93511c176fc0c319dc73b7c39050be7
 高尔夫·网球,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001630/index.m3u8?streamid=451d321c7d5df14c154d41bfc36818ba&streamkey=092SzM8qh4GNZmlKrvbt7mLZrzFoKIOqJdHt2nxkKtoF5ZUsM4NzxcyxIp5WijxjSYyXXwQDNngGki637GlXWDse1Uzt8LfJEkILVW7BrgEPyPuWVKaDDpkTovJ2&token=1775754157-c2543fc8a8d8012d-0-9fc91cf1ced6693d27f53ad1922fbda8
 央视文化精品,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001670/index.m3u8?streamid=618d33181dba2b51e9d3752d73d737b8&streamkey=0BeWwyHBmiCHyS40J1tisoH3ivjrXhzz03oQbO5uiXsRKSS8kvCliHls9zj3gCGKqzJGZJSNE6Evbwmw4OinJFa3A7rvlVNctyhssTQDHow2JgnP7kv4mVoKgkDCCSyt8M3n&token=1775754194-77abd02e1989ddc1-0-d8b4892968a6f3343a776beca71cbdc8
@@ -40,27 +43,27 @@ CGTN西语,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 卫视,#genre#
-广东卫视,http://119.123.177.188:8086/hls/44/index.m3u8
-广西卫视,http://119.123.177.188:8086/hls/48/index.m3u8
-海南卫视,http://119.123.177.188:8086/hls/50/index.m3u8
-河南卫视,http://119.123.177.188:8086/hls/52/index.m3u8
-湖北卫视,http://119.123.177.188:8086/hls/54/index.m3u8
-湖南卫视,http://119.123.177.188:8086/hls/55/index.m3u8
-江苏卫视,http://119.123.177.188:8086/hls/59/index.m3u8
-深圳卫视,http://119.123.177.188:8086/hls/79/index.m3u8
-四川卫视,http://119.123.177.188:8086/hls/82/index.m3u8
-重庆卫视,http://119.123.177.188:8086/hls/100/index.m3u8
-浙江卫视,http://119.123.177.188:8086/hls/101/index.m3u8
-东方卫视,http://119.123.177.188:8086/hls/129/index.m3u8
-北京卫视,http://119.123.177.188:8086/hls/131/index.m3u8
-江西卫视,http://119.123.177.188:8086/hls/132/index.m3u8
-山东卫视,http://119.123.177.188:8086/hls/133/index.m3u8
-安徽卫视,http://119.123.177.188:8086/hls/137/index.m3u8
-东南卫视,http://119.123.177.188:8086/hls/161/index.m3u8
-天津卫视,http://119.123.177.188:8086/hls/140/index.m3u8
-贵州卫视,http://119.123.177.188:8086/hls/143/index.m3u8
-河北卫视,http://119.123.177.188:8086/hls/144/index.m3u8
-辽宁卫视,http://119.123.177.188:8086/hls/251/index.m3u8
+广东卫视,http://119.123.177.33:8086/hls/44/index.m3u8
+广西卫视,http://119.123.177.33:8086/hls/48/index.m3u8
+海南卫视,http://119.123.177.33:8086/hls/50/index.m3u8
+河南卫视,http://119.123.177.33:8086/hls/52/index.m3u8
+湖北卫视,http://119.123.177.33:8086/hls/54/index.m3u8
+湖南卫视,http://119.123.177.33:8086/hls/55/index.m3u8
+江苏卫视,http://119.123.177.33:8086/hls/59/index.m3u8
+深圳卫视,http://119.123.177.33:8086/hls/79/index.m3u8
+四川卫视,http://119.123.177.33:8086/hls/82/index.m3u8
+重庆卫视,http://119.123.177.33:8086/hls/100/index.m3u8
+浙江卫视,http://119.123.177.33:8086/hls/101/index.m3u8
+东方卫视,http://119.123.177.33:8086/hls/129/index.m3u8
+北京卫视,http://119.123.177.33:8086/hls/131/index.m3u8
+江西卫视,http://119.123.177.33:8086/hls/132/index.m3u8
+山东卫视,http://119.123.177.33:8086/hls/133/index.m3u8
+安徽卫视,http://119.123.177.33:8086/hls/137/index.m3u8
+东南卫视,http://119.123.177.33:8086/hls/161/index.m3u8
+天津卫视,http://119.123.177.33:8086/hls/140/index.m3u8
+贵州卫视,http://119.123.177.33:8086/hls/143/index.m3u8
+河北卫视,http://119.123.177.33:8086/hls/144/index.m3u8
+辽宁卫视,http://119.123.177.33:8086/hls/251/index.m3u8
 海峡卫视,http://wine600.i234.me:4567/rtp/239.61.2.151:8894
 云南卫视,http://home.szjim.top:4000/udp/239.253.43.37:5146
 青海卫视,http://home.szjim.top:4000/udp/239.253.43.125:5146
@@ -94,17 +97,17 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 多彩文体,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3u8?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&streamkey=0AGMO6LiBIxyH4EhXQA4CyyBB6GWkVdx4wZhM6J1AywT63McWrpsYW9yLXS08YubrPIfbHwZLLnp7So4ZwIBrnd0XfZRr8BbmzbuifkWu2isG4qQh6gE8sxMfPTZh3ri&token=1775939208-d56ed9c8bb67d5e7-0-2a1d1f2081da3c539979b1c938effb5f
 
 广东,#genre#
-大湾区卫视,http://119.123.177.188:8086/hls/29/index.m3u8
-广东民生,http://119.123.177.188:8086/hls/39/index.m3u8
-广东少儿,http://119.123.177.188:8086/hls/40/index.m3u8
-广东体育,http://119.123.177.188:8086/hls/42/index.m3u8
-广东新闻,http://119.123.177.188:8086/hls/45/index.m3u8
-广东影视,http://119.123.177.188:8086/hls/46/index.m3u8
-广东珠江,http://119.123.177.188:8086/hls/47/index.m3u8
-广东经济,http://119.123.177.188:8086/hls/63/index.m3u8
+大湾区卫视,http://119.123.177.33:8086/hls/29/index.m3u8
+广东民生,http://119.123.177.33:8086/hls/39/index.m3u8
+广东少儿,http://119.123.177.33:8086/hls/40/index.m3u8
+广东体育,http://119.123.177.33:8086/hls/42/index.m3u8
+广东新闻,http://119.123.177.33:8086/hls/45/index.m3u8
+广东影视,http://119.123.177.33:8086/hls/46/index.m3u8
+广东珠江,http://119.123.177.33:8086/hls/47/index.m3u8
+广东经济,http://119.123.177.33:8086/hls/63/index.m3u8
 嘉佳卡通,http://home.szjim.top:4000/udp/239.77.0.179:5146
 岭南戏曲,http://home.szjim.top:4000/udp/239.77.0.122:5146
-深圳都市,http://119.123.177.188:8086/hls/103/index.m3u8
+深圳都市,http://119.123.177.33:8086/hls/103/index.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -123,6 +126,7 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
+凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 HOY77,https://cdn6.163189.xyz/163189/hoy
@@ -214,6 +218,7 @@ CHC动作电影,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch0000009099000
 英国TNT体育3,http://czstream.com:826/LouCarey/KYsHfE1YLU/89212
 英国TNT体育4,http://czstream.com:826/LouCarey/KYsHfE1YLU/89211
 英国TNT体育 4K,http://czstream.com:826/LouCarey/KYsHfE1YLU/119906
+英国PREMIER SPORTS 1,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RWBAQZU96HQZFA/6555/index.m3u8
 英国PREMIER SPORTS 1,http://czstream.com:826/LouCarey/KYsHfE1YLU/98771
 英国PREMIER SPORTS 2,http://czstream.com:826/LouCarey/KYsHfE1YLU/98770
 美国ESPN,http://czstream.com:826/LouCarey/KYsHfE1YLU/119665
@@ -243,7 +248,6 @@ CHC动作电影,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch0000009099000
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 法国beIN体育1,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/450.ts
 法国beIN体育2,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/451.ts
-法国beIN体育3,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SLYHSUXG773LN5BR6CBY4PUB/2501/index.m3u8
 法国beIN体育3,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/453.ts
 欧洲体育1,https://hls.iill.top/api/Eurosport-1/index.m3u8
 欧洲体育2,https://hls.iill.top/api/Eurosport-2/index.m3u8
@@ -280,6 +284,8 @@ RTVS ŠPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 罗马尼亚DIGI Sport3,http://89.37.116.198:8000/play/a04m
 罗马尼亚DIGI Sport4,http://89.37.116.198:8000/play/a04n
 罗马尼亚PRIMA Sport1,http://89.37.116.198:8000/play/a036
+罗马尼亚PRIMA Sport2,http://188.26.241.39:7000/stream/channelid/107260004?profile=pass
+罗马尼亚PRIMA Sport3,http://188.26.241.39:7000/stream/channelid/1958330082?profile=pass
 罗马尼亚PRIMA Sport5,http://89.37.116.198:8000/play/a00g
 波兰Eleven Sports 1,http://193.24.244.60:1001/udp/239.254.4.221:6060
 波兰Eleven Sports 1 4K,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SLYHSUXG773LN5BR6CBY4PUB/20068/index.m3u8
@@ -327,7 +333,7 @@ RTVS ŠPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 CHC动作电影,http://pplee.vicp.net:4022/udp/233.18.204.174:5140
 CHC家庭影院,http://pplee.vicp.net:4022/udp/233.18.204.173:5140
 CHC影迷电影,http://pplee.vicp.net:4022/udp/233.18.204.175:5140
-华数动画电影,http://119.123.177.188:8086/hls/78/index.m3u8
+华数动画电影,http://119.123.177.33:8086/hls/78/index.m3u8
 峨眉电影 测试,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 黑莓动画,http://124.236.93.22:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 黑莓电影,http://124.236.93.22:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
@@ -346,6 +352,7 @@ CHC影迷电影,http://pplee.vicp.net:4022/udp/233.18.204.175:5140
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 ROCK Action,http://116.241.240.176:5050/4gtv-live138/index.m3u8
+ROCK Xstream,https://v.iill.top/4gtv/4gtv-live124/index.m3u8
 ROCK Entertainment,http://116.241.240.176:5050/4gtv-live080/index.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
@@ -434,7 +441,6 @@ MTV LIVE,http://de2.mirror-tv.net:80/mtv-live-hd/tracks-v1a1/mono.m3u8?token=cy5
 XITE Hits,https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 Vevo Pop,https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 Vevo Popㅤ,https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live.m3u8
-Vevo Rock,https://d2qrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 Vevo Retro Rock,https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 Vevo Country,https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 Vevo Countryㅤ,https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live.m3u8
@@ -595,7 +601,6 @@ AT-X,https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 法国2台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/11008.ts
 法国3台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/11009.ts
 法国4台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/404.ts
-法国5台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/11011.ts
 法国5台,http://31.43.191.49:25461/live/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/405.ts
 意大利1台,https://mynettv.duckdns.org/stream/channelid/749089377?profile=pass
 意大利1台 4K,https://mynettv.duckdns.org/stream/channelid/1539667822?profile=pass
@@ -605,7 +610,7 @@ AT-X,https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 意大利2台,https://mynettv.duckdns.org/stream/channelid/72976509?profile=pass
 意大利3台,https://mynettv.duckdns.org/stream/channelid/738155134?profile=passs
 意大利4台,https://mynettv.duckdns.org/stream/service/fa29bac8851202b7d89b5c879ec21c16
-意大利5台 ljk解码,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SLYHSUXG773LN5BR6CBY4PUB/19085/index.m3u8
+意大利5台,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SLYHSUXG773LN5BR6CBY4PUB/19085/index.m3u8
 意大利5台,https://mynettv.duckdns.org/stream/service/3e226482c0fbfbe97390be59490d60d9
 法语世界 法比瑞,https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 法语世界 欧洲,https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
@@ -673,3 +678,59 @@ BBC 议会频道,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:
 德国ARD alpha,https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 德国tagesschau24,https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 德国phoenix,https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+央视卫视备用,#genre#
+CCTV1,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001022/index.m3u8?streamid=ae1fc95449a7d4a13c53490cbcae614f&streamkey=06Au6xOXDlDEaaeUTZKStT5NHhYIT5atuN6MxmxGtLK8hq713D95LM5IgMRJKI4sBXc8Lu0DUWRdrI6ioWN0UdtFt59vE5f4hbGhaCSz8fd5CPue&token=1775845083-cdd5c88e660712a3-0-37bb3145d77ebb3af4a418f4452bc91a
+CCTV2,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001220/index.m3u8?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&streamkey=06Au6xOXDlDEaahUxG9j1FBkoqdsI8l6PCPoo4sid7zPTrqGIQxcxzPc9ggthcHj39Z8yT8NEJByLvvycU2SO6OlLuQqisYFwsUSKouDGUNe1kjR&token=1775845117-3db4d5db70583ae0-0-23dd61979d9fc4de21a8fc99fe5aee41
+CCTV3,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001186/index.m3u8?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&streamkey=06Au6xOXDlDEaaQWeYRemlansdBarTPFm8IxFwCXJdwI6lWmZxIaRqpzg2uUxbPvqfccdnVsBlbT9GvauX4LNyXBwcSKyryXh2jRfE6X0nxHozf2&token=1775845150-393eb1cab48579e2-0-8468bc202079d3e8e98db0ac5d526274
+CCTV4,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001221/index.m3u8?streamid=cc1a7c2d76ea7e0ab85515d9318d6a67&streamkey=06Au6xOXDlDEaaeEglH4qi4iWS8MuKqAUqDAbrukD8shOD3CiV6rJYELHBB1GBHY9ia2BLzCsCr11GjfPKDuhWe3zo6SAYGzpz9uYJyQLNngmOhH&token=1775845172-fa96cf732af597d1-0-89893d753f92cfb3c6518f8a3497d8ce
+CCTV5,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001187/index.m3u8?streamid=188da934b8ba25977f0ac6a59478a16b&streamkey=06Au6xOXDlDEaaHEl7I5Lgo1s1KksS4RIjNkNWzXWXQnUVGpxwSCei8pkOHIZylNmoo1T5jSmR28pzprGC58Dth8JFEdh9ocxVXMSBUDePxcntrF&token=1775845208-91f455119e3b390d-0-3bc348abca60c8767442ef6b0f5ffcab
+CCTV5+,https://fjct-584-cf1.stream.264788.xyz/PLTV/88888888/224/3221226850/1.m3u8?streamid=98657a78f17179c4239d0009df18455c&streamkey=0DVraCm05uXEfYmbM1hNuyvNz4pZLrWkXpmKCzgOqTKmPd3wLGYToEfCG0xuzhEmo7Io6ChOqXKAWToqDlHxdD5Z9F7Km&token=1775848663-a6908fcaee12660d-0-9b7c8e9dd0edfa3f024894c2f053171e
+CCTV6,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001188/index.m3u8?streamid=c604d1dc88387983185d3a508d55f87f&streamkey=06Au6xOXDlDEabEvFx4PBlZLPVUJMNfC6XfmmUd6o0iYANcRwCUHAiyfzQIWijcHWah5yrADE00YFCnbhqjmtd6p4I7zp1ngd59aafvN5X5JlNnS&token=1775845359-f8a03d7fed7f061c-0-e083837d56e59fdfbc66c1736d94bbc7
+CCTV7,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001236/index.m3u8?streamid=2816a855aa82363e0025b440f8f75c14&streamkey=06Au6xOXDlDEaakEMnODedU6ynkF1qgl5vT28xp0B9u05ra4gJ4HBadXkx6cTFdThZ6XLi6u3N9RQ7ta477aj1vIeDxoD3E8aW91aTQjvbxSjXeI&token=1775845385-58bfd0e847ef8910-0-16af94e91cd838aa9dac8c1d4528541a
+CCTV8,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001189/index.m3u8?streamid=6a85d271479df7e4105c8edd745b4625&streamkey=06Au6xOXDlDEabB30RjWHTD3jRis4aZJ5KLDqwMuqZqRrdIqcLOPBFnM6FFZQAWQV3OaW0pgdQKRN23bzBVbdImPv5CymDxO1CLDYqp26oZI7D3p&token=1775845415-8edf0881204ad305-0-0c2f99a736408faa1f40d80bee39d42d
+CCTV9,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001237/index.m3u8?streamid=25c0a56523dc33289ca79cb0ce6876f5&streamkey=06Au6xOXDlDEabIp2FBsL8DDeUjHHrbuj7xsfTdUNOlS0HiCp8mNaT9PO5Vfb274tdnrb3epipMFIKkkLFogeGu2rAageikiaOgCUyUfJ5JKy3Zw&token=1775845435-f652f27f5a0a79c2-0-3ae4b80adc4d69d8c7c2ecf46d25a18b
+CCTV10,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001238/index.m3u8?streamid=53ba5973e313102776c533632a495108&streamkey=0PV1gjFJAoweF4v8E4nCtqHuRUDU1AUGJkSRrZG1wfNvPAxuu6gofc4Y3PPScDMOF4VUze7imtzJqzdZBn5rB6UehXkTEN9gcdj2c3nmT6VUqemBU&token=1775845453-213c92fb72fcc41a-0-bff134ef4b354381b82924d44aeade81
+CCTV11,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001309/index.m3u8?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&streamkey=0PV1gjFJAoweF6PtTHYWwZaHotwWHvGDjAGQu6dNgbxNKVwI5BGbOdenh89maIq6S3EaYGOx8raJyREHbmFS8eXbBapSijhaU67KdoEjO1oJkimCN&token=1775845477-78714a4f49c8ba03-0-04669a5c599000c1097c80fa4564b62b
+CCTV12,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001239/index.m3u8?streamid=0f34c587b2bea8f82b43463faa4b5708&streamkey=0PV1gjFJAoweF4vSIZ61V9xkwgUCN7BjDLfFohGkb40K08amTr7GBA6DFsEb8SHd0wVOHAjZHUDOWbioCZTLn2NXa9LUwLcScVSdnVfIpPiDnSk7k&token=1775845494-a78f2a8784e0e7cc-0-d75cd2a3e7af65af97ee575d377576be
+CCTV13,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001328/index.m3u8?streamid=18337d7a8a925fefa6736f2af5f779a5&streamkey=0PV1gjFJAoweF882SCy6FBdvEPw33JVdsnbJ2XJj61FrIx84xKX5XcAcA50CtnKXAcpimIm85KqBii9ZJpclXUAKMaBazy29yk2QWt4AcdM9U9s1H&token=1775845512-fe1caade2e8fd2ad-0-991fa0e7a09ec87f0d2793e0a2c8b75b
+CCTV14,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001240/index.m3u8?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&streamkey=0PV1gjFJAoweF3mN1x4T7NVmM2jrn9SBnhguPJZcD5iHhnKbAG7mM0X1WwHmul52yKlLSUt0JG9ZdtDU5TCWrqs0wMiS7In710O36gUObnMlTNbR0&token=1775845526-092b466c03593d89-0-77481aeab4091b763f93fba3bb11bed2
+CCTV15,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001338/index.m3u8?streamid=6cb793152bc3feaeb0d36b1f78734e29&streamkey=0PV1gjFJAoweF3CSW2HTvFOnU1zEDmHRK9FcfJ0vzfg5CFbmwrOLTmU6A2uM1zqhPOpEnz7Md394KH7YAof0w5BFREX1QQYQxmizDluDD3i8mYXPy&token=1775845542-71a929509d98569b-0-a600cab625264aad2580ea9e5f2262c2
+CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001248/index.m3u8?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&streamkey=0PV1gjFJAoweF4LVajzXxaoztUAQMwW67tiJA6JLGkPCJcKRxpuZzz5AwmiVgG2pdjZenCdrzYSKbivhVp0vV4YVY9jTkEBEwZBck6RI5JjcvvlaM&token=1775845559-6db3e056d42232cc-0-2b3c1ca3d50bc644609beec7e3e8fdd4
+CCTV17,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001241/index.m3u8?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&streamkey=0PV1gjFJAoweF5YBhLmikdAiTM8TYrREPmK2BoqLGDDsa2wLUsiqXxoyJY1E35jGneT1T2kh7HqtrgVC2j7z5LamnEF226bXdA39K4sQoBiVCzgnR&token=1775845579-ced9df16748de9ec-0-aabf271a79c6b44a6c323fa8f58b1c86
+
+广东卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001032/index.m3u8?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&streamkey=0bKBhLQXZpbdLlXLLONvHk837I3JU3wQyXlzYv81SyUmQWirKQI2dQSn3AGLNJdACjmgnvPR61yGRWBEGQ4nzQsJiWv0NTtUY6DHzqTmnawP1ll6KtQMAOjDq3wl7&token=1775846209-d5e79d4e398b287e-0-474f2cbd39eb3d0bf9d75e9fd997b627
+广西卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001224/index.m3u8?streamid=c8e847a8745033edc0153656ddc62c47&streamkey=02BjlnRKVk4w1OXISnb1OejZVn9bRHdunXYKl1C5N1ol67FOnItDvgJoBYqKBO3pEEd78pJfAXrPh5pbiSgVdvvKjrZoTm5oAtasdEeLPGPkUztZGZfGdLBvYui&token=1775846244-d0eb377b0f5b31cb-0-e33c5d7b6cd9c4614cbe6758e1013abb
+海南卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001183/index.m3u8?streamid=22a384055e4a94909e17012c852ac26d&streamkey=0WsC3jqv5pZMcSgRFJUqqEoCyxPsN5XCDwYYxXLKQPZqyPsfJBvh4XnGJ3dBGkO0sc8e9DyDfCqsxVtXb5IO5JgXsFKzFO5oehK1YwxNgjJD3coDqwk8Tskbx&token=1775846262-f89c3347bf71ddbe-0-389051cdc64192b096ea8a98eebfb649
+河南卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001222/index.m3u8?streamid=b08cc070cd8613ccaf17654f60883da8&streamkey=07xclP9QQ7A17NKE15voYaWYSivLS9vpYt8erpZZhHQiVuHFVrVbbzkk2fPzs4FPEQUxF22kG8lhOiEXYD00azi6a2vXuZ7TZUZkRHxX6ND61kqnupnm1P6k&token=1775846149-f10a67a45eef9271-0-c77c3c768004f987e38cb802b1c35577
+湖北卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001027/index.m3u8?streamid=e5e8827bbbb6fed082b85a0b9970586b&streamkey=07xclP9QQ7A17N6XP2aVjXbQrCBrIqWCvyN6hJzGQTcdfmfZ03tDBkvHf1YWEsB7EhcC07VFyLqE1S06eBWp48821mAmccq3dPl6aqxElOIqVIOKwpQiNGM8&token=1775846170-65856e0fc8a3272b-0-aa658c1dd10b2c84ff591df599976b93
+湖南卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001026/index.m3u8?streamid=55aa70b744ce4863ca4f21755ce7821f&streamkey=07xclP9QQ7A17NXuULXhqvS69fi2VkSVulevYmBBJu50V3aX13XYRPlJtWpCy8tztF8ILkSIlnXlXaz1COGS4qMks3SzXXo3H5uvqkjs4iqvvwojYQbFfP8g&token=1775846195-f6c657febc857fd2-0-5e68111cbd2791d7ce7f52732a363768
+江苏卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001033/index.m3u8?streamid=430ccd55b3374b7e3ccc7388e90566c8&streamkey=02BjlnRKVk4w1ObyQLy2wHBcdlCfJy153dJmXP9YZG9cbm4WyuJdZxds4Z87fOMMZZAFRIHvRYCgdTW1sCPv9tDxcNEcNZdzCrVjCX5EHSWQBk6PbMpSjpHtYPk&token=1775845980-37c7fa827278fdc2-0-c8c5b2e97f1cd58b6c2e03b77c346ca7
+深圳卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001030/index.m3u8?streamid=85961b14ea610e8adbef8769bea8b26e&streamkey=092SzM8qh4GNZm0oZBi0fI6GyCfpf4E59YFuCG3cqQdZNKCy12JLAeX9lkO7569CXvUkaSKha3EbMM30JCxBRc4uhUsqAciDFoq5gJu7ERuLh2JpKrepFppcGSzv&token=1775846227-b2214f400d5e329a-0-511438ce0e8eafda7a82d537fcdb9584
+四川卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001130/index.m3u8?streamid=db19730d20622f8801f0b4e9ece132ac&streamkey=02BjlnRKVk4w1OevCBphD2GIYmAvsdwUx6lV0ig7mapjHKJOAfL8ettfiXXi1MtUTnxJnQlJjqqKBsa5V6JEviXbMRuTUV55pDQO8v4UOu1VGUWIsC48fFTSgt9&token=1775846379-75314900bb9b7344-0-d6061aaf4717487c8a10e2f846b809df
+重庆卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001129/index.m3u8?streamid=a70f858363ae250a4fbf283111a42054&streamkey=0bKBhLQXZpbdLmJaY2ItsN9ERb2WythbVL76FIP8zKsh1lyib2upH6LbJt3p8KRHCBX49IyFKaJpxlNaLdQDnmi2PNR1kj5qizfqE6rmukR20tLtT2GmZcmWia8b3&token=1775846352-2c6ff227abb3de83-0-15054c7ca669f02380c19e4985ec30c3
+云南卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001223/index.m3u8?streamid=22491d4d9e9620540ee58218ee249b35&streamkey=0WsC3jqv5pZMcSX96eHUdInnxAlGUkuOZpKCZ66xHa4wf6sULkk6Lu8hBF1NM5T9tQaD5jJ65TmaL6qAM721bgWQrCojnLoD5QOViKjHVPuF6K1xa12PoI7T3&token=1775846421-e4c4de146f335451-0-8f08750438d9894db58cf236d363ddbf
+浙江卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001023/index.m3u8?streamid=25b7c6480cc4c9facb82d1cdf13693ec&streamkey=092SzM8qh4GNZmuUabBoy3ZmLcM6GMc1JG9NiPJGTW5NiLdCUHOAzeioPSm3c7fERBVhfRxYDSLiMkkIQPb1URwhhBwfMC2QCRciKkCwsI11uGWcv7fI6FqM6eFh&token=1775845996-138b19c15ac98e5f-0-1a6462a5e832a9c195b2f2fdb10a7bd0
+东方卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001013/index.m3u8?streamid=85aea482acc87c868b509dfc6299cc44&streamkey=092SzM8qh4GNZla6oZrgC9v7zrrFOJq6C6Eu60oBDmPj9O0vC4CEpN1ECBoSXxR6EJAMgMTxdL1UzJeQBIieqHhZptRk7ObC2PCrBzUMxwbjh2ua6rPbn4ItT0jh&token=1775845953-fdf98c3be629146f-0-1a88b75306f4b0c6cde83bc319da4008
+北京卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001029/index.m3u8?streamid=e078747837ff9cad6d2a314ebeffa51c&streamkey=02BjlnRKVk4w1OhOmFfIIMWIcPBzLTvKFob9K2SUGEnF3OjiOvFYgYliSkwFqVgCylKo9OCh6F0MM8EY5IQkg3fTDIrig1N4icQVQLkSnawatexBO2pbqpP1r9I&token=1775845610-b7e475d0488ccc76-0-ec25e785484a5234c7e40e2e9ea87fbf
+江西卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001034/index.m3u8?streamid=4a6eec625aac2ea37719b063f81d43b8&streamkey=02BjlnRKVk4w1OlevqiEHj7UQZEM4t5b5X52eNhjl9jhaS8y4svJFfAzUatG33dF6aaCKfiTzU2gTl7oyNgkuLbII880e3YF6o8DM60S6GY83twjeuRDms9AtJw&token=1775846104-9acb38efcef8308a-0-7da8a3ce9ece8074f35c282118484a69
+山东卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001028/index.m3u8?streamid=17734718ddd5e6904640c72df1fe5fa8&streamkey=092SzM8qh4GNZmKNR3x9xVrH3wfUhi1BMq7jfwXvcPJZAQXc1e6k7Kyxe8YlbtK8UUHhecBhVPsiEdtg2u8yqYydGAhHd4BSc2rohWtiJpJdwaHwOLdaLxBuLrVN&token=1775846129-7c64e53909217cc4-0-0127a0b98efee93deb86241d9eb5baf1
+安徽卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001037/index.m3u8?streamid=cd2aa71eb7ee9609b9cd182fa1ed7fc0&streamkey=07xclP9QQ7A17NSVioW3P0HE7BdupYeGtGhAdsdVXbCiJxxYpbg8pzf6lKIIBWl7HAM8CDEwjMPvo3H6sZzuR9UhK2rP8QYKiQyRrAHqEvvqLzNkyjXW9UK3&token=1775846017-0602bf2bc43829eb-0-ba3bf3e58900c2930b07fc4f8fd8a7a1
+东南卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001201/index.m3u8?streamid=7ac1647173cac04556dbb3d5dd784331&streamkey=02BjlnRKVk4w1OjohH4Z6JQ50no5mT6TaBZfMsE1vxYDwEXLJbunihOvdOjWCoVoiEwmvrP8w3mrXWyO3Ofj27szMRlOOdSsm7mobwi3OXN5MmFuqHtMEwjpPdB&token=1775846035-6acf3fd384744856-0-182bcd45fe89fee7d6da594ac5d2a72e
+天津卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001036/index.m3u8?streamid=d30a60392735d9a6ff2b72630d81c5d6&streamkey=02BjlnRKVk4w1On7u7aEgkevpxD293wYKhCZjdaOiw2t2q0ggcdrQ9cFOst5d6fq8y79zamkQfuulBfdzLx1g5FwXYLyLiLzi7jaoDkFgcESNRKnndac9VsdRMN&token=1775845695-102a8e7c2be912e4-0-85c12a4a81e84a934979bc8105ae22d0
+贵州卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001184/index.m3u8?streamid=091bd59ea031989839c23459bb8cc9d4&streamkey=02BjlnRKVk4w1OimLNBUheOcwPFu2B6oL1pyXGnUypEwAWXSi5pA2M8vAAQNdTDwVOBg3wflpOJH2qUejFLrTdJs5UqkOuOhX0oeeOuZCXNP6xGvpxjLkvkGHVF&token=1775846394-f40678590315c3a3-0-795d5d8e9ef7cc7d142de1b17bf1df44
+河北卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001229/index.m3u8?streamid=c623903495968308e1bd87ec273e46d2&streamkey=07xclP9QQ7A17O0h8pMFawtDzZ1SKExjnopMRLpyTMRzpf5HYHJgsS9kS3KsI0IxkBrKjwjHAoHyVPpakeuAQvFvXIXCmCZnSIY3pQhMjHsH2oSypfBUDsij&token=1775845713-dba5d347bfc50f9d-0-fd791b14774d6c8ea606006a785f8574
+黑龙江卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001031/index.m3u8?streamid=9e03d442683b7ecf5b887926d8068438&streamkey=0gNYRWDeQgJcsXOhHYgUVuY7jeh1As5Bj10Z8FZkmFnoGhxJIpm30g1E72KGNlWDSguey12eXkFUrB1AGUzYyelnQnAU7tUWPyN1iTQX3txYOa2HM6Ryy2ZTFKrtky6BM&token=1775845905-d92822f9d17536b0-0-82e4ac73958df73d405df6e7f8743a49
+海峡卫视,https://fjct-564-cf1.stream.264788.xyz/PLTV/88888888/224/3221226748/1.m3u8?streamid=f495ed8625aedd9e72c64fb11e6d68f2&streamkey=0HQ8f7EF0VsERPVBeMeiTX1ZFtUWBUUXyF2OKoIjGYaS7bTDGrAz9yulD7V4jiQ6uMAFXsbtrFKmMLLopjozhokh2WplwFk720xYw&token=1775848522-a5a1d059f30bb7c1-0-b1a5bb1409c4c2084c166de2fbeeabce
+青海卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001450/index.m3u8?streamid=dcc88f36445dfbc894756be122a0bb9b&streamkey=02BjlnRKVk4w1OqAen2XcbZTuH1pLx0ba12zVLFS6SE7skdgPNRS5GQtzBrKVYGfv8MgnIEp2Wau5dUPVVrg6OgHcHHIkFU1rDVka2zO2NorvfHUB16K2hg12LG&token=1775846584-6a4bd4af5904c775-0-ac98229bc76dd47d3085825df8dc663d
+三沙卫视,https://fjct-704-cf1.stream.264788.xyz/PLTV/88888888/224/3221227072/1.m3u8?streamid=d0a3642d102c45219333005531a2fc94&streamkey=0HQ8f7EF0VsERP4By4YVg3oyY09yrz7vsTjoLvpqgpxsDTvFR4cxB9YNA1kGyNB5Sif0s8JXmCdqZ5dFs5zaZKri5CLe4DwjSXGfG&token=1775848300-00c34fe25c90a420-0-d00ffdfcd4ea3ae5072eda578554d778
+甘肃卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001298/index.m3u8?streamid=466083ee6981dccb38d23b5556b27f6e&streamkey=07xclP9QQ7A17MVoXjfZabwhwTxRrxCOJvBvjnkkZYh7BXIB5xy1E3lo88YmbUmF19xIuDpLRYPnOPL4VFulN0bEC1935mgFJPQKkhKy9SCrRaoxJSggR2WH&token=1775846540-c518e46c8b75410a-0-c00a20016ddd656a859aa6689d9b71fb
+山西卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001070/index.m3u8?streamid=69e002ac7467d661ff7ad0671ed43f16&streamkey=0WsC3jqv5pZMcSBpgBBxd2D0umt1tSKSi27BGODgUbgKmpNFHvbCOoB1jiS38BGcqdqnYv1Lwf1kDVJChqdjBysYFrwXp16FokLT0zF8SXVpPlxGnKkcre4MH&token=1775845737-24439e66976a35ba-0-a2292544930cb7a5c4edaf7299f2e86b
+吉林卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001225/index.m3u8?streamid=a5e656c3fae17a05d1371c0e32cfbc77&streamkey=07xclP9QQ7A17NNVH9zK3usll5i79qQl9ip8DmttssI72KNefj6DezxwvdvL3N09JG1ln3y9erYFHuOjqCppjJxM98W14Y6LahclhMTcwyOzab5xvFfiReUj&token=1775845855-2de10e8403e2a00b-0-48493fff52500e1a5a736201e675e862
+陕西卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001067/index.m3u8?streamid=dcafcf65d544d8a7b606c454d3f8ef47&streamkey=02BjlnRKVk4w1OdrZGHU618afCykB2w0N5jxtEEFcKJZDuP12KYzd788kRRjfPKlFuGPmeNHxDOgsYPeuyo3FzI3TRd81a0v1K10il2dxbTNl80kxqR90BUGFVt&token=1775846509-20a9ffdeb331dafa-0-d1c650ed53fc029fbc6bb7313afff988
+内蒙古卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001068/index.m3u8?streamid=50d587b08d9d6f642ec88593ebd51361&streamkey=0bKBhLQXZpbdLkoKQuJKP9KZNynjhh6pHUvhRPVDl26Gmzz2xD6GsHZrXvWJSLcEohpObE1WkIsqrJCkY3Tj2xyszr4OYKgGUgLV3BQin5FUxbCUVGmR6KeTIR5Cw&token=1775845753-0c8b2a3f3f451634-0-c794b6c78185a50037d0858a41d1d53e
+辽宁卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001035/index.m3u8?streamid=d1d75a84e93e19de790b38a1305b0e02&streamkey=092SzM8qh4GNZnBXcicpPrYcUrYlTDOvicxCbVOXnGdoup5KOPpcQDQubbwkw2iKfetklG1buCCSLm7ZZzR2zUT9NFx02nT6rqJ7F5dW4sCfOpnAvhc2jwfIxgBM&token=1775845774-1adec177c15ac4b8-0-e604658285de0cba55145958d09598f1
+兵团卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001066/index.m3u8?streamid=b9dcd906150192bdf76f447df83f8033&streamkey=092SzM8qh4GNZn4GCQ8el2Y2Or4jVyUrfKL1CS5exe8alThsEiEso5rpKODSQBBhTdpnExN4CZVUbGLBYr6bJXuNxMuPqu9yCGjhB70guGOEF3syGApNCbgsdGI3&token=1775847052-a1db3121ce2e8d49-0-70b82f0de811aef551fbb2a7fa5aaf27
+西藏卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001072/index.m3u8?streamid=b1074802469551526bb63c33e26c400c&streamkey=0WsC3jqv5pZMcP9od3k0YrVrmCon6vRrYXMIYPFPxVG04Ql3O4NayN5yhVxQ8nvD3WrrboYnIszCFxbOWl2JSq4EOZQfPR1cqL1gxcrq5upiu32LWlhLZOuaT&token=1775846476-952938f478085a6f-0-ef47943dc434a4f62482fdc3447de2d6
+宁夏卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001074/index.m3u8?streamid=1b2952717a920173e66d4a348f9dcb5c&streamkey=02BjlnRKVk4w1OgwicNHIpkF9FsJv7YAUhdN8BoUw809noEaYIoetiytquBOz6PhmAXATgoJJbJfQe9HeBjuXgyETq8uEOGid1FzqA7Wg8dtStauqn4NT845wSK&token=1775846656-f804f1a068c0c850-0-73432759fc850962ae97aadc73d59918
+新疆卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001065/index.m3u8?streamid=4f481f56ae39ce5d24203471de9df635&streamkey=092SzM8qh4GNZm12pVk5cjapVXLhDJFXmP8SN0pVPxeVzFP4jhgTI6ppSCfu7TbPKWxYmd5cUjOAb8kLW5jAJeejyY6vsOQAoTtzzT3dw8R5mgpbYSYflW0UpRjt&token=1775847020-4f70f8e0c965262c-0-3254cda72ad30f4f56581aed316164d9
