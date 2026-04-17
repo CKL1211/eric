@@ -1,20 +1,13 @@
-说明
-国内的台不要乱传 放到恩山 放到恩山必然挂 那就没有分享的意义了
-有些欧洲台要对应的地区ip观看 法语世界可以请求头伪装ip
-境外频道推荐欧洲节点梯子
-NBA比赛一般双线路 比赛时间表
-https://www.miguvideo.com/mgs/hybrid/sportsdata/main/schedule/prd/competitionCombine.html?projectId=2&selectIndex=0&pageId=a248773b53f7486b8fa462ba0c8f8adf
-
 央视,#genre#
 CCTV1,http://119.123.176.87:8086/hls/2/index.m3u8
-CCTV1 香港,https://cdn10.163189.xyz/stream/163189/cctv1/
+CCTV1 港澳版,https://cdn10.163189.xyz/stream/163189/cctv1/
 CCTV2,http://119.123.176.87:8086/hls/3/index.m3u8
 CCTV3,http://119.123.176.87:8086/hls/4/index.m3u8
 CCTV4,http://119.123.176.87:8086/hls/5/index.m3u8
 CCTV5,http://119.123.176.87:8086/hls/6/index.m3u8
 CCTV5+,http://119.123.176.87:8086/hls/252/index.m3u8
 CCTV6,http://119.123.176.87:8086/hls/7/index.m3u8
-CCRV6 香港,http://iptv.4666888.xyz/iptv2A.php?id=61
+CCTV6 港澳版,http://iptv.4666888.xyz/iptv2A.php?id=61
 CCTV7,http://119.123.176.87:8086/hls/8/index.m3u8
 CCTV8,http://119.123.176.87:8086/hls/9/index.m3u8
 CCTV9,http://119.123.176.87:8086/hls/10/index.m3u8
@@ -105,7 +98,7 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 多彩文体,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3u8?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&streamkey=0AGMO6LiBIxyH4EhXQA4CyyBB6GWkVdx4wZhM6J1AywT63McWrpsYW9yLXS08YubrPIfbHwZLLnp7So4ZwIBrnd0XfZRr8BbmzbuifkWu2isG4qQh6gE8sxMfPTZh3ri&token=1775939208-d56ed9c8bb67d5e7-0-2a1d1f2081da3c539979b1c938effb5f
 
 广东,#genre#
-广东大湾区,http://119.123.176.87:8086/hls/29/index.m3u8
+大湾区卫视,http://119.123.176.87:8086/hls/29/index.m3u8
 广东民生,http://119.123.176.87:8086/hls/39/index.m3u8
 广东少儿,http://119.123.176.87:8086/hls/40/index.m3u8
 广东体育,http://119.123.176.87:8086/hls/42/index.m3u8
