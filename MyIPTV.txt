@@ -115,7 +115,7 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 港台,#genre#
-翡翠台,http://cdn6.163189.xyz/163189/fct
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
