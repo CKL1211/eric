@@ -1,13 +1,14 @@
 央视,#genre#
 CCTV1,http://119.123.176.87:8086/hls/2/index.m3u8
-CCTV1 港澳版,https://cdn10.163189.xyz/stream/163189/cctv1/
+CCTV1 香港,https://cdn10.163189.xyz/stream/163189/cctv1/
 CCTV2,http://119.123.176.87:8086/hls/3/index.m3u8
 CCTV3,http://119.123.176.87:8086/hls/4/index.m3u8
 CCTV4,http://119.123.176.87:8086/hls/5/index.m3u8
 CCTV5,http://119.123.176.87:8086/hls/6/index.m3u8
 CCTV5+,http://119.123.176.87:8086/hls/252/index.m3u8
 CCTV6,http://119.123.176.87:8086/hls/7/index.m3u8
-CCTV6 港澳版,http://iptv.4666888.xyz/iptv2A.php?id=61
+CCRV6 香港,https://tvb.go-iptv.ggff.net/stream/tvb/null-6/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+CCRV6 香港,http://iptv.4666888.xyz/iptv2A.php?id=61
 CCTV7,http://119.123.176.87:8086/hls/8/index.m3u8
 CCTV8,http://119.123.176.87:8086/hls/9/index.m3u8
 CCTV9,http://119.123.176.87:8086/hls/10/index.m3u8
@@ -114,7 +115,7 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 港台,#genre#
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://cdn6.163189.xyz/163189/fct/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
@@ -127,7 +128,6 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 HOY77,https://cdn6.163189.xyz/163189/hoy
@@ -291,7 +291,7 @@ RTVS ŠPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 罗马尼亚PRIMA Sport1,http://89.37.116.198:8000/play/a036
 罗马尼亚PRIMA Sport5,http://89.37.116.198:8000/play/a00g
 波兰Eleven Sports 1,http://193.24.244.60:1001/udp/239.254.4.221:6060
-波兰Eleven Sports 1 4K,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SLYHSUXG773LN5BR6CBY4PUB/20068/index.m3u8
+波兰Eleven Sports 1 4K,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SXYKDF7U756VEW3QKEHM33N9/20068/index.m3u8
 波兰Eleven Sports 2,http://193.24.244.60:1001/udp/239.254.4.220:6060
 波兰Eleven Sports 3,http://193.24.244.60:1001/udp/239.254.4.219:6060
 波兰Eleven Sports 4,http://193.24.244.60:1001/udp/239.254.4.216:6060
