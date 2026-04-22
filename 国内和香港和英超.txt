@@ -1,10 +1,3 @@
-说明
-国内的台不要乱传 放到恩山 放到恩山必然挂 那就没有分享的意义了
-有些欧洲台要对应的地区ip观看 法语世界可以请求头伪装ip
-境外频道推荐欧洲节点梯子
-NBA比赛一般双线路 比赛时间表 加拿大TSN 4K 季后赛有直播
-https://www.miguvideo.com/mgs/hybrid/sportsdata/main/schedule/prd/competitionCombine.html?projectId=2&selectIndex=0&pageId=a248773b53f7486b8fa462ba0c8f8adf
-
 央视,#genre#
 CCTV1,http://119.123.176.51:8086/hls/2/index.m3u8
 CCTV1 香港,http://cdn6.163189.xyz/163189/cctv1
@@ -107,7 +100,7 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/250612.m3u8
 
 广东,#genre#
-广东大湾区,http://119.123.176.51:8086/hls/29/index.m3u8
+大湾区卫视,http://119.123.176.51:8086/hls/29/index.m3u8
 广东民生,http://119.123.176.51:8086/hls/39/index.m3u8
 广东少儿,http://119.123.176.51:8086/hls/40/index.m3u8
 广东体育,http://119.123.176.51:8086/hls/42/index.m3u8
@@ -123,37 +116,42 @@ CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 港台,#genre#
-翡翠台,http://cdn6.163189.xyz/163189/fct
-翡翠台 4K,https://o11.163189.xyz/stream/tvb/fct4k/
-明珠台,http://cdn6.163189.xyz/163189/mzt
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-华视,http://85.237.207.150:50007/of-4gtv-4gtv041/index.m3u8
-中视,http://85.237.207.150:50007/of-4gtv-4gtv040/index.m3u8
-三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+无线新闻台,https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+娱乐新闻台,https://tvb.go-iptv.ggff.net/stream/tvb/null-5/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
-中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
-寰宇新闻台,http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
-寰宇新闻台湾台,http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
-寰宇财经台,http://85.237.207.150:50007/of-4gtv-4gtv158/index.m3u8
-华视新闻,http://85.237.207.150:50007/of-4gtv-4gtv052/index.m3u8
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
-ViuTV,https://cdn.163189.xyz/163189/viu
-ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+华视,http://165.154.226.214:50007/of-4gtv-4gtv041/index.m3u8
+华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8
+中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8
+三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
+中天新闻,http://218.166.92.149:6000/of-4gtv-4gtv009/index.m3u8
+寰宇新闻台,http://218.166.92.149:6000/of-litv-longturn14/index.m3u8
+寰宇新闻台湾台,http://218.166.92.149:6000/of-4gtv-4gtv156/index.m3u8
+寰宇财经台,http://218.166.92.149:6000/of-4gtv-4gtv158/index.m3u8
 天映频道,https://o11.163189.xyz/stream/live/typd/
+天映经典频道,http://o11.163189.xyz/stream/live/ccm/
+天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
+Astro 酷哒哒,https://o11.163189.xyz/stream/live/test/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 
 北京,#genre#
 北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
