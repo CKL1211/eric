@@ -261,6 +261,8 @@ https://cdn.163189.xyz/163189/hoy78
 https://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港台",RTHK32
 https://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台",TVBS新闻
+http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台",华视
 http://165.154.226.214:50007/of-4gtv-4gtv041/index.m3u8
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="港台",华视新闻
@@ -271,6 +273,8 @@ http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8
 http://116.241.240.176:5050/4gtv-live207/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="港台",中天新闻
 http://218.166.92.149:6000/of-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="港台",非凡新闻
+http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="港台",寰宇新闻台
 http://218.166.92.149:6000/of-litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾台.png" group-title="港台",寰宇新闻台湾台
@@ -291,6 +295,18 @@ https://o11.163189.xyz/stream/live/aod/
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://live.fanmingming.com/tv/爱奇艺.png" group-title="港台",爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="澳视" tvg-logo="https://live.fanmingming.com/tv/澳视.png" group-title="港台",澳视
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-name="中国电影频道" tvg-logo="https://live.fanmingming.com/tv/中国电影频道.png" group-title="港台",中国电影频道
+http://iptv.4666888.xyz/iptv2A.php?id=61
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="港台",靖天电影
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="港台",东森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://live.fanmingming.com/tv/纬来电影.png" group-title="港台",纬来电影
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1 tvg-name="风云恐怖电影" tvg-logo="https://live.fanmingming.com/tv/风云恐怖电影.png" group-title="港台",风云恐怖电影
+http://iptv.4666888.xyz/iptv2A.php?id=59
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京",北京体育休闲
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.com/tv/北京国际.png" group-title="北京",北京国际
