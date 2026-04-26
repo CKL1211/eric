@@ -146,6 +146,7 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8
 中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8
 三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
+爱尔达综合台,http://iptv.4666888.xyz/iptv2A.php?id=49
 中天新闻,http://218.166.92.149:6000/of-4gtv-4gtv009/index.m3u8
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 寰宇新闻台,http://218.166.92.149:6000/of-litv-longturn14/index.m3u8
@@ -154,6 +155,7 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
+美亚电影(台),http://iptv.4666888.xyz/iptv2A.php?id=30
 中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
