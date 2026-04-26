@@ -134,7 +134,6 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
 凤凰电影台,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 HOY77,https://cdn6.163189.xyz/163189/hoy
