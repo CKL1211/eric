@@ -115,7 +115,7 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/250612.m3u8
 
 广东,#genre#
-广东大湾区,http://119.123.177.138:8086/hls/29/index.m3u8
+大湾区卫视,http://119.123.177.138:8086/hls/29/index.m3u8
 广东民生,http://119.123.177.138:8086/hls/39/index.m3u8
 广东少儿,http://119.123.177.138:8086/hls/40/index.m3u8
 广东体育,http://119.32.12.131:2905/udp/225.1.101.102:7523
