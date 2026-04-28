@@ -95,9 +95,18 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 多彩文体,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3u8?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&streamkey=0AGMO6LiBIxyH4EhXQA4CyyBB6GWkVdx4wZhM6J1AywT63McWrpsYW9yLXS08YubrPIfbHwZLLnp7So4ZwIBrnd0XfZRr8BbmzbuifkWu2isG4qQh6gE8sxMfPTZh3ri&token=1775939208-d56ed9c8bb67d5e7-0-2a1d1f2081da3c539979b1c938effb5f
 南国都市,http://119.32.12.131:2905/udp/225.1.1.2:7523
 广东4K超高清,http://119.32.12.131:2905/udp/225.1.1.3:7523
+罗马尼亚DIGI,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1287085.m3u8
+荷兰ziggo体育,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1052172.m3u8
+北欧V SPORT,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1281078.m3u8
+天空体育F1,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1281084.m3u8
 天空体育德甲,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1281069.m3u8
-北欧V SPORT,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1281078.ts
-美国福克斯,http://206.212.246.239/live/Cori/123456/317098.m3u8
+天空体育德甲,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1281069.m3u8
+天空体育主赛事,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1281430.m3u8
+天空体育4K 1,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1281426.m3u8
+天空体育4K 2,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1281427.m3u8
+Now体育4K 1,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/438867.m3u8
+Now体育4K 1,http://seatv.xyz/live/GJC82QV6LY29Q6P/HezF5WdxpB/438867.m3u8
+美国福克斯,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori/123456/317098.m3u8
 CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/250612.m3u8
 
 广东,#genre#
@@ -118,7 +127,8 @@ CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 港台,#genre#
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台 广电版,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
@@ -133,7 +143,6 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-凤凰电影台,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 HOY77,https://cdn6.163189.xyz/163189/hoy
@@ -146,7 +155,7 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8
 中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8
 三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
-爱尔达综合台,http://iptv.4666888.xyz/iptv2A.php?id=49
+MOMO亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
 中天新闻,http://218.166.92.149:6000/of-4gtv-4gtv009/index.m3u8
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 寰宇新闻台,http://218.166.92.149:6000/of-litv-longturn14/index.m3u8
@@ -233,6 +242,8 @@ NOW英超6,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori
 德甲3,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/606323.m3u8
 德甲4,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1138926.m3u8
 德甲5,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1138927.m3u8
+欧洲体育1,https://cdn-1.ttvb.eu.org/api/Eurosport-1/index.m3u8
+欧洲体育2,https://cdn-1.ttvb.eu.org/api/Eurosport-2/index.m3u8
 英国TNT体育1,http://czstream.com:826/LouCarey/KYsHfE1YLU/110708
 英国TNT体育2,http://czstream.com:826/LouCarey/KYsHfE1YLU/89213
 英国TNT体育3,http://czstream.com:826/LouCarey/KYsHfE1YLU/89212
@@ -276,6 +287,17 @@ NOW英超6,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori
 英国天空体育F1 4K,http://czstream.com:826/LouCarey/KYsHfE1YLU/118946
 英国天空体育4K 1,http://czstream.com:826/LouCarey/KYsHfE1YLU/118944
 英国天空体育4K 2,http://czstream.com:826/LouCarey/KYsHfE1YLU/118945
+新加坡HUB英超1,https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
+新加坡HUB英超2,https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
+新加坡HUB英超3,https://cdn-1.ttvb.eu.org/api/Hub-Premier-3/index.m3u8
+新加坡HUB英超4,https://cdn-1.ttvb.eu.org/api/Hub-Premier-4/index.m3u8
+新加坡beIN体育1,https://cdn-1.ttvb.eu.org/api/beIN-Sports-1/index.m3u8
+新加坡beIN体育2,https://cdn-1.ttvb.eu.org/api/beIN-Sports-2/index.m3u8
+新加坡beIN体育3,https://cdn-1.ttvb.eu.org/api/beIN-Sports-3/index.m3u8
+新加坡HUB体育1,https://cdn-1.ttvb.eu.org/api/Hub-Sports-1/index.m3u8
+新加坡HUB体育2,https://cdn-1.ttvb.eu.org/api/Hub-Sports-2/index.m3u8
+新加坡HUB体育3,https://cdn-1.ttvb.eu.org/api/Hub-Sports-3/index.m3u8
+新加坡HUB体育4,https://cdn-1.ttvb.eu.org/api/Hub-Sports-4/index.m3u8
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 法国beIN体育1,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/275795.m3u8
 法国beIN体育2,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/275671.m3u8
@@ -309,6 +331,7 @@ RTVS ŠPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 罗马尼亚PRIMA Sport5,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1515491.m3u8
 罗马尼亚PRIMA Sport5,http://89.37.116.198:8000/play/a00g
 波兰Eleven Sports 1,http://193.24.244.60:1001/udp/239.254.4.221:6060
+波兰Eleven Sports 1 4K,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1281071.m3u8
 波兰Eleven Sports 1 4K,http://seatv.xyz:80/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1281071.m3u8
 波兰Eleven Sports 2,http://193.24.244.60:1001/udp/239.254.4.220:6060
 波兰Eleven Sports 3,http://193.24.244.60:1001/udp/239.254.4.219:6060
