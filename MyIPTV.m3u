@@ -219,7 +219,7 @@ http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1281427.m3u8
 http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori/123456/317098.m3u8
 #EXTINF:-1 tvg-name="CANAL +FOOT" tvg-logo="https://live.fanmingming.com/tv/CANAL +FOOT.png" group-title="4K",CANAL +FOOT
 http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/250612.m3u8
-#EXTINF:-1 tvg-name="广东大湾区" tvg-logo="https://live.fanmingming.com/tv/广东大湾区.png" group-title="广东",广东大湾区
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/广东大湾区.png" group-title="广东",大湾区卫视
 http://119.123.177.138:8086/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
 http://119.123.177.138:8086/hls/39/index.m3u8
