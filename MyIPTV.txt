@@ -154,12 +154,10 @@ HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 华视,http://165.154.226.214:50007/of-4gtv-4gtv041/index.m3u8
 华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8
 中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8
 三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
-MOMO亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
 中天新闻,http://218.166.92.149:6000/of-4gtv-4gtv009/index.m3u8
 寰宇新闻台,http://218.166.92.149:6000/of-litv-longturn14/index.m3u8
 寰宇新闻台湾台,http://218.166.92.149:6000/of-4gtv-4gtv156/index.m3u8
