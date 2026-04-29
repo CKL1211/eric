@@ -133,7 +133,7 @@ CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70
 
 港台,#genre#
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台 广电版,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
@@ -154,7 +154,6 @@ HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 华视,http://165.154.226.214:50007/of-4gtv-4gtv041/index.m3u8
 华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8
@@ -162,26 +161,15 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
 MOMO亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
 中天新闻,http://218.166.92.149:6000/of-4gtv-4gtv009/index.m3u8
-非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 寰宇新闻台,http://218.166.92.149:6000/of-litv-longturn14/index.m3u8
 寰宇新闻台湾台,http://218.166.92.149:6000/of-4gtv-4gtv156/index.m3u8
 寰宇财经台,http://218.166.92.149:6000/of-4gtv-4gtv158/index.m3u8
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
-美亚电影(台),http://iptv.4666888.xyz/iptv2A.php?id=30
-中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
-靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=54
-风云恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
-Astro 酷哒哒,https://o11.163189.xyz/stream/live/test/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-星空卫视,http://oldhome.clnas0001.top:9981/stream/channelid/1252435296?profile=pass
-星空国际,http://oldhome.clnas0001.top:9981/stream/channelid/1162856480?profile=pass
-Channel [V],http://oldhome.clnas0001.top:9981/stream/channelid/1262895919?profile=pass
 
 北京,#genre#
 北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
