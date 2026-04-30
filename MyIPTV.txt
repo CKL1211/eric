@@ -151,13 +151,20 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro欢喜台,https://o11.163189.xyz/stream/live/hxt/
+CH5,https://cdn6.163189.xyz/163189/ch5
+CH8,https://cdn6.163189.xyz/163189/ch8
+CHU,https://cdn6.163189.xyz/163189/chu
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
+ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 澳视澳门,https://cdn6.163189.xyz/163189/asam
 澳视卫星,https://cdn6.163189.xyz/163189/as
 澳门体育,https://cdn6.163189.xyz/163189/amty
@@ -165,29 +172,14 @@ RTHK32,https://cdn.163189.xyz/163189/rthk32
 澳门莲花,https://cdn6.163189.xyz/163189/amlh
 重温经典,https://cdn6.163189.xyz/163189/cwjd
 八度空间,https://cdn6.163189.xyz/163189/8tv
-CH5,https://cdn6.163189.xyz/163189/ch5
-CH8,https://cdn6.163189.xyz/163189/ch8
-CHU,https://cdn6.163189.xyz/163189/chu
-华视,http://165.154.226.214:50007/of-4gtv-4gtv041/index.m3u8
-华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8
-中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8
-三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
-中天新闻,http://218.166.92.149:6000/of-4gtv-4gtv009/index.m3u8
-寰宇新闻台,http://218.166.92.149:6000/of-litv-longturn14/index.m3u8
-寰宇新闻台湾台,http://218.166.92.149:6000/of-4gtv-4gtv156/index.m3u8
-寰宇财经台,http://218.166.92.149:6000/of-4gtv-4gtv158/index.m3u8
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典频道,https://cdn10.163189.xyz/stream/163189/ccm/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
-Astro欢喜台,https://o11.163189.xyz/stream/live/hxt/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
 靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 靖洋戏剧台,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 北京,#genre#
 北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
