@@ -1,9 +1,3 @@
-说明
-不要乱传 挂的很快 弄的大家没得看 那就没有分享的意义了
-有些欧洲台要对应的地区ip观看 法语世界可以请求头伪装ip
-境外频道推荐欧美节点梯子 NBA比赛时间表
-https://www.miguvideo.com/mgs/hybrid/sportsdata/main/schedule/prd/competitionCombine.html?projectId=2&selectIndex=0&pageId=a248773b53f7486b8fa462ba0c8f8adf
-
 央视,#genre#
 CCTV1,http://119.123.176.14:8086/hls/2/index.m3u8
 CCTV1 香港,http://cdn6.163189.xyz/163189/cctv1
@@ -26,7 +20,6 @@ CCTV16,http://119.123.176.14:8086/hls/17/index.m3u8
 CCTV17,http://home.szjim.top:4000/udp/239.77.1.121:5146
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
-
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
@@ -94,7 +87,7 @@ CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/250612.m3u8
 
 广东,#genre#
-广东大湾区,http://119.123.176.14:8086/hls/29/index.m3u8
+大湾区卫视,http://119.123.176.14:8086/hls/29/index.m3u8
 广东民生,http://119.123.176.14:8086/hls/39/index.m3u8
 广东少儿,http://119.123.176.14:8086/hls/40/index.m3u8
 广东体育,http://119.32.12.131:2905/udp/225.1.101.102:7523
@@ -110,42 +103,53 @@ CANAL +FOOT,http://156.238.224.122:6080/1.php?url=http://best-8k.org/live/jjyw70
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
-港台,#genre#
+港澳台,#genre#
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台 4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台 广电版,https://o11.163189.xyz/stream/tvb/fct/
-明珠台,http://cdn6.163189.xyz/163189/mzt
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+TVB1,https://cdn6.163189.xyz/163189/tvb1
+TVB J1,https://cdn6.163189.xyz/163189/j1
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
+TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+无线新闻台,https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+娱乐新闻台,https://tvb.go-iptv.ggff.net/stream/tvb/null-5/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-星空卫视,http://oldhome.clnas0001.top:9981/stream/channelid/1252435296?profile=pass
-星空国际,http://oldhome.clnas0001.top:9981/stream/channelid/1162856480?profile=pass
-Channel [V],http://oldhome.clnas0001.top:9981/stream/channelid/1262895919?profile=pass
-华视,http://85.237.207.150:50007/of-4gtv-4gtv041/index.m3u8
-中视,http://85.237.207.150:50007/of-4gtv-4gtv040/index.m3u8
-中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
-寰宇新闻台,http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
-寰宇财经台,http://85.237.207.150:50007/of-4gtv-4gtv158/index.m3u8
-寰宇新闻台湾台,http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
-华视新闻,http://85.237.207.150:50007/of-4gtv-4gtv052/index.m3u8
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro欢喜台,https://o11.163189.xyz/stream/live/hxt/
+CH5,https://cdn6.163189.xyz/163189/ch5
+CH8,https://cdn6.163189.xyz/163189/ch8
+CHU,https://cdn6.163189.xyz/163189/chu
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
-ViuTV,https://cdn.163189.xyz/163189/viu
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
 ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+澳视澳门,https://cdn6.163189.xyz/163189/asam
+澳视卫星,https://cdn6.163189.xyz/163189/as
+澳门体育,https://cdn6.163189.xyz/163189/amty
+澳门综艺,https://cdn6.163189.xyz/163189/amzy
+澳门莲花,https://cdn6.163189.xyz/163189/amlh
 天映频道,https://o11.163189.xyz/stream/live/typd/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
+天映经典频道,https://cdn10.163189.xyz/stream/163189/ccm/
+天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 
 北京,#genre#
 北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
@@ -395,9 +399,6 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 Love Nature 台湾,http://116.241.240.176:5050/4gtv-live208/index.m3u8
-花花公子+,http://79.127.207.193:80/PlayboyHD/playlist.m3u8
-花花公子 欧洲,http://193.24.244.60:1001/udp/239.254.4.227:6060
-花花公子 拉美,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 法国FTV,https://1722840738.rsc.cdn77.org/manifest.m3u8
 法国FTV,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 法国FTV,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LaJ4zAWLyADt-3moyHdZ
