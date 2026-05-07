@@ -142,11 +142,10 @@ TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
-无线新闻台,http://154.222.16.140:5080/3.php
 娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 NOW新闻,https://cdn.163189.xyz/163189/now
-NOW星影台,http://154.222.16.140:9999/2732109
 NOW爆谷台,http://154.222.16.140:9999/2307596
+NOW星影台,http://154.222.16.140:9999/2732109
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
