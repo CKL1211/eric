@@ -241,8 +241,10 @@ NOW体育6,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori
 NOW体育7,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori/123456/236726.m3u8
 NOW体育精选,http://154.222.16.140:5080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313830.m3u8
 NOW体育4K 1,http://154.222.16.140:5080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/641325.m3u8
+NOW体育4K 1 粤语,http://154.222.16.140:9999/2746691
 NOW英超 TV,http://154.222.16.140:5080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313829.m3u8
 NOW英超1,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori/123456/236727.m3u8
+NOW英超1粤语,http://154.222.16.140:9999/2746690
 NOW英超2,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori/123456/236728.m3u8
 NOW英超3,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori/123456/236729.m3u8
 NOW英超4,http://154.222.16.140:5080/1.php?url=http://206.212.246.239/live/Cori/123456/236730.m3u8
@@ -601,6 +603,71 @@ FIGHTBOX,http://91.187.52.18:15129/play/FightBox%20HD.m3u8
 捷克付费体育2台,http://91.187.52.18:15129/play/Premier%20Sport%202.m3u8
 捷克付费体育3台,http://91.187.52.18:15129/play/Premier%20Sport%203.m3u8
 
+按当天比赛顺序,#genre#
+有比赛直播才能看,http://154.222.16.140:9999/2526783
+NBA 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119713
+NBA 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119714
+NBA 03,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119715
+NBA 04,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119716
+NBA 05,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119717
+NBA 06,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119718
+NBA 07,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119719
+NBA 08,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119720
+NBA 09,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119721
+NBA 10,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119722
+NBA 11,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119723
+NBA 12,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119724
+NBA 13,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119725
+NBA 14,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119726
+NBA 15,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119727
+NBA 16,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119728
+NBA 17,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119729
+NBA 18,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119730
+NBA 19,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119731
+NBA 20,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119732
+NBA 21,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119733
+NBA 22,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119734
+NBA 23,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119735
+NBA 24,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119736
+NBA 25,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119737
+NBA 26,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119738
+NBA 27,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119739
+NBA 28,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119740
+NBA 29,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119741
+NBA 30,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119742
+
+队伍有比赛才能看,#genre#
+亚特兰大老鹰,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102109
+波士顿凯尔特人,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102110
+布鲁克林篮网,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102111
+夏洛特黄蜂,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102112
+芝加哥公牛,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102113
+克利夫兰骑士,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102114
+达拉斯独行侠,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102115
+丹佛掘金,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102116
+底特律活塞,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102117
+金州勇士,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102118
+休斯顿火箭,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102119
+印第安纳步行者,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102120
+洛杉矶快船,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102121
+洛杉矶湖人,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102122
+孟菲斯灰熊,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102123
+迈阿密热火,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102124
+密尔沃基雄鹿,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102125
+明尼苏达森林狼,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102106
+新奥尔良鹈鹕,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102107
+纽约尼克斯,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102126
+俄克拉荷马城雷霆,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102108
+奥兰多魔术,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102127
+费城76人,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102128
+菲尼克斯太阳,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102129
+波特兰开拓者,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102130
+萨克拉门托国王,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102131
+圣安东尼奥马刺,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102132
+多伦多猛龙,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102133
+犹他爵士,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102134
+华盛顿奇才,http://89.187.179.148:826/anto.j/c9yJDcXyPe/102135
+
 日本电视台,#genre#
 NHK综合,https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 NHK综合,http://quanwen:quanwen@jptv.benkailam.com:9961/stream/channelid/1471517821?profile=pass
@@ -644,6 +711,7 @@ AT-X,https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 法国gulli,http://154.222.16.140:5080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/275705.m3u8
 法国Canal+,http://154.222.16.140:5080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/275682.m3u8
 法国Canal+ 4K,http://154.222.16.140:5080/1.php?url=http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1854081.m3u8
+
 意大利1台,https://mynettv.duckdns.org/stream/channelid/749089377?profile=pass
 意大利1台 4K,https://mynettv.duckdns.org/stream/channelid/1539667822?profile=pass
 意大利2台,https://mynettv.duckdns.org/stream/channelid/1122914994?profile=pass
@@ -742,6 +810,7 @@ CCTV14,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001240/i
 CCTV15,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001338/index.m3u8?streamid=6cb793152bc3feaeb0d36b1f78734e29&streamkey=0PV1gjFJAoweF3CSW2HTvFOnU1zEDmHRK9FcfJ0vzfg5CFbmwrOLTmU6A2uM1zqhPOpEnz7Md394KH7YAof0w5BFREX1QQYQxmizDluDD3i8mYXPy&token=1775845542-71a929509d98569b-0-a600cab625264aad2580ea9e5f2262c2
 CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001248/index.m3u8?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&streamkey=0PV1gjFJAoweF4LVajzXxaoztUAQMwW67tiJA6JLGkPCJcKRxpuZzz5AwmiVgG2pdjZenCdrzYSKbivhVp0vV4YVY9jTkEBEwZBck6RI5JjcvvlaM&token=1775845559-6db3e056d42232cc-0-2b3c1ca3d50bc644609beec7e3e8fdd4
 CCTV17,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001241/index.m3u8?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&streamkey=0PV1gjFJAoweF5YBhLmikdAiTM8TYrREPmK2BoqLGDDsa2wLUsiqXxoyJY1E35jGneT1T2kh7HqtrgVC2j7z5LamnEF226bXdA39K4sQoBiVCzgnR&token=1775845579-ced9df16748de9ec-0-aabf271a79c6b44a6c323fa8f58b1c86
+
 广东卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001032/index.m3u8?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&streamkey=0bKBhLQXZpbdLlXLLONvHk837I3JU3wQyXlzYv81SyUmQWirKQI2dQSn3AGLNJdACjmgnvPR61yGRWBEGQ4nzQsJiWv0NTtUY6DHzqTmnawP1ll6KtQMAOjDq3wl7&token=1775846209-d5e79d4e398b287e-0-474f2cbd39eb3d0bf9d75e9fd997b627
 广西卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001224/index.m3u8?streamid=c8e847a8745033edc0153656ddc62c47&streamkey=02BjlnRKVk4w1OXISnb1OejZVn9bRHdunXYKl1C5N1ol67FOnItDvgJoBYqKBO3pEEd78pJfAXrPh5pbiSgVdvvKjrZoTm5oAtasdEeLPGPkUztZGZfGdLBvYui&token=1775846244-d0eb377b0f5b31cb-0-e33c5d7b6cd9c4614cbe6758e1013abb
 海南卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001183/index.m3u8?streamid=22a384055e4a94909e17012c852ac26d&streamkey=0WsC3jqv5pZMcSgRFJUqqEoCyxPsN5XCDwYYxXLKQPZqyPsfJBvh4XnGJ3dBGkO0sc8e9DyDfCqsxVtXb5IO5JgXsFKzFO5oehK1YwxNgjJD3coDqwk8Tskbx&token=1775846262-f89c3347bf71ddbe-0-389051cdc64192b096ea8a98eebfb649
