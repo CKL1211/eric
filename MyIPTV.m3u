@@ -113,10 +113,6 @@ http://14.216.156.145:8188/rtp/239.77.0.115:5146
 http://14.216.156.145:8188/rtp/239.77.0.198:5146
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 http://14.216.156.145:8188/rtp/239.77.1.121:5146
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV4K
-http://14.216.156.145:8188/rtp/239.77.0.194:5146
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV4K
-http://14.216.156.145:8188/rtp/239.77.1.180:5146
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
 http://14.216.156.145:8188/rtp/239.77.0.200:5146
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
