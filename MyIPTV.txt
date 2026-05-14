@@ -134,8 +134,6 @@ CGTN法语,http://14.216.159.165:8188/rtp/239.77.0.228:5146
 广东卫视,http://14.216.159.165:8188/rtp/239.77.1.152:5146
 大湾区卫视,http://14.216.159.165:8188/rtp/239.77.0.215:5146
 大湾区卫视,http://14.216.159.165:8188/rtp/239.77.1.12:5146
-南方卫视,http://183.7.148.236:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
-南方五,http://183.7.148.236:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
 重庆卫视,http://14.216.159.165:8188/rtp/239.77.0.182:5146
 重庆卫视,http://14.216.159.165:8188/rtp/239.77.1.162:5146
 江苏卫视,http://14.216.159.165:8188/rtp/239.77.0.90:5146
@@ -266,7 +264,6 @@ CCTV4K,http://14.216.159.165:8188/rtp/239.77.1.180:5146
 广东珠江,http://14.216.159.165:8188/rtp/239.77.1.94:5146
 广东珠江,http://14.216.159.165:8188/rtp/239.77.0.114:5146
 广东新闻,http://14.216.159.165:8188/rtp/239.77.0.173:5146
-广东公共,http://183.7.148.236:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
 广东影视,http://14.216.159.165:8188/rtp/239.77.0.217:5146
 广东民生,http://14.216.159.165:8188/rtp/239.77.0.225:5146
 广东少儿,http://14.216.159.165:8188/rtp/239.77.0.250:5146
@@ -277,14 +274,12 @@ CCTV4K,http://14.216.159.165:8188/rtp/239.77.1.180:5146
 广东体育,http://14.216.159.165:8188/rtp/239.77.0.112:5146
 广东体育,http://14.216.159.165:8188/rtp/239.77.0.168:5146
 广东体育,http://14.216.159.165:8188/rtp/239.77.1.97:5146
-广东南方购物,http://183.7.148.236:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
 广州综合,http://14.216.159.165:8188/rtp/239.253.43.71:5146
 广州新闻,http://14.216.159.165:8188/rtp/239.253.43.72:5146
 广州法治,http://14.216.159.165:8188/rtp/239.253.43.74:5146
 深圳都市频道,http://14.216.159.165:8188/rtp/239.77.1.124:5146
 深圳都市频道,http://14.216.159.165:8188/rtp/239.77.1.176:5146
 深圳少儿频道,http://14.216.159.165:8188/rtp/239.77.1.244:5146
-深圳少儿频道,http://183.7.148.236:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
 深圳电视剧,http://14.216.159.165:8188/rtp/239.77.1.125:5146
 深圳电视剧,http://14.216.159.165:8188/rtp/239.77.1.177:5146
 深圳财经,http://14.216.159.165:8188/rtp/239.77.1.242:5146
@@ -331,10 +326,6 @@ CCTV4K,http://14.216.159.165:8188/rtp/239.77.1.180:5146
 茂名综合,http://14.216.159.165:8188/rtp/239.77.0.206:5146
 茂名文化生活,http://14.216.159.165:8188/rtp/239.77.0.207:5146
 韶关综合,http://14.216.159.165:8188/rtp/239.77.0.117:5146
-五华台,http://183.7.148.236:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-梅州1,http://183.7.148.236:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-梅州2,http://183.7.148.236:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-山歌,http://183.7.148.236:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
 广东九画面,http://14.216.159.165:8188/rtp/239.77.1.234:5146
 求索记录,http://14.216.159.165:8188/rtp/239.77.0.21:5146
 财富天下,http://14.216.159.165:8188/rtp/239.77.0.113:5146
@@ -382,9 +373,7 @@ TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
 娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
-凤凰中文台,http://183.7.148.236:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
-凤凰资讯台,http://183.7.148.236:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
 AstroAOD,https://o11.163189.xyz/stream/live/aod/
 AstroAEC,https://o11.163189.xyz/stream/live/aec/
@@ -408,7 +397,6 @@ ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 重温经典,https://cdn6.163189.xyz/163189/cwjd
 八度空间,https://cdn6.163189.xyz/163189/8tv
 天映频道,https://o11.163189.xyz/stream/live/typd/
-天映频道,http://183.7.148.236:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
@@ -530,7 +518,7 @@ ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
 澳大利亚福克斯506,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110886
 澳大利亚福克斯507,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110887
 RTVS ŠPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-捷克Sporty TV,https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
+捷克SportyTV,https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
 罗马尼亚Sport Extra,http://89.37.116.198:8000/play/a021
 罗马尼亚DIGI Sport1,http://89.37.116.198:8000/play/a04l
 罗马尼亚DIGI Sport2,http://89.37.116.198:8000/play/a04c
