@@ -265,10 +265,6 @@ http://14.216.159.165:8188/rtp/239.77.1.152:5146
 http://14.216.159.165:8188/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://14.216.159.165:8188/rtp/239.77.1.12:5146
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://live.fanmingming.com/tv/南方卫视.png" group-title="卫视",南方卫视
-http://183.7.148.236:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="南方五" tvg-logo="https://live.fanmingming.com/tv/南方五.png" group-title="卫视",南方五
-http://183.7.148.236:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://14.216.159.165:8188/rtp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
@@ -521,8 +517,6 @@ http://14.216.159.165:8188/rtp/239.77.1.94:5146
 http://14.216.159.165:8188/rtp/239.77.0.114:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东",广东新闻
 http://14.216.159.165:8188/rtp/239.77.0.173:5146
-#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.com/tv/广东公共.png" group-title="广东",广东公共
-http://183.7.148.236:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东",广东影视
 http://14.216.159.165:8188/rtp/239.77.0.217:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东",广东民生
@@ -543,8 +537,6 @@ http://14.216.159.165:8188/rtp/239.77.0.112:5146
 http://14.216.159.165:8188/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
 http://14.216.159.165:8188/rtp/239.77.1.97:5146
-#EXTINF:-1 tvg-name="广东南方购物" tvg-logo="https://live.fanmingming.com/tv/广东南方购物.png" group-title="广东",广东南方购物
-http://183.7.148.236:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
 http://14.216.159.165:8188/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东",广州新闻
@@ -557,8 +549,6 @@ http://14.216.159.165:8188/rtp/239.77.1.124:5146
 http://14.216.159.165:8188/rtp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳少儿频道" tvg-logo="https://live.fanmingming.com/tv/深圳少儿频道.png" group-title="广东",深圳少儿频道
 http://14.216.159.165:8188/rtp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳少儿频道" tvg-logo="https://live.fanmingming.com/tv/深圳少儿频道.png" group-title="广东",深圳少儿频道
-http://183.7.148.236:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://live.fanmingming.com/tv/深圳电视剧.png" group-title="广东",深圳电视剧
 http://14.216.159.165:8188/rtp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://live.fanmingming.com/tv/深圳电视剧.png" group-title="广东",深圳电视剧
@@ -651,14 +641,6 @@ http://14.216.159.165:8188/rtp/239.77.0.206:5146
 http://14.216.159.165:8188/rtp/239.77.0.207:5146
 #EXTINF:-1 tvg-name="韶关综合" tvg-logo="https://live.fanmingming.com/tv/韶关综合.png" group-title="广东",韶关综合
 http://14.216.159.165:8188/rtp/239.77.0.117:5146
-#EXTINF:-1 tvg-name="五华台" tvg-logo="https://live.fanmingming.com/tv/五华台.png" group-title="广东",五华台
-http://183.7.148.236:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="梅州1" tvg-logo="https://live.fanmingming.com/tv/梅州1.png" group-title="广东",梅州1
-http://183.7.148.236:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="梅州2" tvg-logo="https://live.fanmingming.com/tv/梅州2.png" group-title="广东",梅州2
-http://183.7.148.236:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="山歌" tvg-logo="https://live.fanmingming.com/tv/山歌.png" group-title="广东",山歌
-http://183.7.148.236:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="广东九画面" tvg-logo="https://live.fanmingming.com/tv/广东九画面.png" group-title="广东",广东九画面
 http://14.216.159.165:8188/rtp/239.77.1.234:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="广东",求索记录
@@ -749,12 +731,8 @@ https://cdn6.163189.xyz/163189/ylxw
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="港澳台",凤凰中文台
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="港澳台",凤凰中文台
-http://183.7.148.236:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="港澳台",凤凰资讯台
 https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="港澳台",凤凰资讯台
-http://183.7.148.236:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港台.png" group-title="港澳台",凤凰香港台
 https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="AstroAOD" tvg-logo="https://live.fanmingming.com/tv/AstroAOD.png" group-title="港澳台",AstroAOD
@@ -801,8 +779,6 @@ https://cdn6.163189.xyz/163189/cwjd
 https://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="港澳台",天映频道
 https://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="港澳台",天映频道
-http://183.7.148.236:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="天映新加坡" tvg-logo="https://live.fanmingming.com/tv/天映新加坡.png" group-title="港澳台",天映新加坡
 https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="港澳台",靖天映画
@@ -1037,7 +1013,7 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/110886
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/110887
 #EXTINF:-1 tvg-name="RTVS ŠPORT" tvg-logo="https://live.fanmingming.com/tv/RTVS ŠPORT.png" group-title="体育",RTVS ŠPORT
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="捷克Sporty TV" tvg-logo="https://live.fanmingming.com/tv/捷克Sporty TV.png" group-title="体育",捷克Sporty TV
+#EXTINF:-1 tvg-name="捷克SportyTV" tvg-logo="https://live.fanmingming.com/tv/捷克SportyTV.png" group-title="体育",捷克SportyTV
 https://estreams.tv.nej.cz/dash/CH_SPORTYTV_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-name="罗马尼亚Sport Extra" tvg-logo="https://live.fanmingming.com/tv/罗马尼亚Sport Extra.png" group-title="体育",罗马尼亚Sport Extra
 http://89.37.116.198:8000/play/a021
