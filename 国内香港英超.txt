@@ -1,13 +1,3 @@
-说明 
-不要乱传 有些台我控制的
-再乱传我随时关掉 
-在2026年5月11日21时15分 就有人乱群发
-如果再乱发我不更新
-境外台推荐欧美梯子 NBA比赛时间表
-https://www.miguvideo.com/mgs/hybrid/sportsdata/main/schedule/prd/competitionCombine.html?projectId=2&selectIndex=0&pageId=a248773b53f7486b8fa462ba0c8f8adf
-
-安卓非移动网络EXO解码看咪视界host
-Host=cache.ott.fifalive.itv.cmvideo.cn=183.60.250.211
 央视,#genre#
 CCTV1,http://119.123.178.74:8086/hls/2/index.m3u8
 CCTV1 香港,http://cdn6.163189.xyz/163189/cctv1
@@ -40,7 +30,6 @@ CCTV17,http://home.szjim.top:4000/udp/239.77.1.121:5146
 女性时尚,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001571/index.m3u8?streamid=15732e48a35953bb064f0ffb4197035c&streamkey=092SzM8qh4GNZnGRAOz6y3nvNrssZJcflnNDbtwifQsVSBFB4hpwpDInl50YKu2zt1eb26JJwNN5CopCgczz7WZR3dtJlHFGA3m8Sgjvc2xB9twEzATcT54y15wY&token=1775754397-43927d95ab17a1ae-0-d7fc3f2a8df09c74d345181b73c6c670
 央视台球,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001600/index.m3u8?streamid=04540cf3fa4df50b6e2fd9166c021d4b&streamkey=02BjlnRKVk4w1Ojwl0Q41u7qasJwePv45M3Tx7aAax93Zq5QEnEH7qLpHsyWobOiWCvunmJFhnRmIfEOv4rl3BaZDf4HVH0GjcLnULEFcC6BRgqtB3rX8Ah1RRq&token=1775754426-3ba023cd7fae153a-0-83a101ff80611422cb2ee97dc79dde3f
 兵器科技,http://home.szjim.top:4000/udp/239.253.43.18:5146
-
 CETV1,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001020/index.m3u8?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&streamkey=06Au6xOXDlDEab661Jj4JZtB5rtbWJNHTgnSAVTvFlBNzzUBYjIEDgT9mS4Z4uWlLecUluW7TiiSPKV9p8qg7uORC8NHkZGp2wYI0D2H51xbeR6S&token=1776221422-a453c0c847327165-0-68e4509e1d03b7b6d7c3b8c927e72a7a
 CETV4,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001348/index.m3u8?streamid=37d60172a2bbb0d41f072d29213e6264&streamkey=06Au6xOXDlDEaapIVa7cpJhfzHs3AaqeIMjrUSQi1ZhQNbtlQYu45U2p26oN78H5M54F7fWWjiWa5JbgizqfzftqDt06P5Nj3CWuFMU3yFOgiX5n&token=1776221467-8fa99b3b879bacd8-0-b09602326b577119089417591328a91d
 CETV早期教育,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001680/index.m3u8?streamid=2c224135515a11c735f7351c17434a62&streamkey=070kmnWlSO6tVzLyh1sXZ20iCOCRLXoHmCsz0IqkkXJJD0eYMb2A5kwULwbki6Baf4Z2bJfsbp07kt5WoqgWvFeVzbkW96tGU7nFRu0brwnn5lybIRJA&token=1776221300-cf453e64c67843de-0-4539fce56dec116202db007052b0029c
@@ -103,7 +92,7 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 多彩文体,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3u8?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&streamkey=0AGMO6LiBIxyH4EhXQA4CyyBB6GWkVdx4wZhM6J1AywT63McWrpsYW9yLXS08YubrPIfbHwZLLnp7So4ZwIBrnd0XfZRr8BbmzbuifkWu2isG4qQh6gE8sxMfPTZh3ri&token=1775939208-d56ed9c8bb67d5e7-0-2a1d1f2081da3c539979b1c938effb5f
 
 广东,#genre#
-广东大湾区,http://119.123.178.74:8086/hls/29/index.m3u8
+大湾区卫视,http://119.123.178.74:8086/hls/29/index.m3u8
 广东民生,http://119.123.178.74:8086/hls/39/index.m3u8
 广东少儿,http://119.123.178.74:8086/hls/40/index.m3u8
 广东体育,http://119.32.12.131:2905/udp/225.1.101.102:7523
@@ -120,34 +109,60 @@ CCTV16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/i
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 港台,#genre#
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台 4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台 广电版,https://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,http://cdn6.163189.xyz/163189/mzt
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+TVB1,https://cdn6.163189.xyz/163189/tvb1
+TVBJ1,https://cdn6.163189.xyz/163189/j1
+TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
+TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
-无线新闻台 国际版,http://154.222.16.140:5080/3.php
+娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 NOW新闻,https://cdn.163189.xyz/163189/now
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港台,https://cdn6.163189.xyz/163189/fhhk
-中天新闻,https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+AstroAOD,https://o11.163189.xyz/stream/live/aod/
+AstroAEC,https://o11.163189.xyz/stream/live/aec/
+Astro欢喜台,https://o11.163189.xyz/stream/live/hxt/
+Channel5,https://cdn6.163189.xyz/163189/ch5
+Channel8,https://cdn6.163189.xyz/163189/ch8
+ChannelU,https://cdn6.163189.xyz/163189/chu
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
 HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
+ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
 ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+澳视澳门,https://cdn6.163189.xyz/163189/asam
+澳视卫星,https://cdn6.163189.xyz/163189/as
+澳门体育,https://cdn6.163189.xyz/163189/amty
+澳门综艺,https://cdn6.163189.xyz/163189/amzy
+澳门莲花,https://cdn6.163189.xyz/163189/amlh
+重温经典,https://cdn6.163189.xyz/163189/cwjd
+八度空间,https://cdn6.163189.xyz/163189/8tv
 天映频道,https://o11.163189.xyz/stream/live/typd/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
+天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+华视,http://85.237.207.150:50007/of-4gtv-4gtv041/index.m3u8
+中视,http://85.237.207.150:50007/of-4gtv-4gtv040/index.m3u8
+寰宇新闻台,http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
+寰宇财经台,http://85.237.207.150:50007/of-4gtv-4gtv158/index.m3u8
+寰宇新闻台湾台,http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
+华视新闻,http://85.237.207.150:50007/of-4gtv-4gtv052/index.m3u8
+三立综合台,http://116.241.240.176:5050/4gtv-live207/index.m3u8
+中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
 
 北京,#genre#
 北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
