@@ -362,8 +362,6 @@ HOY77,https://cdn6.163189.xyz/163189/hoy
 HOY78,https://cdn.163189.xyz/163189/hoy78
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
-ViuTV,https://cdn10.163189.xyz/163189/viu/
-ViuTV6,https://cdn10.163189.xyz/163189/viu6/
 澳视澳门,https://cdn6.163189.xyz/163189/asam
 澳视卫星,https://cdn6.163189.xyz/163189/as
 澳门体育,https://cdn6.163189.xyz/163189/amty
