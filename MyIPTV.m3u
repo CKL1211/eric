@@ -221,12 +221,6 @@ http://14.216.151.28:8188/rtp/239.253.43.126:5146
 http://14.216.151.28:8188/rtp/239.77.0.226:5146
 #EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="央视",国学频道
 http://14.216.151.28:8188/rtp/239.77.1.105:5146
-#EXTINF:-1 tvg-name="无信号" tvg-logo="https://live.fanmingming.com/tv/无信号.png" group-title="央视",无信号
-http://14.216.151.28:8188/rtp/239.77.0.236:5146
-#EXTINF:-1 tvg-name="无信号" tvg-logo="https://live.fanmingming.com/tv/无信号.png" group-title="央视",无信号
-http://14.216.151.28:8188/rtp/239.77.1.139:5146
-#EXTINF:-1 tvg-name="无信号" tvg-logo="https://live.fanmingming.com/tv/无信号.png" group-title="央视",无信号
-http://14.216.151.28:8188/rtp/239.253.43.165:5146
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
 http://14.216.151.28:8188/rtp/239.77.0.220:5146
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
@@ -711,12 +705,6 @@ https://cdn.163189.xyz/163189/hoy78
 https://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳台",RTHK32
 https://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="港澳台",ViuTV
-http://r.jdshipin.com/vSJvl
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="港澳台",ViuTV
-https://cdn10.163189.xyz/stream/163189/viu/
-#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/ViuTV6.png" group-title="港澳台",ViuTV6
-https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳台",澳视澳门
 https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.com/tv/澳视卫星.png" group-title="港澳台",澳视卫星
