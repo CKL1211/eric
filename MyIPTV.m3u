@@ -802,6 +802,8 @@ http://1.203.110.72:8852/rtp/225.1.8.202:9020
 #EXTINF:-1 tvg-name="IPTV魅力时尚" tvg-logo="https://live.fanmingming.com/tv/IPTV魅力时尚.png" group-title="綜合頻道",IPTV魅力时尚
 http://14.216.156.219:8188/rtp/239.77.1.88:5146
 #EXTINF:-1 tvg-name="IPTV魅力时尚" tvg-logo="https://live.fanmingming.com/tv/IPTV魅力时尚.png" group-title="綜合頻道",IPTV魅力时尚
+http://14.216.156.219:8188/rtp/239.77.0.110:5146
+#EXTINF:-1 tvg-name="IPTV魅力时尚" tvg-logo="https://live.fanmingming.com/tv/IPTV魅力时尚.png" group-title="綜合頻道",IPTV魅力时尚
 http://1.203.110.72:8852/rtp/225.1.8.204:9012
 #EXTINF:-1 tvg-name="IPTV相声小品" tvg-logo="https://live.fanmingming.com/tv/IPTV相声小品.png" group-title="綜合頻道",IPTV相声小品
 http://14.216.156.219:8188/rtp/239.77.1.84:5146
@@ -813,16 +815,14 @@ http://14.216.156.219:8188/rtp/239.77.0.101:5146
 http://14.216.156.219:8188/rtp/239.77.1.86:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" tvg-logo="https://live.fanmingming.com/tv/IPTV收视指南.png" group-title="綜合頻道",IPTV收视指南
 http://1.203.110.72:8852/rtp/225.1.8.201:8012
-#EXTINF:-1 tvg-name="华数爱大剧1" tvg-logo="https://live.fanmingming.com/tv/华数爱大剧1.png" group-title="綜合頻道",华数爱大剧1
-http://14.216.156.219:8188/rtp/239.77.0.105:5146
-#EXTINF:-1 tvg-name="华数爱大剧2" tvg-logo="https://live.fanmingming.com/tv/华数爱大剧2.png" group-title="綜合頻道",华数爱大剧2
-http://14.216.156.219:8188/rtp/239.77.0.110:5146
-#EXTINF:-1 tvg-name="华数爱电影" tvg-logo="https://live.fanmingming.com/tv/华数爱电影.png" group-title="綜合頻道",华数爱电影
-http://14.216.156.219:8188/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-name="华数爱电影" tvg-logo="https://live.fanmingming.com/tv/华数爱电影.png" group-title="綜合頻道",华数爱电影
 http://14.216.156.219:8188/rtp/239.77.1.138:5146
-#EXTINF:-1 tvg-name="华数电视剧" tvg-logo="https://live.fanmingming.com/tv/华数电视剧.png" group-title="綜合頻道",华数电视剧
+#EXTINF:-1 tvg-name="华数爱大剧" tvg-logo="https://live.fanmingming.com/tv/华数爱大剧.png" group-title="綜合頻道",华数爱大剧
+http://14.216.156.219:8188/rtp/239.77.0.105:5146
+#EXTINF:-1 tvg-name="华数爱大剧" tvg-logo="https://live.fanmingming.com/tv/华数爱大剧.png" group-title="綜合頻道",华数爱大剧
 http://14.216.156.219:8188/rtp/239.77.1.82:5146
+#EXTINF:-1 tvg-name="华数爱电影" tvg-logo="https://live.fanmingming.com/tv/华数爱电影.png" group-title="綜合頻道",华数爱电影
+http://14.216.156.219:8188/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-name="华数谍战剧场" tvg-logo="https://live.fanmingming.com/tv/华数谍战剧场.png" group-title="綜合頻道",华数谍战剧场
 http://14.216.156.219:8188/rtp/239.77.1.83:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="綜合頻道",求索记录
@@ -841,10 +841,6 @@ http://14.216.156.219:8188/rtp/239.77.0.212:5146
 http://218.79.9.143:4022/rtp/233.18.204.49:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="綜合頻道",游戏风云
 http://218.79.9.143:4022/rtp/233.18.204.44:5140
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="綜合頻道",茶频道
-http://218.79.9.143:4022/rtp/233.18.204.43:5140
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="綜合頻道",茶频道
-http://1.203.110.72:8852/rtp/225.1.8.72:8002
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="綜合頻道",金色学堂
 http://218.79.9.143:4022/rtp/233.18.204.66:5140
 #EXTINF:-1 tvg-name="书法频道" tvg-logo="https://live.fanmingming.com/tv/书法频道.png" group-title="綜合頻道",书法频道
@@ -883,3 +879,5 @@ http://218.79.9.143:4022/rtp/233.18.204.46:5140
 http://218.79.9.143:4022/rtp/233.18.204.54:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="綜合頻道",中国天气
 http://14.216.156.219:8188/rtp/239.77.1.2:5146
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="綜合頻道",中国天气
+http://1.203.110.72:8852/rtp/225.1.8.72:8002
