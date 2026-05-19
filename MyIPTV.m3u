@@ -275,16 +275,10 @@ http://14.216.164.140:8188/rtp/239.77.1.93:5146
 http://14.216.164.140:8188/rtp/239.77.1.174:5146
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="衛視頻道",陕西卫视
 http://125.76.174.221:8008/rtp/239.111.205.35:5140
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="衛視頻道",陕西卫视
-http://14.216.164.140:8188/rtp/239.77.0.68:5146
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="衛視頻道",陕西卫视
-http://14.216.164.140:8188/rtp/239.77.1.54:5146
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="衛視頻道",东南卫视
 http://14.216.164.140:8188/rtp/239.77.0.146:5146
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="衛視頻道",东南卫视
 http://14.216.164.140:8188/rtp/239.77.1.104:5146
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="衛視頻道",厦门卫视
-http://14.216.164.140:8188/rtp/239.77.0.96:5146
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="衛視頻道",吉林卫视
 http://14.216.164.140:8188/rtp/239.77.0.150:5146
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="衛視頻道",吉林卫视
@@ -293,10 +287,6 @@ http://14.216.164.140:8188/rtp/239.77.1.111:5146
 http://14.216.164.140:8188/rtp/239.77.1.103:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="衛視頻道",辽宁卫视
 http://14.216.164.140:8188/rtp/239.77.0.123:5146
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="衛視頻道",内蒙古卫视
-http://14.216.164.140:8188/rtp/239.77.0.70:5146
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="衛視頻道",内蒙古卫视
-http://14.216.164.140:8188/rtp/239.77.1.55:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="衛視頻道",湖南卫视
 http://14.216.164.140:8188/rtp/239.77.0.88:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="衛視頻道",湖南卫视
@@ -353,10 +343,6 @@ http://14.216.164.140:8188/rtp/239.77.1.189:5146
 http://14.216.164.140:8188/rtp/239.77.1.117:5146
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="衛視頻道",三沙卫视
 http://14.216.164.140:8188/rtp/239.253.43.113:5146
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="衛視頻道",延边卫视
-http://14.216.164.140:8188/rtp/239.77.0.10:5146
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="衛視頻道",延边卫视
-http://14.216.164.140:8188/rtp/239.77.1.99:5146
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="衛視頻道",动漫秀场
 http://218.79.9.143:4022/rtp/233.18.204.46:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="衛視頻道",动漫秀场
