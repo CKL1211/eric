@@ -375,10 +375,6 @@ http://14.216.164.140:8188/rtp/239.77.0.79:5146
 http://14.216.164.140:8188/rtp/239.77.1.50:5146
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="衛視頻道",卡酷少儿
 http://1.203.110.186:8852/rtp/225.1.8.35:8000
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="衛視頻道",重庆汽摩
-http://14.216.164.140:8188/rtp/239.77.0.209:5146
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="衛視頻道",重庆汽摩
-http://14.216.164.140:8188/rtp/239.77.1.205:5146
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="超高清頻道",CCTV4K
 http://14.216.164.140:8188/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="超高清頻道",CCTV4K
@@ -519,9 +515,9 @@ http://218.79.9.143:4022/rtp/233.18.204.48:5140
 http://218.79.9.143:4022/rtp/233.18.204.50:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海頻道",东方影视
 http://218.79.9.143:4022/rtp/233.18.204.55:5140
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海頻道",东方购物
+#EXTINF:-1 tvg-name="东方购物1" tvg-logo="https://live.fanmingming.com/tv/东方购物1.png" group-title="上海頻道",东方购物1
 http://218.79.9.143:4022/rtp/233.18.204.61:5140
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海頻道",东方购物
+#EXTINF:-1 tvg-name="东方购物2" tvg-logo="https://live.fanmingming.com/tv/东方购物2.png" group-title="上海頻道",东方购物2
 http://218.79.9.143:4022/rtp/233.18.204.62:5140
 #EXTINF:-1 tvg-name="BesTV电影介绍" tvg-logo="https://live.fanmingming.com/tv/BesTV电影介绍.png" group-title="上海頻道",BesTV电影介绍
 http://218.79.9.143:4022/rtp/233.18.204.116:5140
