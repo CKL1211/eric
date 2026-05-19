@@ -357,22 +357,16 @@ http://14.216.164.140:8188/rtp/239.77.1.99:5146
 http://14.216.164.140:8188/rtp/239.77.1.35:5146
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="衛視頻道",山东教育
 http://14.216.164.140:8188/rtp/239.77.0.83:5146
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="綜合頻道",动漫秀场
+http://218.79.9.143:4022/rtp/233.18.204.46:5140
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="綜合頻道",动漫秀场
+http://218.79.9.143:4022/rtp/233.18.204.54:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="衛視頻道",金鹰卡通
 http://14.216.164.140:8188/rtp/239.77.0.164:5146
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="衛視頻道",金鹰卡通
 http://14.216.164.140:8188/rtp/239.77.1.52:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="衛視頻道",嘉佳卡通
-http://14.216.164.140:8188/rtp/239.77.1.15:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="衛視頻道",嘉佳卡通
 http://14.216.164.140:8188/rtp/239.77.0.179:5146
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="衛視頻道",优漫卡通
-http://14.216.164.140:8188/rtp/239.77.0.222:5146
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="衛視頻道",优漫卡通
-http://14.216.164.140:8188/rtp/239.77.1.79:5146
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="衛視頻道",卡酷少儿
-http://14.216.164.140:8188/rtp/239.77.0.79:5146
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="衛視頻道",卡酷少儿
-http://14.216.164.140:8188/rtp/239.77.1.50:5146
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="衛視頻道",卡酷少儿
 http://1.203.110.186:8852/rtp/225.1.8.35:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="超高清頻道",CCTV4K
@@ -851,10 +845,6 @@ http://1.203.110.186:8852/rtp/225.1.8.53:8060
 http://218.79.9.143:4022/rtp/233.18.204.45:5140
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="綜合頻道",乐游
 http://218.79.9.143:4022/rtp/233.18.204.47:5140
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="綜合頻道",动漫秀场
-http://218.79.9.143:4022/rtp/233.18.204.46:5140
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="綜合頻道",动漫秀场
-http://218.79.9.143:4022/rtp/233.18.204.54:5140
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="綜合頻道",中国天气
 http://14.216.164.140:8188/rtp/239.77.1.2:5146
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="綜合頻道",中国天气
