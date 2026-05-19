@@ -121,6 +121,10 @@ http://14.216.164.140:8188/rtp/239.77.0.228:5146
 http://14.216.164.140:8188/rtp/239.253.43.15:5146
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央視頻道",第一剧场
 http://14.216.164.140:8188/rtp/239.253.43.28:5146
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央視頻道",怀旧剧场
+http://14.216.164.140:8188/rtp/239.253.43.5:5146
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央視頻道",怀旧剧场
+http://14.216.164.140:8188/rtp/239.253.43.25:5146
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央視頻道",风云剧场
 http://14.216.164.140:8188/rtp/239.253.43.16:5146
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央視頻道",风云剧场
@@ -137,14 +141,8 @@ http://14.216.164.140:8188/rtp/239.253.43.29:5146
 http://14.216.164.140:8188/rtp/239.253.43.7:5146
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央視頻道",世界地理
 http://14.216.164.140:8188/rtp/239.253.43.24:5146
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央視頻道",电视指南
-http://14.216.164.140:8188/rtp/239.253.43.10:5146
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央視頻道",电视指南
-http://14.216.164.140:8188/rtp/239.253.43.19:5146
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央視頻道",怀旧剧场
-http://14.216.164.140:8188/rtp/239.253.43.5:5146
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央視頻道",怀旧剧场
-http://14.216.164.140:8188/rtp/239.253.43.25:5146
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="綜合頻道",卫生健康
+http://14.216.164.140:8188/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央視頻道",兵器科技
 http://14.216.164.140:8188/rtp/239.253.43.9:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央視頻道",兵器科技
@@ -161,9 +159,13 @@ http://14.216.164.140:8188/rtp/239.253.43.22:5146
 http://14.216.164.140:8188/rtp/239.253.43.11:5146
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央視頻道",央视台球
 http://14.216.164.140:8188/rtp/239.253.43.21:5146
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央視頻道",央视文化精品
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央視頻道",电视指南
+http://14.216.164.140:8188/rtp/239.253.43.10:5146
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央視頻道",电视指南
+http://14.216.164.140:8188/rtp/239.253.43.19:5146
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央視頻道",文化精品
 http://14.216.164.140:8188/rtp/239.253.43.13:5146
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央視頻道",央视文化精品
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央視頻道",文化精品
 http://14.216.164.140:8188/rtp/239.253.43.27:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="衛視頻道",广东卫视
 http://14.216.164.140:8188/rtp/239.77.0.84:5146
@@ -807,8 +809,6 @@ http://218.79.9.143:4022/rtp/233.18.204.231:5140
 http://218.79.9.143:4022/rtp/233.18.204.39:5140
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="綜合頻道",天元围棋
 http://14.216.164.140:8188/rtp/239.253.43.98:5146
-#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="綜合頻道",卫生健康
-http://14.216.164.140:8188/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="綜合頻道",法治天地
 http://218.79.9.143:4022/rtp/233.18.204.49:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="綜合頻道",游戏风云
