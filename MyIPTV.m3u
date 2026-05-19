@@ -731,8 +731,8 @@ http://14.216.164.140:8188/rtp/239.77.1.21:5146
 http://14.216.164.140:8188/rtp/239.77.1.22:5146
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="體育頻道",五星体育
 http://pplee.vicp.net:4022/udp/233.18.204.58:5140
-#EXTINF:-1 tvg-name="五星体育http://218.79.9.143:4022/rtp/233.18.204.58:5140" tvg-logo="https://live.fanmingming.com/tv/五星体育http://218.79.9.143:4022/rtp/233.18.204.58:5140.png" group-title="體育頻道",五星体育http://218.79.9.143:4022/rtp/233.18.204.58:5140
-undefined
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="體育頻道",五星体育
+http://218.79.9.143:4022/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
 http://www.frankgb.cn:4022/udp/239.49.0.205:8000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="綜合頻道",CHC动作电影
@@ -807,8 +807,6 @@ http://14.216.164.140:8188/rtp/239.77.1.82:5146
 http://14.216.164.140:8188/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="綜合頻道",求索记录
 http://14.216.164.140:8188/rtp/239.77.0.21:5146
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="綜合頻道",财富天下
-http://14.216.164.140:8188/rtp/239.77.0.113:5146
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="綜合頻道",财富天下
 http://218.79.9.143:4022/rtp/233.18.204.231:5140
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="綜合頻道",央广购物
