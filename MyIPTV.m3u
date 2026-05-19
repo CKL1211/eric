@@ -159,14 +159,14 @@ http://14.216.164.140:8188/rtp/239.253.43.22:5146
 http://14.216.164.140:8188/rtp/239.253.43.11:5146
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央視頻道",央视台球
 http://14.216.164.140:8188/rtp/239.253.43.21:5146
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央視頻道",央视文化精品
+http://14.216.164.140:8188/rtp/239.253.43.13:5146
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央視頻道",央视文化精品
+http://14.216.164.140:8188/rtp/239.253.43.27:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央視頻道",电视指南
 http://14.216.164.140:8188/rtp/239.253.43.10:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央視頻道",电视指南
 http://14.216.164.140:8188/rtp/239.253.43.19:5146
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央視頻道",文化精品
-http://14.216.164.140:8188/rtp/239.253.43.13:5146
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央視頻道",文化精品
-http://14.216.164.140:8188/rtp/239.253.43.27:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="衛視頻道",广东卫视
 http://14.216.164.140:8188/rtp/239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="衛視頻道",广东卫视
