@@ -274,6 +274,8 @@ http://14.216.164.140:8188/rtp/239.77.1.93:5146
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="衛視頻道",湖北卫视
 http://14.216.164.140:8188/rtp/239.77.1.174:5146
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="衛視頻道",陕西卫视
+http://125.76.174.221:8008/rtp/239.111.205.35:5140
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="衛視頻道",陕西卫视
 http://14.216.164.140:8188/rtp/239.77.0.68:5146
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="衛視頻道",陕西卫视
 http://14.216.164.140:8188/rtp/239.77.1.54:5146
