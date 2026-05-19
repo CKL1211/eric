@@ -799,12 +799,12 @@ http://14.216.164.140:8188/rtp/239.77.0.109:5146
 http://1.203.110.186:8852/rtp/225.1.8.207:9000
 #EXTINF:-1 tvg-name="华数爱电影" tvg-logo="https://live.fanmingming.com/tv/华数爱电影.png" group-title="綜合頻道",华数爱电影
 http://14.216.164.140:8188/rtp/239.77.1.138:5146
+#EXTINF:-1 tvg-name="华数爱电影" tvg-logo="https://live.fanmingming.com/tv/华数爱电影.png" group-title="綜合頻道",华数爱电影
+http://14.216.164.140:8188/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-name="华数爱大剧" tvg-logo="https://live.fanmingming.com/tv/华数爱大剧.png" group-title="綜合頻道",华数爱大剧
 http://14.216.164.140:8188/rtp/239.77.0.105:5146
 #EXTINF:-1 tvg-name="华数爱大剧" tvg-logo="https://live.fanmingming.com/tv/华数爱大剧.png" group-title="綜合頻道",华数爱大剧
 http://14.216.164.140:8188/rtp/239.77.1.82:5146
-#EXTINF:-1 tvg-name="华数爱电影" tvg-logo="https://live.fanmingming.com/tv/华数爱电影.png" group-title="綜合頻道",华数爱电影
-http://14.216.164.140:8188/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="綜合頻道",求索记录
 http://14.216.164.140:8188/rtp/239.77.0.21:5146
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="綜合頻道",财富天下
