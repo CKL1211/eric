@@ -185,6 +185,8 @@ http://14.216.157.151:8188/rtp/239.253.43.35:5146
 http://14.216.157.151:8188/rtp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="衛視頻道",海南卫视
 http://218.79.9.143:4022/rtp/233.18.204.102:5140
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="衛視頻道",厦门卫视
+http://124.72.52.27:8988/rtp/239.61.2.11:8060
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="衛視頻道",重庆卫视
 http://14.216.157.151:8188/rtp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="衛視頻道",重庆卫视
@@ -491,14 +493,20 @@ http://218.79.9.143:4022/rtp/233.18.204.63:5140
 http://218.79.9.143:4022/rtp/233.18.204.57:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海頻道",东方影视
 http://218.79.9.143:4022/rtp/233.18.204.55:5140
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海頻道",东方财经
-http://218.79.9.143:4022/rtp/233.18.204.65:5140
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海頻道",第一财经
-http://218.79.9.143:4022/rtp/233.18.204.59:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海頻道",都市剧场
 http://218.79.9.143:4022/rtp/233.18.204.48:5140
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="上海頻道",多彩文体
 http://218.79.9.143:4022/rtp/233.18.204.50:5140
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海頻道",游戏风云
+http://218.79.9.143:4022/rtp/233.18.204.44:5140
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海頻道",金色学堂
+http://218.79.9.143:4022/rtp/233.18.204.66:5140
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="上海頻道",金鹰纪实
+http://218.79.9.143:4022/rtp/233.18.204.104:5140
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="上海頻道",快乐垂钓
+http://218.79.9.143:4022/rtp/233.18.204.42:5140
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海頻道",乐游
+http://218.79.9.143:4022/rtp/233.18.204.47:5140
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東頻道",广东珠江
 http://14.216.157.151:8188/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="廣東頻道",广东珠江
@@ -691,9 +699,9 @@ https://cdn.163189.xyz/163189/hoy78
 https://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳頻道",RTHK32
 https://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="港澳頻道",ViuTV
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.com/tv/VIUTV.png" group-title="港澳頻道",VIUTV
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
-#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/ViuTV6.png" group-title="港澳頻道",ViuTV6
+#EXTINF:-1 tvg-name="VIUTV6" tvg-logo="https://live.fanmingming.com/tv/VIUTV6.png" group-title="港澳頻道",VIUTV6
 http://120.234.44.98:18180/TV00000000000000000084@HHZT
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳頻道",澳视澳门
 https://cdn6.163189.xyz/163189/asam
