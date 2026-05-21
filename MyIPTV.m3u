@@ -425,6 +425,8 @@ http://14.216.157.151:8188/rtp/239.77.0.58:5146
 http://218.79.9.143:4022/rtp/233.18.204.229:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="超高清頻道",江苏卫视
 http://14.216.157.151:8188/rtp/239.77.0.57:5146
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="超高清頻道",河南卫视
+http://tzw.myds.me:8012/udp/225.1.4.254:1300
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="超高清頻道",南国都市
 http://14.216.157.151:8188/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="超高清頻道",多彩文体
