@@ -372,6 +372,8 @@ http://218.79.9.143:4022/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="超高清頻道",爱上4K
 http://1.203.110.181:8852/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-name="北京IPTV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV.png" group-title="超高清頻道",北京IPTV
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
+#EXTINF:-1 tvg-name="北京IPTV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV.png" group-title="超高清頻道",北京IPTV
 http://1.203.110.181:8852/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="超高清頻道",北京卫视
 http://14.216.157.151:8188/rtp/239.77.0.2:5146
