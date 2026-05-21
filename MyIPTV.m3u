@@ -185,8 +185,6 @@ http://14.216.157.151:8188/rtp/239.253.43.35:5146
 http://14.216.157.151:8188/rtp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="衛視頻道",海南卫视
 http://218.79.9.143:4022/rtp/233.18.204.102:5140
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="衛視頻道",厦门卫视
-http://124.72.52.27:8988/rtp/239.61.2.11:8060
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="衛視頻道",重庆卫视
 http://14.216.157.151:8188/rtp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="衛視頻道",重庆卫视
@@ -707,22 +705,6 @@ https://cdn6.163189.xyz/163189/amty
 https://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳頻道",澳门莲花
 https://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="體育頻道",睛彩竞技
-http://14.216.157.151:8188/rtp/239.77.1.20:5146
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="體育頻道",睛彩广场舞
-http://14.216.157.151:8188/rtp/239.77.1.23:5146
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="體育頻道",睛彩篮球
-http://14.216.157.151:8188/rtp/239.77.1.21:5146
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="體育頻道",睛彩青少
-http://14.216.157.151:8188/rtp/239.77.1.22:5146
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="體育頻道",五星体育
-http://pplee.vicp.net:4022/udp/233.18.204.58:5140
-#EXTINF:-1 tvg-name="五星体育http://218.79.9.143:4022/rtp/233.18.204.58:5140" tvg-logo="https://live.fanmingming.com/tv/五星体育http://218.79.9.143:4022/rtp/233.18.204.58:5140.png" group-title="體育頻道",五星体育http://218.79.9.143:4022/rtp/233.18.204.58:5140
-undefined
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
-http://www.frankgb.cn:4022/udp/239.49.0.205:8000
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
-http://124.72.52.27:8988/rtp/239.61.3.22:9652
 #EXTINF:-1 tvg-name="星影频道" tvg-logo="https://live.fanmingming.com/tv/星影频道.png" group-title="影視頻道",星影频道
 http://1.203.110.181:8852/rtp/225.1.8.254:4120
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="影視頻道",天映频道
@@ -797,3 +779,19 @@ http://14.216.157.151:8188/rtp/239.77.0.105:5146
 http://14.216.157.151:8188/rtp/239.77.1.82:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="影視頻道",求索记录
 http://14.216.157.151:8188/rtp/239.77.0.21:5146
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="體育頻道",睛彩竞技
+http://14.216.157.151:8188/rtp/239.77.1.20:5146
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="體育頻道",睛彩广场舞
+http://14.216.157.151:8188/rtp/239.77.1.23:5146
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="體育頻道",睛彩篮球
+http://14.216.157.151:8188/rtp/239.77.1.21:5146
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="體育頻道",睛彩青少
+http://14.216.157.151:8188/rtp/239.77.1.22:5146
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="體育頻道",五星体育
+http://pplee.vicp.net:4022/udp/233.18.204.58:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="體育頻道",五星体育
+http://218.79.9.143:4022/rtp/233.18.204.58:5140
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
+http://www.frankgb.cn:4022/udp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
+http://124.72.52.27:8988/rtp/239.61.3.22:9652
