@@ -795,5 +795,3 @@ http://pplee.vicp.net:4022/udp/233.18.204.58:5140
 http://218.79.9.143:4022/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
 http://www.frankgb.cn:4022/udp/239.49.0.205:8000
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
-http://124.72.52.27:8988/rtp/239.61.3.22:9652
