@@ -795,3 +795,89 @@ http://pplee.vicp.net:4022/udp/233.18.204.58:5140
 http://218.79.9.143:4022/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="體育頻道",武术世界
 http://www.frankgb.cn:4022/udp/239.49.0.205:8000
+#EXTINF:-1 tvg-name="英国BBC新闻" tvg-logo="https://live.fanmingming.com/tv/英国BBC新闻.png" group-title="英國頻道",英国BBC新闻
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="英国BBC新闻 美国版" tvg-logo="https://live.fanmingming.com/tv/英国BBC新闻 美国版.png" group-title="英國頻道",英国BBC新闻 美国版
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-name="天空新闻" tvg-logo="https://live.fanmingming.com/tv/天空新闻.png" group-title="英國頻道",天空新闻
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="英国BBC One NI" tvg-logo="https://live.fanmingming.com/tv/英国BBC One NI.png" group-title="英國頻道",英国BBC One NI
+http://41.180.140.146:4202/bysid/6963
+#EXTINF:-1 tvg-name="英国BBC Two" tvg-logo="https://live.fanmingming.com/tv/英国BBC Two.png" group-title="英國頻道",英国BBC Two
+http://41.180.140.146:4202/bysid/6940
+#EXTINF:-1 tvg-name="英国BBC CBBC" tvg-logo="https://live.fanmingming.com/tv/英国BBC CBBC.png" group-title="英國頻道",英国BBC CBBC
+http://41.180.140.146:4202/bysid/6972
+#EXTINF:-1 tvg-name="英国BBC CBeebies" tvg-logo="https://live.fanmingming.com/tv/英国BBC CBeebies.png" group-title="英國頻道",英国BBC CBeebies
+http://41.180.140.146:4220/bysid/10395
+#EXTINF:-1 tvg-name="英国itv 1" tvg-logo="https://live.fanmingming.com/tv/英国itv 1.png" group-title="英國頻道",英国itv 1
+http://41.180.140.146:4203/bysid/20810
+#EXTINF:-1 tvg-name="英国itv 2" tvg-logo="https://live.fanmingming.com/tv/英国itv 2.png" group-title="英國頻道",英国itv 2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
+#EXTINF:-1 tvg-name="英国itv 3" tvg-logo="https://live.fanmingming.com/tv/英国itv 3.png" group-title="英國頻道",英国itv 3
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
+#EXTINF:-1 tvg-name="英国itv 4" tvg-logo="https://live.fanmingming.com/tv/英国itv 4.png" group-title="英國頻道",英国itv 4
+http://41.180.140.146:4203/bysid/20825
+#EXTINF:-1 tvg-name="英国itv Quiz" tvg-logo="https://live.fanmingming.com/tv/英国itv Quiz.png" group-title="英國頻道",英国itv Quiz
+http://41.180.140.146:4203/bysid/20835
+#EXTINF:-1 tvg-name="英国QUEST" tvg-logo="https://live.fanmingming.com/tv/英国QUEST.png" group-title="英國頻道",英国QUEST
+http://41.180.140.146:4212/bysid/2925
+#EXTINF:-1 tvg-name="BBC 1 伦敦" tvg-logo="https://live.fanmingming.com/tv/BBC 1 伦敦.png" group-title="英國頻道",BBC 1 伦敦
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 海峡群岛" tvg-logo="https://live.fanmingming.com/tv/BBC 1 海峡群岛.png" group-title="英國頻道",BBC 1 海峡群岛
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰东部" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰东部.png" group-title="英國頻道",BBC 1 英格兰东部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰东米德兰兹" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰东米德兰兹.png" group-title="英國頻道",BBC 1 英格兰东米德兰兹
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰东约克郡" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰东约克郡.png" group-title="英國頻道",BBC 1 英格兰东约克郡
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰东北部" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰东北部.png" group-title="英國頻道",BBC 1 英格兰东北部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰西北部" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰西北部.png" group-title="英國頻道",BBC 1 英格兰西北部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 北爱尔兰" tvg-logo="https://live.fanmingming.com/tv/BBC 1 北爱尔兰.png" group-title="英國頻道",BBC 1 北爱尔兰
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 苏格兰" tvg-logo="https://live.fanmingming.com/tv/BBC 1 苏格兰.png" group-title="英國頻道",BBC 1 苏格兰
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰南部" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰南部.png" group-title="英國頻道",BBC 1 英格兰南部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰东南部" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰东南部.png" group-title="英國頻道",BBC 1 英格兰东南部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰西南部" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰西南部.png" group-title="英國頻道",BBC 1 英格兰西南部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 威尔士" tvg-logo="https://live.fanmingming.com/tv/BBC 1 威尔士.png" group-title="英國頻道",BBC 1 威尔士
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰西部" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰西部.png" group-title="英國頻道",BBC 1 英格兰西部
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 英格兰西米德兰兹" tvg-logo="https://live.fanmingming.com/tv/BBC 1 英格兰西米德兰兹.png" group-title="英國頻道",BBC 1 英格兰西米德兰兹
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 1 约克郡" tvg-logo="https://live.fanmingming.com/tv/BBC 1 约克郡.png" group-title="英國頻道",BBC 1 约克郡
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 2" tvg-logo="https://live.fanmingming.com/tv/BBC 2.png" group-title="英國頻道",BBC 2
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 2 北爱尔兰" tvg-logo="https://live.fanmingming.com/tv/BBC 2 北爱尔兰.png" group-title="英國頻道",BBC 2 北爱尔兰
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 2 威尔士" tvg-logo="https://live.fanmingming.com/tv/BBC 2 威尔士.png" group-title="英國頻道",BBC 2 威尔士
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 3" tvg-logo="https://live.fanmingming.com/tv/BBC 3.png" group-title="英國頻道",BBC 3
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 4" tvg-logo="https://live.fanmingming.com/tv/BBC 4.png" group-title="英國頻道",BBC 4
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 盖尔语" tvg-logo="https://live.fanmingming.com/tv/BBC 盖尔语.png" group-title="英國頻道",BBC 盖尔语
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC RB1" tvg-logo="https://live.fanmingming.com/tv/BBC RB1.png" group-title="英國頻道",BBC RB1
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 幼儿频道" tvg-logo="https://live.fanmingming.com/tv/BBC 幼儿频道.png" group-title="英國頻道",BBC 幼儿频道
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 少儿频道" tvg-logo="https://live.fanmingming.com/tv/BBC 少儿频道.png" group-title="英國頻道",BBC 少儿频道
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC 议会频道" tvg-logo="https://live.fanmingming.com/tv/BBC 议会频道.png" group-title="英國頻道",BBC 议会频道
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="美国CNN" tvg-logo="https://live.fanmingming.com/tv/美国CNN.png" group-title="英國頻道",美国CNN
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
+#EXTINF:-1 tvg-name="美国CNN 欧洲版" tvg-logo="https://live.fanmingming.com/tv/美国CNN 欧洲版.png" group-title="英國頻道",美国CNN 欧洲版
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-name="美国CNN 英国版" tvg-logo="https://live.fanmingming.com/tv/美国CNN 英国版.png" group-title="英國頻道",美国CNN 英国版
+https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
+#EXTINF:-1 tvg-name="美国Bloomberg" tvg-logo="https://live.fanmingming.com/tv/美国Bloomberg.png" group-title="英國頻道",美国Bloomberg
+https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
