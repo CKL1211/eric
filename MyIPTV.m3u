@@ -797,13 +797,3 @@ http://14.216.157.151:8188/rtp/239.77.0.105:5146
 http://14.216.157.151:8188/rtp/239.77.1.82:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="影視頻道",求索记录
 http://14.216.157.151:8188/rtp/239.77.0.21:5146
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="影視頻道",龙华电影
-https://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="影視頻道",龙华经典
-https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.com/tv/龙华偶像.png" group-title="影視頻道",龙华偶像
-https://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="影視頻道",龙华日韩
-https://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="影視頻道",龙华戏剧
-https://cdn8.163189.xyz/163189/lhxj
