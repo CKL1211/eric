@@ -185,8 +185,6 @@ http://14.216.158.68:8188/rtp/239.253.43.35:5146
 http://14.216.158.68:8188/rtp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="衛視頻道",海南卫视
 http://116.237.72.155:4022/rtp/233.18.204.102:5140
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="衛視頻道",厦门卫视
-http://124.72.52.27:8988/rtp/239.61.2.11:8060
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="衛視頻道",重庆卫视
 http://14.216.158.68:8188/rtp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="衛視頻道",重庆卫视
