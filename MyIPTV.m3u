@@ -353,7 +353,7 @@ http://116.237.72.155:4022/rtp/233.18.204.114:5140
 http://116.237.72.155:4022/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="北京IPTV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV.png" group-title="超高清頻道",北京IPTV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
-#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="超高清頻道",北京IPTV4K
+#EXTINF:-1 tvg-name="北京IPTV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV.png" group-title="超高清頻道",北京IPTV
 http://106.37.149.188:8899/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="超高清頻道",爱上4K
 http://106.37.149.188:8899/rtp/225.1.8.80:2000
@@ -437,34 +437,6 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.61:8002
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
 #EXTINF:-1 tvg-name="北京IPTV萌宠TV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV萌宠TV.png" group-title="北京頻道",北京IPTV萌宠TV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京頻道",北京文艺
-http://106.37.149.188:8899/rtp/225.1.8.22:8002
-#EXTINF:-1 tvg-name="北京科教" tvg-logo="https://live.fanmingming.com/tv/北京科教.png" group-title="北京頻道",北京科教
-http://106.37.149.188:8899/rtp/225.1.8.105:8002
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京頻道",北京影视
-http://106.37.149.188:8899/rtp/225.1.8.82:8000
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京頻道",北京财经
-http://106.37.149.188:8899/rtp/225.1.8.106:8002
-#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/北京冬奥纪实.png" group-title="北京頻道",北京冬奥纪实
-http://106.37.149.188:8899/rtp/225.1.8.23:8002
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京頻道",北京生活
-http://106.37.149.188:8899/rtp/225.1.8.108:8002
-#EXTINF:-1 tvg-name="北京青年" tvg-logo="https://live.fanmingming.com/tv/北京青年.png" group-title="北京頻道",北京青年
-http://106.37.149.188:8899/rtp/225.1.8.118:8002
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京頻道",北京新闻
-http://106.37.149.188:8899/rtp/225.1.8.83:8000
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="北京頻道",北京卡酷少儿
-http://106.37.149.188:8899/rtp/225.1.8.35:8000
-#EXTINF:-1 tvg-name="北京IPTV淘BABY" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘BABY.png" group-title="北京頻道",北京IPTV淘BABY
-http://106.37.149.188:8899/rtp/225.1.8.36:8002
-#EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘剧场.png" group-title="北京頻道",北京IPTV淘剧场
-http://106.37.149.188:8899/rtp/225.1.8.37:8002
-#EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘电影.png" group-title="北京頻道",北京IPTV淘电影
-http://106.37.149.188:8899/rtp/225.1.8.38:8002
-#EXTINF:-1 tvg-name="北京IPTV淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘娱乐.png" group-title="北京頻道",北京IPTV淘娱乐
-http://106.37.149.188:8899/rtp/225.1.8.61:8002
-#EXTINF:-1 tvg-name="北京IPTV萌宠TV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV萌宠TV.png" group-title="北京頻道",北京IPTV萌宠TV
-http://106.37.149.188:8899/rtp/225.1.8.63:8002
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海頻道",上海都市
 http://116.237.72.155:4022/rtp/233.18.204.53:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海頻道",上海教育
@@ -735,30 +707,6 @@ http://14.216.158.68:8188/rtp/239.77.0.105:5146
 http://14.216.158.68:8188/rtp/239.77.1.82:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="影視頻道",求索记录
 http://14.216.158.68:8188/rtp/239.77.0.21:5146
-#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://live.fanmingming.com/tv/城市剧场.png" group-title="影視頻道",城市剧场
-http://106.37.149.188:8899/rtp/225.1.8.227:4120
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="影視頻道",军旅剧场
-http://106.37.149.188:8899/rtp/225.1.8.228:4120
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="影視頻道",古装剧场
-http://106.37.149.188:8899/rtp/225.1.8.229:4120
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/音乐现场.png" group-title="影視頻道",音乐现场
-http://106.37.149.188:8899/rtp/225.1.8.230:4120
-#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://live.fanmingming.com/tv/武侠剧场.png" group-title="影視頻道",武侠剧场
-http://106.37.149.188:8899/rtp/225.1.8.250:4120
-#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://live.fanmingming.com/tv/喜剧影院.png" group-title="影視頻道",喜剧影院
-http://106.37.149.188:8899/rtp/225.1.8.251:4120
-#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://live.fanmingming.com/tv/动作影院.png" group-title="影視頻道",动作影院
-http://106.37.149.188:8899/rtp/225.1.8.252:4120
-#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="影視頻道",家庭影院
-http://106.37.149.188:8899/rtp/225.1.8.253:4120
-#EXTINF:-1 tvg-name="每日影院" tvg-logo="https://live.fanmingming.com/tv/每日影院.png" group-title="影視頻道",每日影院
-http://106.37.149.188:8899/rtp/225.1.8.97:8002
-#EXTINF:-1 tvg-name="幸福剧场" tvg-logo="https://live.fanmingming.com/tv/幸福剧场.png" group-title="影視頻道",幸福剧场
-http://106.37.149.188:8899/rtp/225.1.8.98:8002
-#EXTINF:-1 tvg-name="幸福娱乐" tvg-logo="https://live.fanmingming.com/tv/幸福娱乐.png" group-title="影視頻道",幸福娱乐
-http://106.37.149.188:8899/rtp/225.1.8.99:8002
-#EXTINF:-1 tvg-name="星影" tvg-logo="https://live.fanmingming.com/tv/星影.png" group-title="影視頻道",星影
-http://106.37.149.188:8899/rtp/225.1.8.254:4120
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="影視頻道",靖天电影
 https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="影視頻道",靖天映画
