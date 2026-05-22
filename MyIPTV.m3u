@@ -619,14 +619,10 @@ https://cdn.163189.xyz/163189/now
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="港澳頻道",凤凰中文台
 http://120.234.44.98:18180/TV00000000000000000008@HHZT
-#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="港澳頻道",凤凰中文台
-http://124.72.52.27:8988/rtp/239.61.2.184:9092
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="港澳頻道",凤凰资讯台
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="港澳頻道",凤凰资讯台
 http://120.234.44.98:18180/TV00000000000000000009@HHZT
-#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="港澳頻道",凤凰资讯台
-http://124.72.52.27:8988/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港台.png" group-title="港澳頻道",凤凰香港台
 https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港台.png" group-title="港澳頻道",凤凰香港台
