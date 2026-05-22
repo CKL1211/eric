@@ -455,7 +455,7 @@ http://180.159.143.7:3333/rtp/233.18.204.54:5140
 http://180.159.143.7:3333/rtp/233.18.204.104:5140
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="上海頻道",快乐垂钓
 http://180.159.143.7:3333/rtp/233.18.204.42:5140
-#EXTINF:-1 tvg-name="游戏风云HD" tvg-logo="https://live.fanmingming.com/tv/游戏风云HD.png" group-title="上海頻道",游戏风云HD
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海頻道",游戏风云
 http://180.159.143.7:3333/rtp/233.18.204.44:5140
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="廣東頻道",大湾区卫视
 http://14.216.158.68:8188/rtp/239.77.0.215:5146
