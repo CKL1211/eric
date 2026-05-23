@@ -769,7 +769,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One North East" tvg-logo="https://live.fanmingming.com/tv/BBC One North East.png" group-title="英美頻道",BBC One North East
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC One North_West" tvg-logo="https://live.fanmingming.com/tv/BBC One North_West.png" group-title="英美頻道",BBC One North_West
+#EXTINF:-1 tvg-name="BBC One North West" tvg-logo="https://live.fanmingming.com/tv/BBC One North West.png" group-title="英美頻道",BBC One North West
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One Northern Ireland" tvg-logo="https://live.fanmingming.com/tv/BBC One Northern Ireland.png" group-title="英美頻道",BBC One Northern Ireland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
