@@ -709,8 +709,6 @@ http://1.203.111.141:8852/rtp/225.1.8.227:4120
 http://1.203.111.141:8852/rtp/225.1.8.228:4120
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="影視頻道",古装剧场
 http://1.203.111.141:8852/rtp/225.1.8.229:4120
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/音乐现场.png" group-title="影視頻道",音乐现场
-http://1.203.111.141:8852/rtp/225.1.8.230:4120
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="影視頻道",靖天电影
 https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="影視頻道",靖天映画
