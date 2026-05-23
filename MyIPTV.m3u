@@ -733,7 +733,7 @@ http://41.180.140.146:4202/bysid/6972
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC CBeebies" tvg-logo="https://live.fanmingming.com/tv/BBC CBeebies.png" group-title="英美頻道",BBC CBeebies
 http://41.180.140.146:4220/bysid/10395
-#EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="https://live.fanmingming.com/tv/BBC Cbeebies.png" group-title="英美頻道",BBC Cbeebies
+#EXTINF:-1 tvg-name="BBC CBeebies" tvg-logo="https://live.fanmingming.com/tv/BBC CBeebies.png" group-title="英美頻道",BBC CBeebies
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://live.fanmingming.com/tv/BOOMERANG.png" group-title="英美頻道",BOOMERANG
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
