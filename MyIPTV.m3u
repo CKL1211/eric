@@ -347,6 +347,8 @@ http://14.216.157.166:8188/rtp/239.77.1.180:5146
 http://180.159.143.7:3333/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16 4K.png" group-title="超高清頻道",CCTV16 4K
 http://180.159.143.7:3333/rtp/233.18.204.215:5140
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="超高清頻道",爱上4K
+http://1.203.111.141:8852/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-name="北京IPTV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV.png" group-title="超高清頻道",北京IPTV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="超高清頻道",北京卫视
@@ -699,6 +701,16 @@ http://14.216.157.166:8188/rtp/239.77.0.105:5146
 http://14.216.157.166:8188/rtp/239.77.1.82:5146
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="影視頻道",求索记录
 http://14.216.157.166:8188/rtp/239.77.0.21:5146
+#EXTINF:-1 tvg-name="星影" tvg-logo="https://live.fanmingming.com/tv/星影.png" group-title="影視頻道",星影
+http://1.203.111.141:8852/rtp/225.1.8.254:4120
+#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://live.fanmingming.com/tv/城市剧场.png" group-title="影視頻道",城市剧场
+http://1.203.111.141:8852/rtp/225.1.8.227:4120
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="影視頻道",军旅剧场
+http://1.203.111.141:8852/rtp/225.1.8.228:4120
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="影視頻道",古装剧场
+http://1.203.111.141:8852/rtp/225.1.8.229:4120
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/音乐现场.png" group-title="影視頻道",音乐现场
+http://1.203.111.141:8852/rtp/225.1.8.230:4120
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="影視頻道",靖天电影
 https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="影視頻道",靖天映画
