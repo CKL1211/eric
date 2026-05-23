@@ -755,8 +755,6 @@ https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/pla
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://live.fanmingming.com/tv/BBC Earth.png" group-title="英美頻道",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC One NI" tvg-logo="https://live.fanmingming.com/tv/BBC One NI.png" group-title="英美頻道",BBC One NI
-http://41.180.140.146:4202/bysid/6963
 #EXTINF:-1 tvg-name="BBC One London" tvg-logo="https://live.fanmingming.com/tv/BBC One London.png" group-title="英美頻道",BBC One London
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One Channel Islands" tvg-logo="https://live.fanmingming.com/tv/BBC One Channel Islands.png" group-title="英美頻道",BBC One Channel Islands
@@ -773,6 +771,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_n
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One Northern Ireland" tvg-logo="https://live.fanmingming.com/tv/BBC One Northern Ireland.png" group-title="英美頻道",BBC One Northern Ireland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BBC One Northern Ireland" tvg-logo="https://live.fanmingming.com/tv/BBC One Northern Ireland.png" group-title="英美頻道",BBC One Northern Ireland
+http://41.180.140.146:4202/bysid/6963
 #EXTINF:-1 tvg-name="BBC One Scotland" tvg-logo="https://live.fanmingming.com/tv/BBC One Scotland.png" group-title="英美頻道",BBC One Scotland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC One South" tvg-logo="https://live.fanmingming.com/tv/BBC One South.png" group-title="英美頻道",BBC One South
@@ -805,8 +805,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Alba" tvg-logo="https://live.fanmingming.com/tv/BBC Alba.png" group-title="英美頻道",BBC Alba
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-name="BBC Parliamenthttps://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd" tvg-logo="https://live.fanmingming.com/tv/BBC Parliamenthttps://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd.png" group-title="英美頻道",BBC Parliamenthttps://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
-undefined
+#EXTINF:-1 tvg-name="BBC Parliament" tvg-logo="https://live.fanmingming.com/tv/BBC Parliament.png" group-title="英美頻道",BBC Parliament
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://live.fanmingming.com/tv/ITV 1.png" group-title="英美頻道",ITV 1
 http://41.180.140.146:4203/bysid/20810
 #EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://live.fanmingming.com/tv/ITV 2.png" group-title="英美頻道",ITV 2
