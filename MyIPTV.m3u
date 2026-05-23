@@ -747,7 +747,7 @@ http://41.180.140.146:4220/bysid/10395
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://live.fanmingming.com/tv/BOOMERANG.png" group-title="英美頻道",BOOMERANG
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CARTOON_NETWORK" tvg-logo="https://live.fanmingming.com/tv/CARTOON_NETWORK.png" group-title="英美頻道",CARTOON_NETWORK
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://live.fanmingming.com/tv/CARTOON NETWORK.png" group-title="英美頻道",CARTOON NETWORK
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://live.fanmingming.com/tv/COMEDY CENTRAL.png" group-title="英美頻道",COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
