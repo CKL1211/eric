@@ -575,8 +575,6 @@ http://14.216.159.199:8188/rtp/239.77.0.141:5146
 http://14.216.159.199:8188/rtp/239.253.43.82:5146
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="廣東頻道",金鹰卡通
 http://14.216.159.199:8188/rtp/239.77.0.164:5146
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="廣東頻道",金鹰卡通
-http://14.216.159.199:8188/rtp/239.77.1.52:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="廣東頻道",嘉佳卡通
 http://14.216.159.199:8188/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳頻道",翡翠台
