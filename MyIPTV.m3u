@@ -1,12 +1,10 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央視頻道",CCTV1
 http://14.216.151.175:8188/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央視頻道",CCTV1
 http://14.216.151.175:8188/rtp/239.77.0.119:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央視頻道",CCTV1
 http://14.216.151.175:8188/rtp/239.77.1.17:5146
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央視頻道",CCTV1
-http://14.216.151.175:8188/rtp/239.77.1.144:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央視頻道",CCTV1
 http://14.216.151.175:8188/rtp/239.77.0.129:5146
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央視頻道",CCTV2
@@ -137,8 +135,18 @@ http://14.216.151.175:8188/rtp/239.253.43.20:5146
 http://14.216.151.175:8188/rtp/239.253.43.6:5146
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央視頻道",风云音乐
 http://14.216.151.175:8188/rtp/239.253.43.29:5146
-#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央視頻道",卫生健康
-http://14.216.151.175:8188/rtp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央視頻道",央视台球
+http://14.216.151.175:8188/rtp/239.253.43.11:5146
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央視頻道",央视台球
+http://14.216.151.175:8188/rtp/239.253.43.21:5146
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央視頻道",高尔夫网球
+http://14.216.151.175:8188/rtp/239.253.43.12:5146
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央視頻道",高尔夫网球
+http://14.216.151.175:8188/rtp/239.253.43.22:5146
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央視頻道",女性时尚
+http://14.216.151.175:8188/rtp/239.253.43.8:5146
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央視頻道",女性时尚
+http://14.216.151.175:8188/rtp/239.253.43.23:5146
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央視頻道",世界地理
 http://14.216.151.175:8188/rtp/239.253.43.7:5146
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央視頻道",世界地理
@@ -147,18 +155,8 @@ http://14.216.151.175:8188/rtp/239.253.43.24:5146
 http://14.216.151.175:8188/rtp/239.253.43.9:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央視頻道",兵器科技
 http://14.216.151.175:8188/rtp/239.253.43.18:5146
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央視頻道",女性时尚
-http://14.216.151.175:8188/rtp/239.253.43.8:5146
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央視頻道",女性时尚
-http://14.216.151.175:8188/rtp/239.253.43.23:5146
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央視頻道",高尔夫网球
-http://14.216.151.175:8188/rtp/239.253.43.12:5146
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央視頻道",高尔夫网球
-http://14.216.151.175:8188/rtp/239.253.43.22:5146
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央視頻道",央视台球
-http://14.216.151.175:8188/rtp/239.253.43.11:5146
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央視頻道",央视台球
-http://14.216.151.175:8188/rtp/239.253.43.21:5146
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央視頻道",卫生健康
+http://14.216.151.175:8188/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央視頻道",央视文化精品
 http://14.216.151.175:8188/rtp/239.253.43.13:5146
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央視頻道",央视文化精品
