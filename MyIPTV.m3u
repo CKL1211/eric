@@ -170,9 +170,9 @@ http://14.216.163.212:8188/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="超高清頻道",CCTV4K
 http://14.216.163.212:8188/rtp/239.77.1.180:5146
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="超高清頻道",CCTV16
-http://58.37.48.70:5444/rtp/233.18.204.114:5140
+http://116.237.123.107:9088/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="超高清頻道",CCTV16
-http://58.37.48.70:5444/rtp/233.18.204.215:5140
+http://116.237.123.107:9088/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="超高清頻道",爱上4K
 http://1.203.111.201:8852/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-name="北京IPTV" tvg-logo="https://live.fanmingming.com/tv/北京IPTV.png" group-title="超高清頻道",北京IPTV
@@ -216,15 +216,15 @@ http://14.216.163.212:8188/rtp/239.77.0.57:5146
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="超高清頻道",南国都市
 http://14.216.163.212:8188/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="超高清頻道",多彩文体
-http://58.37.48.70:5444/rtp/233.18.204.115:5140
+http://116.237.123.107:9088/rtp/233.18.204.115:5140
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="超高清頻道",多彩文体
-http://58.37.48.70:5444/rtp/233.18.204.205:5140
+http://116.237.123.107:9088/rtp/233.18.204.205:5140
 #EXTINF:-1 tvg-name="BesTV4K动画" tvg-logo="https://live.fanmingming.com/tv/BesTV4K动画.png" group-title="超高清頻道",BesTV4K动画
-http://58.37.48.70:5444/rtp/233.18.204.171:5140
+http://116.237.123.107:9088/rtp/233.18.204.171:5140
 #EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://live.fanmingming.com/tv/BesTV4K电影.png" group-title="超高清頻道",BesTV4K电影
-http://58.37.48.70:5444/rtp/233.18.204.169:5140
+http://116.237.123.107:9088/rtp/233.18.204.169:5140
 #EXTINF:-1 tvg-name="BesTV4K记录" tvg-logo="https://live.fanmingming.com/tv/BesTV4K记录.png" group-title="超高清頻道",BesTV4K记录
-http://58.37.48.70:5444/rtp/233.18.204.170:5140
+http://116.237.123.107:9088/rtp/233.18.204.170:5140
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳頻道",翡翠台
 http://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳頻道",翡翠台
@@ -634,11 +634,11 @@ http://14.216.163.212:8188/rtp/239.77.1.189:5146
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="衛視頻道",三沙卫视
 http://14.216.163.212:8188/rtp/239.253.43.113:5146
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="衛視頻道",陕西卫视
-http://58.37.48.70:5444/rtp/233.18.204.223:5140
+http://116.237.123.107:9088/rtp/233.18.204.223:5140
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="衛視頻道",山西卫视
-http://58.37.48.70:5444/rtp/233.18.204.211:5140
+http://116.237.123.107:9088/rtp/233.18.204.211:5140
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="衛視頻道",内蒙古卫视
-http://58.37.48.70:5444/rtp/233.18.204.217:5140
+http://116.237.123.107:9088/rtp/233.18.204.217:5140
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.com/tv/北京国际.png" group-title="北京頻道",北京国际
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京頻道",北京新闻
