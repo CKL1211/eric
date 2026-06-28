@@ -126,7 +126,6 @@ TVBJ1,https://cdn6.163189.xyz/163189/j1
 TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
-翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
