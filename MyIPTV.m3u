@@ -255,28 +255,30 @@ http://120.234.44.98:18180/TV00000000000000000037@HHZT
 http://120.234.44.98:18180/TV00000000000000000084@HHZT
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港澳頻道",HOY77
 http://120.234.44.98:18180/TV00000000000000000036@HHZT
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳頻道",RTHK31
+http://120.234.44.98:18180/TV00000000000000000019@HHZT
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳頻道",RTHK32
 http://120.234.44.98:18180/TV00000000000000000017@HHZT
 #EXTINF:-1 tvg-name="test1" tvg-logo="https://live.fanmingming.com/tv/test1.png" group-title="港澳頻道",test1
-http://120.234.44.98:18180/TV00000000000000000019@HHZT
+http://120.234.44.98:18180/TV00000000000000000054@HHZT
 #EXTINF:-1 tvg-name="test2" tvg-logo="https://live.fanmingming.com/tv/test2.png" group-title="港澳頻道",test2
-http://120.234.44.98:18180/TV00000000000000000020@HHZT
+http://120.234.44.98:18180/TV00000000000000000045@HHZT
 #EXTINF:-1 tvg-name="test3" tvg-logo="https://live.fanmingming.com/tv/test3.png" group-title="港澳頻道",test3
-http://120.234.44.98:18180/TV00000000000000000021@HHZT
+http://120.234.44.98:18180/TV00000000000000000046@HHZT
 #EXTINF:-1 tvg-name="test4" tvg-logo="https://live.fanmingming.com/tv/test4.png" group-title="港澳頻道",test4
-http://120.234.44.98:18180/TV00000000000000000022@HHZT
+http://120.234.44.98:18180/TV00000000000000000047@HHZT
 #EXTINF:-1 tvg-name="test5" tvg-logo="https://live.fanmingming.com/tv/test5.png" group-title="港澳頻道",test5
-http://120.234.44.98:18180/TV00000000000000000023@HHZT
+http://120.234.44.98:18180/TV00000000000000000048@HHZT
 #EXTINF:-1 tvg-name="test6" tvg-logo="https://live.fanmingming.com/tv/test6.png" group-title="港澳頻道",test6
-http://120.234.44.98:18180/TV00000000000000000025@HHZT
+http://120.234.44.98:18180/TV00000000000000000049@HHZT
 #EXTINF:-1 tvg-name="test7" tvg-logo="https://live.fanmingming.com/tv/test7.png" group-title="港澳頻道",test7
-http://120.234.44.98:18180/TV00000000000000000026@HHZT
+http://120.234.44.98:18180/TV00000000000000000050@HHZT
 #EXTINF:-1 tvg-name="test8" tvg-logo="https://live.fanmingming.com/tv/test8.png" group-title="港澳頻道",test8
-http://120.234.44.98:18180/TV00000000000000000027@HHZT
+http://120.234.44.98:18180/TV00000000000000000051@HHZT
 #EXTINF:-1 tvg-name="test9" tvg-logo="https://live.fanmingming.com/tv/test9.png" group-title="港澳頻道",test9
-http://120.234.44.98:18180/TV00000000000000000028@HHZT
+http://120.234.44.98:18180/TV00000000000000000052@HHZT
 #EXTINF:-1 tvg-name="test10" tvg-logo="https://live.fanmingming.com/tv/test10.png" group-title="港澳頻道",test10
-http://120.234.44.98:18180/TV00000000000000000029@HHZT
+http://120.234.44.98:18180/TV00000000000000000053@HHZT
 #EXTINF:-1 tvg-name="AstroAOD" tvg-logo="https://live.fanmingming.com/tv/AstroAOD.png" group-title="港澳頻道",AstroAOD
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-name="AstroAEC" tvg-logo="https://live.fanmingming.com/tv/AstroAEC.png" group-title="港澳頻道",AstroAEC
