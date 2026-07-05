@@ -115,15 +115,8 @@ BesTV4K电影,http://116.237.161.27:8881/rtp/233.18.204.169:5140
 BesTV4K记录,http://116.237.161.27:8881/rtp/233.18.204.170:5140
 
 港澳頻道,#genre#
-翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
-TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 无线新闻台,http://120.234.44.98:18180/TV00000000000000000034@HHZT
 凤凰中文台,http://120.234.44.98:18180/TV00000000000000000008@HHZT
 凤凰资讯台,http://120.234.44.98:18180/TV00000000000000000009@HHZT
@@ -135,10 +128,6 @@ HOY78,http://120.234.44.98:18180/TV00000000000000000088@HHZT
 RTHK31,http://120.234.44.98:18180/TV00000000000000000019@HHZT
 RTHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT
 RTHK35,http://120.234.44.98:18180/TV00000000000000000045@HHZT
-AstroAOD,https://o11.163189.xyz/stream/live/aod/
-AstroAEC,https://o11.163189.xyz/stream/live/aec/
-Astro欢喜台,https://o11.163189.xyz/stream/live/hxt/
-
 
 廣東頻道,#genre#
 大湾区卫视,http://113.94.58.188:10086/rtp/239.77.0.215:5146
@@ -200,7 +189,6 @@ Astro欢喜台,https://o11.163189.xyz/stream/live/hxt/
 嘉佳卡通,http://113.94.58.188:10086/rtp/239.77.0.179:5146
 
 影視頻道,#genre#
-天映频道,https://o11.163189.xyz/stream/live/typd/
 CHC动作电影,http://pplee.vicp.net:4022/udp/233.18.204.174:5140
 CHC家庭影院,http://pplee.vicp.net:4022/udp/233.18.204.173:5140
 CHC影迷电影,http://pplee.vicp.net:4022/udp/233.18.204.175:5140
@@ -329,73 +317,3 @@ IPTV少儿动画,http://113.94.58.188:10086/rtp/239.77.0.109:5146
 北京IPTV淘娱乐,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.61:8002
 北京IPTV淘BABY,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
 北京IPTV萌宠TV,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
-
-英美頻道,#genre#
-BBC News,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-BBC News USA,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-SKY News,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
-BBC CBBC,http://41.180.140.146:4202/bysid/6972
-BBC CBBC,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
-BBC CBeebies,http://41.180.140.146:4220/bysid/10395
-BBC CBeebies,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
-BOOMERANG,http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
-CARTOON NETWORK,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
-COMEDY CENTRAL,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
-Discovery,http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
-Discovery Asia,http://[240e:f7:4f01:23:60::11]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226463/index.m3u8
-National Geographic,http://[240e:f7:4f01:23:60::11]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226466/index.m3u8
-Animal Planet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
-Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
-Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-BBC One London,https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
-BBC One Channel Islands,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
-BBC One East,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
-BBC One East Midlands,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd
-BBC One East Yorkshire,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
-BBC One North East,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
-BBC One North West,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
-BBC One Northern Ireland,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
-BBC One Northern Ireland,http://41.180.140.146:4202/bysid/6963
-BBC One Scotland,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
-BBC One South,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
-BBC One South East,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
-BBC One South West,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
-BBC One Wales,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
-BBC One West,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
-BBC One West Midlands,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
-BBC One Yorks,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_mse_v0_hevc.mpd
-BBC Two,http://41.180.140.146:4202/bysid/6940
-BBC Two,https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
-BBC Two Northern Ireland,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
-BBC Two Wales,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
-BBC 3,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
-BBC 4,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
-BBC RB1,https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
-BBC Alba,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
-BBC Parliament,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
-ITV 1,http://41.180.140.146:4203/bysid/20810
-ITV 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
-ITV 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
-ITV 4,http://41.180.140.146:4203/bysid/20825
-ITV Quiz,http://41.180.140.146:4203/bysid/20835
-QUEST,http://41.180.140.146:4212/bysid/2925
-Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
-CNN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
-CNN Europe,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-CNN UK,https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
-Bloomberg USA,https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
-AXN,http://[240e:f7:4f01:23:60::11]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226429/index.m3u8
-HBO Asia,http://[240e:f7:4f01:23:60::11]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226423/index.m3u8
-Star Movies,http://[240e:f7:4f01:23:60::11]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226469/index.m3u8
-Star Sports,http://[240e:f7:4f01:23:60::11]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226446/index.m3u8
-ROCK Action,http://116.241.240.176:5050/4gtv-live138/index.m3u8
-ROCK Xstream,https://cdn-2.ttvb.eu.org/4gtv/4gtv-live124/index.m3u8
-ROCK Entertainment,http://116.241.240.176:5050/4gtv-live080/index.m3u8
-HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-HBO2,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-HBO Comedy,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
-HBO Zone,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
-CINEMAX,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
-MOREMAX,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
-5STARMAX,http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
