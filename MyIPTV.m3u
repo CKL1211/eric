@@ -243,6 +243,10 @@ https://o11.163189.xyz/stream/live/hlt/
 https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳頻道",无线新闻台
 http://120.234.44.98:18180/TV00000000000000000034@HHZT
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.com/tv/NOW新闻.png" group-title="港澳頻道",NOW新闻
+http://o11.163189.xyz/stream/tvb/now/
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.com/tv/NOW新闻.png" group-title="港澳頻道",NOW新闻
+http://120.234.44.98:18180/TV00000000000000000036@HHZT
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="港澳頻道",凤凰中文台
 http://120.234.44.98:18180/TV00000000000000000008@HHZT
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="港澳頻道",凤凰资讯台
