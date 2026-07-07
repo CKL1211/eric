@@ -137,9 +137,6 @@ Now直播台,https://iptv.yang-1989.xyz/hk/t4jcpq?token=7bd2ee526a1cd1db12cbc9c7
 Now新聞台,https://iptv.yang-1989.xyz/hk/psegxb?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
 Now財經台,https://iptv.yang-1989.xyz/hk/35pzdq?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
 NowSports 精選,https://iptv.yang-1989.xyz/hk/bwzjmj?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
-HOYTV,https://iptv.yang-1989.xyz/hkg/g8zdmn?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
-HOY資訊台,https://iptv.yang-1989.xyz/hkg/7tff9c?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
-HOY國際財經台,https://iptv.yang-1989.xyz/hkg/dkkg4a?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
 
 廣東頻道,#genre#
 大湾区卫视,http://61.144.108.155:5146/rtp/239.77.0.215:5146
