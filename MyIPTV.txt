@@ -83,7 +83,7 @@ CGTN法语,http://61.144.108.155:5146/rtp/239.77.0.228:5146
 电视指南,http://61.144.108.155:5146/rtp/239.253.43.10:5146
 电视指南,http://61.144.108.155:5146/rtp/239.253.43.19:5146
 
-超高清頻道,#genre#
+超清頻道,#genre#
 CCTV4K,http://61.144.108.155:5146/rtp/239.77.0.194:5146
 CCTV4K,http://61.144.108.155:5146/rtp/239.77.1.180:5146
 CCTV16,http://116.237.161.27:8881/rtp/233.18.204.114:5140
@@ -114,13 +114,17 @@ BesTV4K动画,http://116.237.161.27:8881/rtp/233.18.204.171:5140
 BesTV4K电影,http://116.237.161.27:8881/rtp/233.18.204.169:5140
 BesTV4K记录,http://116.237.161.27:8881/rtp/233.18.204.170:5140
 
-港澳頻道,#genre#
+香港頻道,#genre#
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
 翡翠台,https://cdn.yang-1989.xyz/hk/wz9w8h?token=5b59eaffd9d944bb5f5063846866d2e0d0d826a26ff4a6ab
 明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
 TVB Plus,https://cdn.yang-1989.xyz/hk/65npu3?token=5b59eaffd9d944bb5f5063846866d2e0d0d826a26ff4a6ab
 无线新闻台,https://cdn.yang-1989.xyz/hk/cw8nj2?token=5b59eaffd9d944bb5f5063846866d2e0d0d826a26ff4a6ab
 无线新闻台,http://120.234.44.98:18180/TV00000000000000000034@HHZT
+Now新闻台,https://iptv.yang-1989.xyz/hk/psegxb?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
+Now直播台,https://iptv.yang-1989.xyz/hk/t4jcpq?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
+Now财经台,https://iptv.yang-1989.xyz/hk/35pzdq?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
+NowSports精选,https://iptv.yang-1989.xyz/hk/bwzjmj?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
 凤凰中文台,http://120.234.44.98:18180/TV00000000000000000008@HHZT
 凤凰资讯台,http://120.234.44.98:18180/TV00000000000000000009@HHZT
 凤凰香港台,http://120.234.44.98:18180/TV00000000000000000024@HHZT
@@ -133,10 +137,6 @@ HOY78,http://120.234.44.98:18180/TV00000000000000000088@HHZT
 RTHK31,http://120.234.44.98:18180/TV00000000000000000019@HHZT
 RTHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT
 RTHK35,http://120.234.44.98:18180/TV00000000000000000045@HHZT
-Now直播台,https://iptv.yang-1989.xyz/hk/t4jcpq?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
-Now新聞台,https://iptv.yang-1989.xyz/hk/psegxb?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
-Now財經台,https://iptv.yang-1989.xyz/hk/35pzdq?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
-NowSports 精選,https://iptv.yang-1989.xyz/hk/bwzjmj?token=7bd2ee526a1cd1db12cbc9c745194afcd3eed87f9648bc27
 
 廣東頻道,#genre#
 大湾区卫视,http://61.144.108.155:5146/rtp/239.77.0.215:5146
