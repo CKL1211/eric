@@ -29,8 +29,6 @@ http://113.81.20.77:8188/rtp/239.253.43.121:5146
 http://113.81.20.77:8188/rtp/239.77.0.170:5146
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央視頻道",CCTV5
 http://113.81.20.77:8188/rtp/239.77.1.8:5146
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央視頻道",CCTV5
-http://113.81.20.77:8188/rtp/239.77.0.34:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央視頻道",CCTV5+
 http://113.81.20.77:8188/rtp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央視頻道",CCTV5+
