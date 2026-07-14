@@ -3,14 +3,14 @@
 http://61.144.111.145:5146/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="超清頻道",CCTV4K
 http://61.144.111.145:5146/rtp/239.77.1.180:5146
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.北京卫视4Kpng" group-title="超清頻道",北京卫视4K
-http://61.144.111.145:5146/rtp/239.77.0.2:5146
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
-http://61.144.111.145:5146/rtp/239.77.0.3:5146
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超清頻道",CCTV16
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超清頻道",CCTV16
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.北京卫视4Kpng" group-title="超清頻道",北京卫视4K
+http://61.144.111.145:5146/rtp/239.77.0.2:5146
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
+http://61.144.111.145:5146/rtp/239.77.0.3:5146
 #EXTINF:-1 tvg-id="北京IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV.png" group-title="超清頻道",北京IPTV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
@@ -193,7 +193,7 @@ http://61.144.111.145:5146/rtp/239.253.43.9:5146
 http://61.144.111.145:5146/rtp/239.253.43.25:5146
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央視頻道",怀旧剧场
 http://61.144.111.145:5146/rtp/239.253.43.5:5146
-#EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="數字頻道",卫生健康
+#EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="央視頻道",卫生健康
 http://61.144.111.145:5146/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央視頻道",女性时尚
 http://61.144.111.145:5146/rtp/239.253.43.23:5146
