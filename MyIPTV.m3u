@@ -3,103 +3,103 @@
 http://61.144.111.145:5146/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="超清頻道",CCTV4K
 http://61.144.111.145:5146/rtp/239.77.1.180:5146
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.北京卫视4Kpng" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.2:5146
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.3:5146
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超清頻道",CCTV16
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超清頻道",CCTV16
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
-#EXTINF:-1 tvg-id="北京IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",北京IPTV
+#EXTINF:-1 tvg-id="北京IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV.png" group-title="超清頻道",北京IPTV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.1.13:5146
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",东方卫视4K
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视4K.png" group-title="超清頻道",东方卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.59:5146
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="超清頻道",广东卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.66:5146
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="超清頻道",广东卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.65:5146
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",湖南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视4K.png" group-title="超清頻道",湖南卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.56:5146
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",山东卫视4K
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视4K.png" group-title="超清頻道",山东卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.61:5146
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视4K.png" group-title="超清頻道",四川卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.60:5146
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",广东综艺4K
+#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
 http://61.144.111.145:5146/rtp/239.77.0.245:5146
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",广东综艺4K
+#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
 http://61.144.111.145:5146/rtp/239.77.0.244:5146
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",广东综艺4K
+#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
 http://61.144.111.145:5146/rtp/239.77.1.237:5146
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",深圳卫视4K
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="超清頻道",深圳卫视4K
 http://61.144.111.145:5146/rtp/239.77.1.14:5146
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",深圳卫视4K
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="超清頻道",深圳卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.67:5146
-#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",南国都市4K
+#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市4K.png" group-title="超清頻道",南国都市4K
 http://61.144.111.145:5146/rtp/239.253.43.99:5146
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视4K.png" group-title="超清頻道",江苏卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.57:5146
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视4K.png" group-title="超清頻道",浙江卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.58:5146
-#EXTINF:-1 tvg-id="多彩文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",多彩文体
+#EXTINF:-1 tvg-id="多彩文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/多彩文体.png" group-title="超清頻道",多彩文体
 http://116.237.161.27:8881/rtp/233.18.204.115:5140
-#EXTINF:-1 tvg-id="多彩文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",多彩文体
+#EXTINF:-1 tvg-id="多彩文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/多彩文体.png" group-title="超清頻道",多彩文体
 http://116.237.161.27:8881/rtp/233.18.204.205:5140
-#EXTINF:-1 tvg-id="BesTV4K动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",BesTV4K动画
+#EXTINF:-1 tvg-id="BesTV4K动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BesTV4K动画.png" group-title="超清頻道",BesTV4K动画
 http://116.237.161.27:8881/rtp/233.18.204.171:5140
-#EXTINF:-1 tvg-id="BesTV4K电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",BesTV4K电影
+#EXTINF:-1 tvg-id="BesTV4K电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BesTV4K电影.png" group-title="超清頻道",BesTV4K电影
 http://116.237.161.27:8881/rtp/233.18.204.169:5140
-#EXTINF:-1 tvg-id="BesTV4K记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",BesTV4K记录
+#EXTINF:-1 tvg-id="BesTV4K记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BesTV4K记录.png" group-title="超清頻道",BesTV4K记录
 http://116.237.161.27:8881/rtp/233.18.204.170:5140
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.0.86:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.1.17:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.0.119:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.0.129:5146
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央視頻道",CCTV2
 http://61.144.111.145:5146/rtp/239.77.0.137:5146
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央視頻道",CCTV2
 http://61.144.111.145:5146/rtp/239.77.1.158:5146
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央視頻道",CCTV3
 http://61.144.111.145:5146/rtp/239.77.0.169:5146
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央視頻道",CCTV3
 http://61.144.111.145:5146/rtp/239.77.1.7:5146
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央視頻道",CCTV4
 http://61.144.111.145:5146/rtp/239.77.0.78:5146
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央視頻道",CCTV4
 http://61.144.111.145:5146/rtp/239.77.1.166:5146
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV4欧洲
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央視頻道",CCTV4欧洲
 http://61.144.111.145:5146/rtp/239.77.1.163:5146
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV4欧洲
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央視頻道",CCTV4欧洲
 http://61.144.111.145:5146/rtp/239.253.43.120:5146
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV4美洲
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="央視頻道",CCTV4美洲
 http://61.144.111.145:5146/rtp/239.253.43.121:5146
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央視頻道",CCTV5
 http://61.144.111.145:5146/rtp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央視頻道",CCTV5+
 http://61.144.111.145:5146/rtp/239.77.0.87:5146
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央視頻道",CCTV5+
 http://61.144.111.145:5146/rtp/239.77.1.31:5146
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央視頻道",CCTV6
 http://61.144.111.145:5146/rtp/239.77.0.171:5146
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央視頻道",CCTV6
 http://61.144.111.145:5146/rtp/239.77.1.9:5146
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央視頻道",CCTV7
 http://61.144.111.145:5146/rtp/239.77.0.138:5146
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央視頻道",CCTV7
 http://61.144.111.145:5146/rtp/239.77.1.159:5146
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央視頻道",CCTV8
 http://61.144.111.145:5146/rtp/239.77.0.172:5146
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央視頻道",CCTV8
 http://61.144.111.145:5146/rtp/239.77.1.10:5146
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央視頻道",CCTV9
 http://61.144.111.145:5146/rtp/239.77.0.135:5146
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央視頻道",CCTV9
 http://61.144.111.145:5146/rtp/239.77.1.160:5146
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央視頻道",CCTV10
 http://61.144.111.145:5146/rtp/239.77.0.134:5146
