@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.cdn.loc.cc/xml" tvg-shift="0"
+#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",CCTV4K
 http://61.144.111.145:5146/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="超清頻道",CCTV4K
