@@ -193,6 +193,8 @@ http://61.144.111.145:5146/rtp/239.253.43.9:5146
 http://61.144.111.145:5146/rtp/239.253.43.25:5146
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央視頻道",怀旧剧场
 http://61.144.111.145:5146/rtp/239.253.43.5:5146
+#EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="數字頻道",卫生健康
+http://61.144.111.145:5146/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央視頻道",女性时尚
 http://61.144.111.145:5146/rtp/239.253.43.23:5146
 #EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央視頻道",女性时尚
@@ -607,8 +609,6 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天元围棋.png" group-title="數字頻道",天元围棋
 http://61.144.111.145:5146/rtp/239.253.43.98:5146
-#EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="數字頻道",卫生健康
-http://61.144.111.145:5146/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="數字頻道",金鹰纪实
 http://61.144.111.145:5146/rtp/239.77.0.160:5146
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="數字頻道",金鹰纪实
