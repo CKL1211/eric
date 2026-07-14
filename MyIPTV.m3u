@@ -389,25 +389,25 @@ http://61.144.111.145:5146/rtp/239.77.1.35:5146
 http://61.144.111.145:5146/rtp/239.77.0.222:5146
 #EXTINF:-1 tvg-id="优漫卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通SD.png" group-title="衛視頻道",优漫卡通SD
 http://61.144.111.145:5146/rtp/239.77.1.79:5146
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠台.png" group-title="香港頻道",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://material.yang-1989.xyz/logo/翡翠台.png" group-title="香港頻道",翡翠台
 http://120.234.44.98:18180/TV00000000000000000032@HHZT
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠台.png" group-title="香港頻道",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://material.yang-1989.xyz/logo/明珠台.png" group-title="香港頻道",明珠台
 http://120.234.44.98:18180/TV00000000000000000035@HHZT
-#EXTINF:-1 tvg-id="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻台.png" group-title="香港頻道",无线新闻台
+#EXTINF:-1 tvg-id="无线新闻台" tvg-logo="https://material.yang-1989.xyz/logo/無綫新聞台.png" group-title="香港頻道",无线新闻台
 http://120.234.44.98:18180/TV00000000000000000034@HHZT
-#EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文台.png" group-title="香港頻道",凤凰中文台
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://material.yang-1989.xyz/logo/凤凰中文.png" group-title="香港頻道",凤凰中文台
 http://120.234.44.98:18180/TV00000000000000000008@HHZT
-#EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯台.png" group-title="香港頻道",凤凰资讯台
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://material.yang-1989.xyz/logo/凤凰资讯.png" group-title="香港頻道",凤凰资讯台
 http://120.234.44.98:18180/TV00000000000000000009@HHZT
-#EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港台.png" group-title="香港頻道",凤凰香港台
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://material.yang-1989.xyz/logo/凤凰香港.png" group-title="香港頻道",凤凰香港台
 http://120.234.44.98:18180/TV00000000000000000024@HHZT
-#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ViuTV.png" group-title="香港頻道",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://material.yang-1989.xyz/logo/ViuTV.png" group-title="香港頻道",ViuTV
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://live.fanmingming.com/tv/ViuTVsix.png" group-title="香港頻道",ViuTVsix
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://material.yang-1989.xyz/logo/ViuTVsix.png" group-title="香港頻道",ViuTVsix
 http://120.234.44.98:18180/TV00000000000000000084@HHZT
-#EXTINF:-1 tvg-id="HOY77" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOY77.png" group-title="香港頻道",HOY77
+#EXTINF:-1 tvg-id="HOY77" tvg-logo="https://material.yang-1989.xyz/logo/HOY77.png" group-title="香港頻道",HOY77
 http://120.234.44.98:18180/TV00000000000000000036@HHZT
-#EXTINF:-1 tvg-id="HOY78" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOY78.png" group-title="香港頻道",HOY78
+#EXTINF:-1 tvg-id="HOY78" tvg-logo="https://material.yang-1989.xyz/logo/HOY78.png" group-title="香港頻道",HOY78
 http://120.234.44.98:18180/TV00000000000000000088@HHZT
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="香港頻道",RTHK31
 http://120.234.44.98:18180/TV00000000000000000019@HHZT
