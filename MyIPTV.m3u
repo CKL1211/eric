@@ -7,12 +7,12 @@ http://61.144.111.145:5146/rtp/239.77.1.180:5146
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超清頻道",CCTV16
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
+#EXTINF:-1 tvg-id="北京IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV.png" group-title="超清頻道",北京IPTV
+http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.北京卫视4Kpng" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.3:5146
-#EXTINF:-1 tvg-id="北京IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV.png" group-title="超清頻道",北京IPTV
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.1.13:5146
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视4K.png" group-title="超清頻道",东方卫视4K
@@ -21,24 +21,24 @@ http://61.144.111.145:5146/rtp/239.77.0.59:5146
 http://61.144.111.145:5146/rtp/239.77.0.66:5146
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="超清頻道",广东卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.65:5146
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视4K.png" group-title="超清頻道",湖南卫视4K
-http://61.144.111.145:5146/rtp/239.77.0.56:5146
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视4K.png" group-title="超清頻道",山东卫视4K
-http://61.144.111.145:5146/rtp/239.77.0.61:5146
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视4K.png" group-title="超清頻道",四川卫视4K
-http://61.144.111.145:5146/rtp/239.77.0.60:5146
 #EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
 http://61.144.111.145:5146/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
 http://61.144.111.145:5146/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
 http://61.144.111.145:5146/rtp/239.77.1.237:5146
+#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市4K.png" group-title="超清頻道",南国都市4K
+http://61.144.111.145:5146/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视4K.png" group-title="超清頻道",湖南卫视4K
+http://61.144.111.145:5146/rtp/239.77.0.56:5146
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视4K.png" group-title="超清頻道",山东卫视4K
+http://61.144.111.145:5146/rtp/239.77.0.61:5146
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视4K.png" group-title="超清頻道",四川卫视4K
+http://61.144.111.145:5146/rtp/239.77.0.60:5146
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="超清頻道",深圳卫视4K
 http://61.144.111.145:5146/rtp/239.77.1.14:5146
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="超清頻道",深圳卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.67:5146
-#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市4K.png" group-title="超清頻道",南国都市4K
-http://61.144.111.145:5146/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视4K.png" group-title="超清頻道",江苏卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.57:5146
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视4K.png" group-title="超清頻道",浙江卫视4K
