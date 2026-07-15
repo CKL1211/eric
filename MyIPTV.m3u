@@ -613,25 +613,25 @@ http://61.144.111.145:5146/rtp/239.253.43.98:5146
 http://61.144.111.145:5146/rtp/239.77.0.160:5146
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="數字頻道",金鹰纪实
 http://61.144.111.145:5146/rtp/239.77.1.217:5146
-#EXTINF:-1 tvg-id="中学生SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中学生SD.png" group-title="數字頻道",中学生SD
+#EXTINF:-1 tvg-id="中学生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中学生.png" group-title="數字頻道",中学生
 http://61.144.111.145:5146/rtp/239.77.1.195:5146
-#EXTINF:-1 tvg-id="书法频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书法频道SD.png" group-title="數字頻道",书法频道SD
+#EXTINF:-1 tvg-id="书法频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书法频道.png" group-title="數字頻道",书法频道
 http://61.144.111.145:5146/rtp/239.77.1.115:5146
-#EXTINF:-1 tvg-id="发现之旅SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅SD.png" group-title="數字頻道",发现之旅SD
+#EXTINF:-1 tvg-id="发现之旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅.png" group-title="數字頻道",发现之旅
 http://61.144.111.145:5146/rtp/239.253.43.127:5146
-#EXTINF:-1 tvg-id="发现之旅SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅SD.png" group-title="數字頻道",发现之旅SD
+#EXTINF:-1 tvg-id="发现之旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅.png" group-title="數字頻道",发现之旅
 http://61.144.111.145:5146/rtp/239.77.1.112:5146
-#EXTINF:-1 tvg-id="环球奇观SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观SD.png" group-title="數字頻道",环球奇观SD
+#EXTINF:-1 tvg-id="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观.png" group-title="數字頻道",环球奇观
 http://61.144.111.145:5146/rtp/239.77.1.198:5146
-#EXTINF:-1 tvg-id="环球奇观SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观SD.png" group-title="數字頻道",环球奇观SD
+#EXTINF:-1 tvg-id="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观.png" group-title="數字頻道",环球奇观
 http://61.144.111.145:5146/rtp/239.253.43.126:5146
-#EXTINF:-1 tvg-id="国学频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学频道SD.png" group-title="數字頻道",国学频道SD
+#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学频道.png" group-title="數字頻道",国学频道
 http://61.144.111.145:5146/rtp/239.77.0.226:5146
-#EXTINF:-1 tvg-id="国学频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学频道SD.png" group-title="數字頻道",国学频道SD
+#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学频道.png" group-title="數字頻道",国学频道
 http://61.144.111.145:5146/rtp/239.77.1.105:5146
-#EXTINF:-1 tvg-id="老故事SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/老故事SD.png" group-title="數字頻道",老故事SD
+#EXTINF:-1 tvg-id="老故事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/老故事.png" group-title="數字頻道",老故事
 http://61.144.111.145:5146/rtp/239.77.0.220:5146
-#EXTINF:-1 tvg-id="老故事SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/老故事SD.png" group-title="數字頻道",老故事SD
+#EXTINF:-1 tvg-id="老故事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/老故事.png" group-title="數字頻道",老故事
 http://61.144.111.145:5146/rtp/239.77.1.197:5146
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/快乐垂钓.png" group-title="數字頻道",快乐垂钓
 http://61.144.111.145:5146/rtp/239.77.0.145:5146
