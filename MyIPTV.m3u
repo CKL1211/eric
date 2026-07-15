@@ -559,9 +559,9 @@ http://116.4.96.60:4080/rtp/239.77.0.207:5146
 http://116.4.96.60:4080/rtp/239.77.0.117:5146
 #EXTINF:-1 tvg-id="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东移动.png" group-title="廣東頻道",广东移动
 http://116.4.96.60:4080/rtp/239.77.0.20:5146
-#EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映马来西亚.png" group-title="影視頻道",天映马来西亚
+#EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天映频道.png" group-title="影視頻道",天映马来西亚
 https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映新加坡.png" group-title="影視頻道",天映新加坡
+#EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新加坡天映频道.png" group-title="影視頻道",天映新加坡
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影視頻道",CHC动作电影
 http://pplee.vicp.net:4022/udp/233.18.204.174:5140
@@ -569,7 +569,7 @@ http://pplee.vicp.net:4022/udp/233.18.204.174:5140
 http://pplee.vicp.net:4022/udp/233.18.204.173:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="影視頻道",CHC影迷电影
 http://pplee.vicp.net:4022/udp/233.18.204.175:5140
-#EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://material.yang-1989.xyz/logo/愛奇藝.png" group-title="影視頻道",爱奇艺
+#EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/爱奇艺.png" group-title="影視頻道",爱奇艺
 https://cdn.qd.je/163189/iqiyi
 #EXTINF:-1 tvg-id="IPTV热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV热播剧场.png" group-title="影視頻道",IPTV热播剧场
 http://116.4.96.60:4080/rtp/239.77.1.90:5146
