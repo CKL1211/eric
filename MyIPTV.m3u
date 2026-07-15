@@ -565,8 +565,6 @@ http://116.4.96.60:4080/rtp/239.77.0.110:5146
 http://116.4.96.60:4080/rtp/239.77.1.138:5146
 #EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱电影.png" group-title="影視頻道",华数爱电影
 http://116.4.96.60:4080/rtp/239.77.0.103:5146
-#EXTINF:-1 tvg-id="华数电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数电视剧.png" group-title="影視頻道",华数电视剧
-http://116.4.96.60:4080/rtp/239.77.1.82:5146
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="體育頻道",睛彩竞技
 http://116.4.96.60:4080/rtp/239.77.1.20:5146
 #EXTINF:-1 tvg-id="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="體育頻道",睛彩青少
