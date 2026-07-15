@@ -53,25 +53,25 @@ http://116.237.161.27:8881/rtp/233.18.204.171:5140
 http://116.237.161.27:8881/rtp/233.18.204.169:5140
 #EXTINF:-1 tvg-id="BesTV4K记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BesTV4K记录.png" group-title="超清頻道",BesTV4K记录
 http://116.237.161.27:8881/rtp/233.18.204.170:5140
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://material.yang-1989.xyz/logo/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.0.86:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://material.yang-1989.xyz/logo/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.1.17:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://material.yang-1989.xyz/logo/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.0.119:5146
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視頻道",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://material.yang-1989.xyz/logo/CCTV1.png" group-title="央視頻道",CCTV1
 http://61.144.111.145:5146/rtp/239.77.0.129:5146
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央視頻道",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://material.yang-1989.xyz/logo/CCTV2.png" group-title="央視頻道",CCTV2
 http://61.144.111.145:5146/rtp/239.77.0.137:5146
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央視頻道",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://material.yang-1989.xyz/logo/CCTV2.png" group-title="央視頻道",CCTV2
 http://61.144.111.145:5146/rtp/239.77.1.158:5146
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央視頻道",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://material.yang-1989.xyz/logo/CCTV3.png" group-title="央視頻道",CCTV3
 http://61.144.111.145:5146/rtp/239.77.0.169:5146
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央視頻道",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://material.yang-1989.xyz/logo/CCTV3.png" group-title="央視頻道",CCTV3
 http://61.144.111.145:5146/rtp/239.77.1.7:5146
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央視頻道",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://material.yang-1989.xyz/logo/CCTV4.png" group-title="央視頻道",CCTV4
 http://61.144.111.145:5146/rtp/239.77.0.78:5146
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央視頻道",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://material.yang-1989.xyz/logo/CCTV4.png" group-title="央視頻道",CCTV4
 http://61.144.111.145:5146/rtp/239.77.1.166:5146
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png" group-title="央視頻道",CCTV4欧洲
 http://61.144.111.145:5146/rtp/239.77.1.163:5146
@@ -79,57 +79,57 @@ http://61.144.111.145:5146/rtp/239.77.1.163:5146
 http://61.144.111.145:5146/rtp/239.253.43.120:5146
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png" group-title="央視頻道",CCTV4美洲
 http://61.144.111.145:5146/rtp/239.253.43.121:5146
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央視頻道",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://material.yang-1989.xyz/logo/CCTV5.png" group-title="央視頻道",CCTV5
 http://61.144.111.145:5146/rtp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央視頻道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://material.yang-1989.xyz/logo/CCTV5+.png" group-title="央視頻道",CCTV5+
 http://61.144.111.145:5146/rtp/239.77.0.87:5146
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央視頻道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://material.yang-1989.xyz/logo/CCTV5+.png" group-title="央視頻道",CCTV5+
 http://61.144.111.145:5146/rtp/239.77.1.31:5146
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央視頻道",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://material.yang-1989.xyz/logo/CCTV6.png" group-title="央視頻道",CCTV6
 http://61.144.111.145:5146/rtp/239.77.0.171:5146
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央視頻道",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://material.yang-1989.xyz/logo/CCTV6.png" group-title="央視頻道",CCTV6
 http://61.144.111.145:5146/rtp/239.77.1.9:5146
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央視頻道",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://material.yang-1989.xyz/logo/CCTV7.png" group-title="央視頻道",CCTV7
 http://61.144.111.145:5146/rtp/239.77.0.138:5146
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央視頻道",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://material.yang-1989.xyz/logo/CCTV7.png" group-title="央視頻道",CCTV7
 http://61.144.111.145:5146/rtp/239.77.1.159:5146
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央視頻道",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://material.yang-1989.xyz/logo/CCTV8.png" group-title="央視頻道",CCTV8
 http://61.144.111.145:5146/rtp/239.77.0.172:5146
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央視頻道",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://material.yang-1989.xyz/logo/CCTV8.png" group-title="央視頻道",CCTV8
 http://61.144.111.145:5146/rtp/239.77.1.10:5146
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央視頻道",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://material.yang-1989.xyz/logo/CCTV9.png" group-title="央視頻道",CCTV9
 http://61.144.111.145:5146/rtp/239.77.0.135:5146
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央視頻道",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://material.yang-1989.xyz/logo/CCTV9.png" group-title="央視頻道",CCTV9
 http://61.144.111.145:5146/rtp/239.77.1.160:5146
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央視頻道",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://material.yang-1989.xyz/logo/CCTV10.png" group-title="央視頻道",CCTV10
 http://61.144.111.145:5146/rtp/239.77.0.134:5146
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央視頻道",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://material.yang-1989.xyz/logo/CCTV10.png" group-title="央視頻道",CCTV10
 http://61.144.111.145:5146/rtp/239.77.1.113:5146
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央視頻道",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://material.yang-1989.xyz/logo/CCTV11.png" group-title="央視頻道",CCTV11
 http://61.144.111.145:5146/rtp/239.77.1.238:5146
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央視頻道",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://material.yang-1989.xyz/logo/CCTV11.png" group-title="央視頻道",CCTV11
 http://61.144.111.145:5146/rtp/239.77.1.108:5146
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央視頻道",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://material.yang-1989.xyz/logo/CCTV12.png" group-title="央視頻道",CCTV12
 http://61.144.111.145:5146/rtp/239.77.0.136:5146
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央視頻道",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://material.yang-1989.xyz/logo/CCTV12.png" group-title="央視頻道",CCTV12
 http://61.144.111.145:5146/rtp/239.77.1.109:5146
-#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央視頻道",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://material.yang-1989.xyz/logo/CCTV13.png" group-title="央視頻道",CCTV13
 http://61.144.111.145:5146/rtp/239.77.0.188:5146
-#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央視頻道",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://material.yang-1989.xyz/logo/CCTV13.png" group-title="央視頻道",CCTV13
 http://61.144.111.145:5146/rtp/239.253.43.196:5146
-#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央視頻道",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://material.yang-1989.xyz/logo/CCTV14.png" group-title="央視頻道",CCTV14
 http://61.144.111.145:5146/rtp/239.77.0.133:5146
-#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央視頻道",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://material.yang-1989.xyz/logo/CCTV14.png" group-title="央視頻道",CCTV14
 http://61.144.111.145:5146/rtp/239.77.1.161:5146
-#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央視頻道",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://material.yang-1989.xyz/logo/CCTV15.png" group-title="央視頻道",CCTV15
 http://61.144.111.145:5146/rtp/239.77.1.120:5146
-#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央視頻道",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://material.yang-1989.xyz/logo/CCTV15.png" group-title="央視頻道",CCTV15
 http://61.144.111.145:5146/rtp/239.77.1.239:5146
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央視頻道",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://material.yang-1989.xyz/logo/CCTV16.png" group-title="央視頻道",CCTV16
 http://61.144.111.145:5146/rtp/239.77.0.165:5146
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央視頻道",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://material.yang-1989.xyz/logo/CCTV17.png" group-title="央視頻道",CCTV17
 http://61.144.111.145:5146/rtp/239.77.0.198:5146
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央視頻道",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://material.yang-1989.xyz/logo/CCTV17.png" group-title="央視頻道",CCTV17
 http://61.144.111.145:5146/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="央視頻道",CETV1
 http://61.144.111.145:5146/rtp/239.77.0.200:5146
