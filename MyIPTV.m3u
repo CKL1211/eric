@@ -639,7 +639,7 @@ http://116.4.96.60:4080/rtp/239.77.0.160:5146
 http://116.4.96.60:4080/rtp/239.77.1.217:5146
 #EXTINF:-1 tvg-id="中学生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中学生.png" group-title="數字頻道",中学生
 http://116.4.96.60:4080/rtp/239.77.1.195:5146
-#EXTINF:-1 tvg-id="书法频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书法.png" group-title="數字頻道",书法频道
+#EXTINF:-1 tvg-id="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="數字頻道",书画频道
 http://116.4.96.60:4080/rtp/239.77.1.115:5146
 #EXTINF:-1 tvg-id="发现之旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅.png" group-title="數字頻道",发现之旅
 http://116.4.96.60:4080/rtp/239.253.43.127:5146
