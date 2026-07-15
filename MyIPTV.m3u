@@ -449,7 +449,7 @@ https://cdn.qd.je/163189/hoy78
 https://cdn.qd.je/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="香港頻道",RTHK32
 https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 tvg-id="Astro-AOD" tvg-name="AOD" tvg-logo="https://material.yang-1989.xyz/logo/AstroAOD.png" group-title="港香港頻道",Astro AOD
+#EXTINF:-1 tvg-id="Astro-AOD" tvg-name="AOD" tvg-logo="https://material.yang-1989.xyz/logo/AstroAOD.png" group-title="香港頻道",Astro AOD
 https://cdn.qd.je/163189/aod
 #EXTINF:-1 tvg-id="Astro-AEC" tvg-name="AEC" tvg-logo="https://material.yang-1989.xyz/logo/AstroAEC.png" group-title="香港頻道",Astro AEC
 https://cdn.qd.je/163189/aec
