@@ -9,7 +9,7 @@ http://116.237.161.27:8881/rtp/233.18.204.114:5140
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="北京IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV.png" group-title="超清頻道",北京IPTV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4Kpng" group-title="超清頻道",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.3:5146
@@ -125,7 +125,7 @@ http://61.144.111.145:5146/rtp/239.77.1.161:5146
 http://61.144.111.145:5146/rtp/239.77.1.120:5146
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央視頻道",CCTV15
 http://61.144.111.145:5146/rtp/239.77.1.239:5146
-#EXTINF:-1 tvg-id="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16 4K.png" group-title="央視頻道",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央視頻道",CCTV16
 http://61.144.111.145:5146/rtp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央視頻道",CCTV17
 http://61.144.111.145:5146/rtp/239.77.0.198:5146
@@ -135,9 +135,9 @@ http://61.144.111.145:5146/rtp/239.77.1.121:5146
 http://61.144.111.145:5146/rtp/239.77.0.200:5146
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="央視頻道",CETV1
 http://61.144.111.145:5146/rtp/239.77.1.222:5146
-#EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2SD.png" group-title="央視頻道",CETV2SD
+#EXTINF:-1 tvg-id="CETV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png" group-title="央視頻道",CETV2
 http://61.144.111.145:5146/rtp/239.77.0.28:5146
-#EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2SD.png" group-title="央視頻道",CETV2SD
+#EXTINF:-1 tvg-id="CETV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png" group-title="央視頻道",CETV2
 http://61.144.111.145:5146/rtp/239.77.1.69:5146
 #EXTINF:-1 tvg-id="CETV早期教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV早期教育.png" group-title="央視頻道",CETV早期教育
 http://61.144.111.145:5146/rtp/239.77.0.180:5146
@@ -323,7 +323,7 @@ http://61.144.111.145:5146/rtp/239.77.1.104:5146
 http://61.144.111.145:5146/rtp/239.77.0.150:5146
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="衛視頻道",吉林卫视
 http://61.144.111.145:5146/rtp/239.77.1.111:5146
-#EXTINF:-1 tvg-id="厦门卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视SD.png" group-title="衛視頻道",厦门卫视SD
+#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="衛視頻道",厦门卫视
 http://61.144.111.145:5146/rtp/239.77.0.96:5146
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="衛視頻道",辽宁卫视
 http://61.144.111.145:5146/rtp/239.77.1.103:5146
@@ -371,25 +371,25 @@ http://61.144.111.145:5146/rtp/239.77.0.48:5146
 http://61.144.111.145:5146/rtp/239.253.43.113:5146
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="衛視頻道",金鹰卡通
 http://61.144.111.145:5146/rtp/239.77.0.164:5146
-#EXTINF:-1 tvg-id="延边卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/延边卫视SD.png" group-title="衛視頻道",延边卫视SD
+#EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/延边卫视.png" group-title="衛視頻道",延边卫视
 http://61.144.111.145:5146/rtp/239.77.0.10:5146
-#EXTINF:-1 tvg-id="延边卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/延边卫视SD.png" group-title="衛視頻道",延边卫视SD
+#EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/延边卫视.png" group-title="衛視頻道",延边卫视
 http://61.144.111.145:5146/rtp/239.77.1.99:5146
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="衛視頻道",嘉佳卡通
 http://61.144.111.145:5146/rtp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿SD.png" group-title="衛視頻道",卡酷少儿SD
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="衛視頻道",卡酷少儿
 http://61.144.111.145:5146/rtp/239.77.0.79:5146
-#EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿SD.png" group-title="衛視頻道",卡酷少儿SD
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="衛視頻道",卡酷少儿
 http://61.144.111.145:5146/rtp/239.77.1.50:5146
-#EXTINF:-1 tvg-id="重庆汽摩SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩SD.png" group-title="衛視頻道",重庆汽摩SD
+#EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="衛視頻道",重庆汽摩
 http://61.144.111.145:5146/rtp/239.77.0.209:5146
-#EXTINF:-1 tvg-id="重庆汽摩SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩SD.png" group-title="衛視頻道",重庆汽摩SD
+#EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="衛視頻道",重庆汽摩
 http://61.144.111.145:5146/rtp/239.77.1.205:5146
-#EXTINF:-1 tvg-id="山东教育卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视SD.png" group-title="衛視頻道",山东教育卫视SD
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png" group-title="衛視頻道",山东教育卫视
 http://61.144.111.145:5146/rtp/239.77.1.35:5146
-#EXTINF:-1 tvg-id="优漫卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通SD.png" group-title="衛視頻道",优漫卡通SD
+#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="衛視頻道",优漫卡通
 http://61.144.111.145:5146/rtp/239.77.0.222:5146
-#EXTINF:-1 tvg-id="优漫卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通SD.png" group-title="衛視頻道",优漫卡通SD
+#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="衛視頻道",优漫卡通
 http://61.144.111.145:5146/rtp/239.77.1.79:5146
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://material.yang-1989.xyz/logo/翡翠台.png" group-title="香港頻道",翡翠台
 http://120.234.44.98:18180/TV00000000000000000032@HHZT
