@@ -47,11 +47,11 @@ http://116.4.96.60:4080/rtp/239.77.0.58:5146
 http://116.237.161.27:8881/rtp/233.18.204.115:5140
 #EXTINF:-1 tvg-id="多彩文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场4K.png" group-title="超清頻道",多彩文体
 http://116.237.161.27:8881/rtp/233.18.204.205:5140
-#EXTINF:-1 tvg-id="BesTV4K动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/百视通4K动画.png" group-title="超清頻道",BesTV4K动画
+#EXTINF:-1 tvg-id="BesTV4K动画" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/BesTV4K.png" group-title="超清頻道",BesTV4K动画
 http://116.237.161.27:8881/rtp/233.18.204.171:5140
-#EXTINF:-1 tvg-id="BesTV4K电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/百视通4K电影.png" group-title="超清頻道",BesTV4K电影
+#EXTINF:-1 tvg-id="BesTV4K电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/BesTV4K.png" group-title="超清頻道",BesTV4K电影
 http://116.237.161.27:8881/rtp/233.18.204.169:5140
-#EXTINF:-1 tvg-id="BesTV4K记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/百视通4K记录.png" group-title="超清頻道",BesTV4K记录
+#EXTINF:-1 tvg-id="BesTV4K记录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/BesTV4K.png" group-title="超清頻道",BesTV4K记录
 http://116.237.161.27:8881/rtp/233.18.204.170:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://material.yang-1989.xyz/logo/CCTV1.png" group-title="央視頻道",CCTV1
 http://116.4.96.60:4080/rtp/239.77.0.86:5146
@@ -483,7 +483,7 @@ http://116.4.96.60:4080/rtp/239.77.0.122:5146
 http://116.4.96.60:4080/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="廣東頻道",广州新闻
 http://116.4.96.60:4080/rtp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳都市.png" group-title="廣東頻道",深圳都市频道
+#EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳都市.png" group-title="廣東頻道",深圳都市频道
 http://116.4.96.60:4080/rtp/239.77.1.124:5146
 #EXTINF:-1 tvg-id="深圳少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳少儿.png" group-title="廣東頻道",深圳少儿
 http://116.4.96.60:4080/rtp/239.77.1.244:5146
