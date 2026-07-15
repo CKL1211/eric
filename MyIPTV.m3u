@@ -7,7 +7,7 @@ http://116.4.96.60:4080/rtp/239.77.1.180:5146
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超清頻道",CCTV16
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
-#EXTINF:-1 tvg-id="北京IPTV+4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV+4K.png" group-title="超清頻道",北京IPTV+4K
+#EXTINF:-1 tvg-id="北京4K超清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京4K超清.png" group-title="超清頻道",北京4K超清
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://116.4.96.60:4080/rtp/239.77.0.2:5146
@@ -21,13 +21,13 @@ http://116.4.96.60:4080/rtp/239.77.0.59:5146
 http://116.4.96.60:4080/rtp/239.77.0.66:5146
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="超清頻道",广东卫视4K
 http://116.4.96.60:4080/rtp/239.77.0.65:5146
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K超高清.png" group-title="超清頻道",广东4K超高清
 http://116.4.96.60:4080/rtp/239.77.0.245:5146
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K超高清.png" group-title="超清頻道",广东4K超高清
 http://116.4.96.60:4080/rtp/239.77.0.244:5146
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东综艺4K.png" group-title="超清頻道",广东综艺4K
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K超高清.png" group-title="超清頻道",广东4K超高清
 http://116.4.96.60:4080/rtp/239.77.1.237:5146
-#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市4K.png" group-title="超清頻道",南国都市4K
+#EXTINF:-1 tvg-id="广州南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="超清頻道",广州南国都市4K
 http://116.4.96.60:4080/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视4K.png" group-title="超清頻道",湖南卫视4K
 http://116.4.96.60:4080/rtp/239.77.0.56:5146
@@ -619,15 +619,15 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.105:8002
 http://home.airengine.net:9003/udp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="北京頻道",北京卡酷少儿
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.35:8000
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV淘电影.png" group-title="北京頻道",北京IPTV淘电影
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘电影.png" group-title="北京頻道",北京IPTV淘电影
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.38:8002
-#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV淘剧场.png" group-title="北京頻道",北京IPTV淘剧场
+#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京I淘剧场.png" group-title="北京頻道",北京IPTV淘剧场
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.37:8002
-#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV淘娱乐.png" group-title="北京頻道",北京IPTV淘娱乐
+#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘娱乐.png" group-title="北京頻道",北京IPTV淘娱乐
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.61:8002
-#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV淘BABY.png" group-title="北京頻道",北京IPTV淘BABY
+#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘BABY.png" group-title="北京頻道",北京IPTV淘BABY
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
-#EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV萌宠TV.png" group-title="北京頻道",北京IPTV萌宠TV
+#EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="北京頻道",北京IPTV萌宠TV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
 #EXTINF:-1 tvg-id="求索记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/求索记录.png" group-title="數字頻道",求索记录
 http://116.4.96.60:4080/rtp/239.77.0.21:5146
