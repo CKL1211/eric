@@ -549,7 +549,7 @@ http://61.144.111.145:5146/rtp/239.77.1.138:5146
 http://61.144.111.145:5146/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-id="华数电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数电视剧.png" group-title="影視頻道",华数电视剧
 http://61.144.111.145:5146/rtp/239.77.1.82:5146
-#EXTINF:-1 tvg-id="华数谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数谍战剧场.png" group-title="影視頻道",华数谍战剧场
+#EXTINF:-1 tvg-id="华数谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV谍战剧场.png" group-title="影視頻道",华数谍战剧场
 http://61.144.111.145:5146/rtp/239.77.1.83:5146
 #EXTINF:-1 tvg-id="求索记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/求索记录.png" group-title="影視頻道",求索记录
 http://61.144.111.145:5146/rtp/239.77.0.21:5146
@@ -615,7 +615,7 @@ http://61.144.111.145:5146/rtp/239.77.0.160:5146
 http://61.144.111.145:5146/rtp/239.77.1.217:5146
 #EXTINF:-1 tvg-id="中学生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中学生.png" group-title="數字頻道",中学生
 http://61.144.111.145:5146/rtp/239.77.1.195:5146
-#EXTINF:-1 tvg-id="书法频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书法频道.png" group-title="數字頻道",书法频道
+#EXTINF:-1 tvg-id="书法频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书法.png" group-title="數字頻道",书法频道
 http://61.144.111.145:5146/rtp/239.77.1.115:5146
 #EXTINF:-1 tvg-id="发现之旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅.png" group-title="數字頻道",发现之旅
 http://61.144.111.145:5146/rtp/239.253.43.127:5146
@@ -625,9 +625,9 @@ http://61.144.111.145:5146/rtp/239.77.1.112:5146
 http://61.144.111.145:5146/rtp/239.77.1.198:5146
 #EXTINF:-1 tvg-id="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观.png" group-title="數字頻道",环球奇观
 http://61.144.111.145:5146/rtp/239.253.43.126:5146
-#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学频道.png" group-title="數字頻道",国学频道
+#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="數字頻道",国学频道
 http://61.144.111.145:5146/rtp/239.77.0.226:5146
-#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学频道.png" group-title="數字頻道",国学频道
+#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="數字頻道",国学频道
 http://61.144.111.145:5146/rtp/239.77.1.105:5146
 #EXTINF:-1 tvg-id="老故事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/老故事.png" group-title="數字頻道",老故事
 http://61.144.111.145:5146/rtp/239.77.0.220:5146
