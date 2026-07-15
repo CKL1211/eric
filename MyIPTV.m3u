@@ -7,7 +7,7 @@ http://61.144.111.145:5146/rtp/239.77.1.180:5146
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="超清頻道",CCTV16
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
-#EXTINF:-1 tvg-id="北京IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV.png" group-title="超清頻道",北京IPTV
+#EXTINF:-1 tvg-id="北京IPTV+4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV+4K.png" group-title="超清頻道",北京IPTV+4K
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="超清頻道",北京卫视4K
 http://61.144.111.145:5146/rtp/239.77.0.2:5146
