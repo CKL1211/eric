@@ -581,11 +581,11 @@ http://116.4.96.60:4080/rtp/239.77.1.91:5146
 http://116.4.96.60:4080/rtp/239.77.1.89:5146
 #EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV魅力时尚.png" group-title="影視頻道",IPTV魅力时尚
 http://116.4.96.60:4080/rtp/239.77.1.88:5146
-#EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱大剧.png" group-title="影視頻道",华数爱大剧
+#EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华数.png" group-title="影視頻道",华数爱大剧
 http://116.4.96.60:4080/rtp/239.77.0.105:5146
-#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱电影.png" group-title="影視頻道",华数爱电影
+#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华数.png" group-title="影視頻道",华数爱电影
 http://116.4.96.60:4080/rtp/239.77.1.138:5146
-#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱电影.png" group-title="影視頻道",华数爱电影
+#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华数.png" group-title="影視頻道",华数爱电影
 http://116.4.96.60:4080/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="體育頻道",睛彩竞技
 http://116.4.96.60:4080/rtp/239.77.1.20:5146
