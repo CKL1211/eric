@@ -181,20 +181,10 @@ http://61.144.111.145:5146/rtp/239.253.43.6:5146
 http://61.144.111.145:5146/rtp/239.253.43.24:5146
 #EXTINF:-1 tvg-id="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png" group-title="央視頻道",世界地理
 http://61.144.111.145:5146/rtp/239.253.43.7:5146
-#EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央視頻道",电视指南
-http://61.144.111.145:5146/rtp/239.253.43.10:5146
-#EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央視頻道",电视指南
-http://61.144.111.145:5146/rtp/239.253.43.19:5146
-#EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央視頻道",兵器科技
-http://61.144.111.145:5146/rtp/239.253.43.18:5146
-#EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央視頻道",兵器科技
-http://61.144.111.145:5146/rtp/239.253.43.9:5146
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央視頻道",怀旧剧场
 http://61.144.111.145:5146/rtp/239.253.43.25:5146
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央視頻道",怀旧剧场
 http://61.144.111.145:5146/rtp/239.253.43.5:5146
-#EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="央視頻道",卫生健康
-http://61.144.111.145:5146/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央視頻道",女性时尚
 http://61.144.111.145:5146/rtp/239.253.43.23:5146
 #EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="央視頻道",女性时尚
@@ -211,6 +201,16 @@ http://61.144.111.145:5146/rtp/239.253.43.21:5146
 http://61.144.111.145:5146/rtp/239.253.43.27:5146
 #EXTINF:-1 tvg-id="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视文化精品.png" group-title="央視頻道",央视文化精品
 http://61.144.111.145:5146/rtp/239.253.43.13:5146
+#EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="央視頻道",卫生健康
+http://61.144.111.145:5146/rtp/239.77.0.212:5146
+#EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央視頻道",兵器科技
+http://61.144.111.145:5146/rtp/239.253.43.18:5146
+#EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央視頻道",兵器科技
+http://61.144.111.145:5146/rtp/239.253.43.9:5146
+#EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央視頻道",电视指南
+http://61.144.111.145:5146/rtp/239.253.43.10:5146
+#EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央視頻道",电视指南
+http://61.144.111.145:5146/rtp/239.253.43.19:5146
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="衛視頻道",大湾区卫视
 http://61.144.111.145:5146/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="衛視頻道",广东卫视
