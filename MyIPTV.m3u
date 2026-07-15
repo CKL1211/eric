@@ -555,12 +555,8 @@ http://116.4.96.60:4080/rtp/239.77.1.91:5146
 http://116.4.96.60:4080/rtp/239.77.1.89:5146
 #EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV魅力时尚.png" group-title="影視頻道",IPTV魅力时尚
 http://116.4.96.60:4080/rtp/239.77.1.88:5146
-#EXTINF:-1 tvg-id="IPTV法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV法治.png" group-title="影視頻道",IPTV法治
-http://116.4.96.60:4080/rtp/239.77.1.86:5146
-#EXTINF:-1 tvg-id="华数爱大剧1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱大剧1.png" group-title="影視頻道",华数爱大剧1
+#EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱大剧.png" group-title="影視頻道",华数爱大剧
 http://116.4.96.60:4080/rtp/239.77.0.105:5146
-#EXTINF:-1 tvg-id="华数爱大剧2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱大剧2.png" group-title="影視頻道",华数爱大剧2
-http://116.4.96.60:4080/rtp/239.77.0.110:5146
 #EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱电影.png" group-title="影視頻道",华数爱电影
 http://116.4.96.60:4080/rtp/239.77.1.138:5146
 #EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数爱电影.png" group-title="影視頻道",华数爱电影
