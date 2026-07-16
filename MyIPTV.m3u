@@ -483,6 +483,12 @@ http://113.77.100.237:6065/rtp/239.77.0.85:5146
 http://113.77.100.237:6065/rtp/239.77.0.167:5146
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/岭南戏曲.png" group-title="廣東台",岭南戏曲
 http://113.77.100.237:6065/rtp/239.77.0.122:5146
+#EXTINF:-1 tvg-id="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东移动.png" group-title="廣東台",广东移动
+http://113.77.100.237:6065/rtp/239.77.0.20:5146
+#EXTINF:-1 tvg-id="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="廣東台",南方购物
+http://113.77.100.237:6065/rtp/239.77.0.19:5146
+#EXTINF:-1 tvg-id="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="廣東台",南方购物
+http://113.77.100.237:6065/rtp/239.77.0.22:5146
 #EXTINF:-1 tvg-id="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="廣東台",广州综合
 http://113.77.100.237:6065/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="廣東台",广州新闻
@@ -511,10 +517,6 @@ http://113.77.100.237:6065/rtp/239.253.43.57:5146
 http://113.77.100.237:6065/rtp/239.253.43.54:5146
 #EXTINF:-1 tvg-id="佛山城市生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/佛山城市生活.png" group-title="廣東台",佛山城市生活
 http://113.77.100.237:6065/rtp/239.253.43.53:5146
-#EXTINF:-1 tvg-id="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="廣東台",南方购物
-http://113.77.100.237:6065/rtp/239.77.0.19:5146
-#EXTINF:-1 tvg-id="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="廣東台",南方购物
-http://113.77.100.237:6065/rtp/239.77.0.22:5146
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕头经济生活.png" group-title="廣東台",汕头经济生活
 http://113.77.100.237:6065/rtp/239.253.43.46:5146
 #EXTINF:-1 tvg-id="汕尾新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕尾新闻综合.png" group-title="廣東台",汕尾新闻综合
@@ -561,8 +563,6 @@ http://113.77.100.237:6065/rtp/239.77.0.206:5146
 http://113.77.100.237:6065/rtp/239.77.0.207:5146
 #EXTINF:-1 tvg-id="韶关综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/韶关综合.png" group-title="廣東台",韶关综合
 http://113.77.100.237:6065/rtp/239.77.0.117:5146
-#EXTINF:-1 tvg-id="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东移动.png" group-title="廣東台",广东移动
-http://113.77.100.237:6065/rtp/239.77.0.20:5146
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="數字台",CHC动作电影
 http://pplee.vicp.net:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="數字台",CHC家庭影院
