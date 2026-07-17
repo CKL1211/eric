@@ -399,16 +399,16 @@ https://cdn.qd.je/163189/mzt
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="TVB-Plus-WebVTT" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBPlus.png" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbpvtt
-#EXTINF:-1 tvg-id="WebVTT-3" tvg-name="黃金華劇台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/黄金华剧台.png" group-title="港澳台",黃金華劇台
-https://cdn.qd.je/163189/hjhjt
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB1台.png" group-title="港澳台",TVB1
 https://cdn.qd.je/163189/tvb1
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB-J1.png" group-title="港澳台",TVBJ1
 https://cdn.qd.je/163189/j1
-#EXTINF:-1 tvg-id="g-d9859a" tvg-name="翡翠剧集台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠劇集台.png" group-title="港澳台",翡翠劇集台
-https://cdn.qd.je/163189/tvbd
 #EXTINF:-1 tvg-id="TVB-5" tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVB星河.png" group-title="港澳台",TVB星河
 https://cdn.qd.je/163189/tvbxh2
+#EXTINF:-1 tvg-id="g-d9859a" tvg-name="翡翠剧集台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠劇集台.png" group-title="港澳台",翡翠劇集台
+https://cdn.qd.je/163189/tvbd
+#EXTINF:-1 tvg-id="WebVTT-3" tvg-name="黃金華劇台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/黄金华剧台.png" group-title="港澳台",黃金華劇台
+https://cdn.qd.je/163189/hjhjt
 #EXTINF:-1 tvg-id="g-ec8e11" tvg-name="千禧經典台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/千禧經典台.png" group-title="港澳台",千禧經典台
 https://cdn.qd.je/163189/tvbc
 #EXTINF:-1 tvg-id="g-9a82c8" tvg-name="TVB Jade HD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠台.png" group-title="港澳台",華麗翡翠台
