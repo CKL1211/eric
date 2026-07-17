@@ -391,7 +391,7 @@ http://113.77.100.237:6065/rtp/239.77.0.209:5146
 http://113.77.100.237:6065/rtp/239.77.1.205:5146
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠台HD.png" group-title="港澳台",翡翠台
 https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠台HD.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/翡翠台高清.png" group-title="港澳台",翡翠台
 https://cdn.qd.je/163189/fct2
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/明珠台高清.png" group-title="港澳台",明珠台
 https://cdn.qd.je/163189/mzt
