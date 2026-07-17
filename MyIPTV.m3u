@@ -439,7 +439,7 @@ https://cdn.qd.je/163189/typd2
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天映經典.png" group-title="港澳台",天映經典
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/HOY76.png" group-title="港澳台",HOY 國際財經台
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOY76.png" group-title="港澳台",HOY 國際財經台
 https://cdn.qd.je/163189/hoy76
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/HOY77.png" group-title="港澳台",HOY TV
 https://cdn.qd.je/163189/hoy
@@ -451,6 +451,16 @@ https://cdn.qd.je/163189/hoy78
 https://cdn.qd.je/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳台",RTHK32
 https://cdn.qd.je/163189/rthk32
+#EXTINF:-1 tvg-id="g-e01887" tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳门澳视.png" group-title="港澳台",澳視澳門
+https://cdn.qd.je/163189/asam
+#EXTINF:-1 tvg-id="g-81ff8e" tvg-name="澳视Macau" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳门MACAU.png" group-title="港澳台",澳門Macau
+https://cdn.qd.je/163189/as
+#EXTINF:-1 tvg-id="g-f83027" tvg-name="澳视体育" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳视体育.png" group-title="港澳台",澳門體育
+https://cdn.qd.je/163189/amty
+#EXTINF:-1 tvg-id="g-421efd" tvg-name="澳视综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳门综艺.png" group-title="港澳台",澳門綜藝
+https://cdn.qd.je/163189/amzy
+#EXTINF:-1 tvg-id="g-fc69e0" tvg-name="澳门莲花" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/莲花卫视.png" group-title="港澳台",澳門蓮花
+https://cdn.qd.je/163189/amlh
 #EXTINF:-1 tvg-id="Astro-AOD" tvg-name="AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/AstroAOD.png" group-title="港澳台",Astro AOD
 https://cdn.qd.je/163189/aod
 #EXTINF:-1 tvg-id="Astro-AEC" tvg-name="AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/AstroAEC.png" group-title="港澳台",Astro AEC
