@@ -385,10 +385,6 @@ http://113.77.100.237:6065/rtp/239.77.0.179:5146
 http://113.77.100.237:6065/rtp/239.77.0.222:5146
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="衛視台",优漫卡通
 http://113.77.100.237:6065/rtp/239.77.1.79:5146
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="衛視台",卡酷少儿
-http://113.77.100.237:6065/rtp/239.77.0.79:5146
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="衛視台",卡酷少儿
-http://113.77.100.237:6065/rtp/239.77.1.50:5146
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="衛視台",重庆汽摩
 http://113.77.100.237:6065/rtp/239.77.0.209:5146
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="衛視台",重庆汽摩
