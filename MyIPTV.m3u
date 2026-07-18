@@ -221,7 +221,7 @@ https://cdn.qd.je/163189/mzt
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="TVB-Plus-WebVTT" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB+.png" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbpvtt
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠第一台.png" group-title="港澳台",TVB1
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠第一台TVB1.png" group-title="港澳台",TVB1
 https://cdn.qd.je/163189/tvb1
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVBJ1
 https://cdn.qd.je/163189/j1
@@ -241,7 +241,7 @@ https://cdn.qd.je/163189/yzwx
 https://cdn.qd.je/163189/ylxw
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线新闻.png" group-title="港澳台",無綫新聞台
 https://cdn.qd.je/163189/wxxw
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/NOW新闻台.png" group-title="港澳台",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/NOW新闻.png" group-title="港澳台",Now新聞台
 https://cdn.qd.je/163189/now
 #EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/凤凰中文HD.png" group-title="港澳台",凤凰中文台
 https://cdn.qd.je/163189/fhzw
