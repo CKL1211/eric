@@ -393,7 +393,7 @@ http://119.131.88.4:4333/rtp/239.253.43.71:5146
 http://119.131.88.4:4333/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="g-42a88b" tvg-name="南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="廣東台",南国都市
 https://cdn.qd.je/163189/ngds
-#EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/深圳都市.png" group-title="廣東台",深圳都市频道
+#EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/深圳都市.png" group-title="廣東台",都市频道
 http://119.131.88.4:4333/rtp/239.77.1.124:5146
 #EXTINF:-1 tvg-id="深圳少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳少儿.png" group-title="廣東台",深圳少儿
 http://119.131.88.4:4333/rtp/239.77.1.244:5146
