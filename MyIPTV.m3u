@@ -217,9 +217,9 @@ https://cdn.qd.je/163189/fct4k
 https://cdn.qd.je/163189/fct2
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/明珠台高清.png" group-title="港澳台",明珠台
 https://cdn.qd.je/163189/mzt
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB+.png" group-title="港澳台",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbp
-#EXTINF:-1 tvg-id="TVB-Plus-WebVTT" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB+.png" group-title="港澳台",TVB Plus
+#EXTINF:-1 tvg-id="TVB-Plus-WebVTT" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbpvtt
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB1
 https://cdn.qd.je/163189/tvb1
@@ -233,7 +233,7 @@ https://cdn.qd.je/163189/tvbd
 https://cdn.qd.je/163189/hjhjt
 #EXTINF:-1 tvg-id="g-ec8e11" tvg-name="千禧經典台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/千禧經典.png" group-title="港澳台",千禧經典台
 https://cdn.qd.je/163189/tvbc
-#EXTINF:-1 tvg-id="g-9a82c8" tvg-name="TVB Jade HD" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/tvb翡翠台.png" group-title="港澳台",華麗翡翠台
+#EXTINF:-1 tvg-id="g-9a82c8" tvg-name="TVB Jade HD" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Jade_Malaysia.png" group-title="港澳台",華麗翡翠台
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-id="TVB" tvg-name="TVB亚洲武侠" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/亚洲武侠电视台.png" group-title="港澳台",亞洲武俠台
 https://cdn.qd.je/163189/yzwx
@@ -259,13 +259,13 @@ https://cdn.qd.je/163189/typd2
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳台",天映經典
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HoYIBC_logo.png" group-title="港澳台",HOY 國際財經台
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_76.png" group-title="港澳台",HOY 國際財經台
 https://cdn.qd.je/163189/hoy76
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77_Logo.png" group-title="港澳台",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY TV
 https://cdn.qd.je/163189/hoy
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77_Logo.png" group-title="港澳台",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY TV
 https://cdn.qd.je/163189/hoy2
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_78_Logo.png" group-title="港澳台"",HOY 資訊台
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_78.png" group-title="港澳台"",HOY 資訊台
 https://cdn.qd.je/163189/hoy78
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳台",RTHK31
 https://cdn.qd.je/163189/rthk31
