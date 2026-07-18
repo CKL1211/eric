@@ -387,10 +387,6 @@ http://119.131.88.4:4333/rtp/239.77.0.167:5146
 http://119.131.88.4:4333/rtp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东移动.png" group-title="廣東台",广东移动
 http://119.131.88.4:4333/rtp/239.77.0.20:5146
-#EXTINF:-1 tvg-id="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="廣東台",南方购物
-http://119.131.88.4:4333/rtp/239.77.0.19:5146
-#EXTINF:-1 tvg-id="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="廣東台",南方购物
-http://119.131.88.4:4333/rtp/239.77.0.22:5146
 #EXTINF:-1 tvg-id="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="廣東台",广州综合
 http://119.131.88.4:4333/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="廣東台",广州新闻
@@ -409,8 +405,6 @@ http://119.131.88.4:4333/rtp/239.77.1.177:5146
 http://119.131.88.4:4333/rtp/239.77.1.67:5146
 #EXTINF:-1 tvg-id="深圳龙岗" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳龙岗.png" group-title="廣東台",深圳龙岗
 http://119.131.88.4:4333/rtp/239.77.1.223:5146
-#EXTINF:-1 tvg-id="深圳宜和购物" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳宜和购物.png" group-title="廣東台",深圳宜和购物
-http://119.131.88.4:4333/rtp/239.77.1.87:5146
 #EXTINF:-1 tvg-id="东莞综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东莞新闻综合.png" group-title="廣東台",东莞综合
 http://119.131.88.4:4333/rtp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="东莞生活资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东莞生活资讯.png" group-title="廣東台",东莞生活资讯
