@@ -221,9 +221,9 @@ https://cdn.qd.je/163189/mzt
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="TVB-Plus-WebVTT" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbpvtt
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB1
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB 1
 https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVBJ1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVB J1
 https://cdn.qd.je/163189/j1
 #EXTINF:-1 tvg-id="TVB-5" tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB星河.png" group-title="港澳台",TVB星河
 https://cdn.qd.je/163189/tvbxh2
@@ -289,15 +289,15 @@ https://cdn.qd.je/163189/aec
 https://cdn.qd.je/163189/qj
 #EXTINF:-1 tvg-id="Astro" tvg-name="HUA HEE DAI" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro欢喜台.png" group-title="港澳台",Astro欢喜台
 https://cdn.qd.je/163189/hxt
-#EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro IQIYI.png" group-title="港澳台",Astro爱奇艺
+#EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro IQIYI.png" group-title="港澳台",爱奇艺
 https://cdn.qd.je/163189/iqiyi
 #EXTINF:-1 tvg-id="g-06c717" tvg-name="八度空间" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/八度空间.png" group-title="港澳台",八度空間
 https://cdn.qd.je/163189/8tv
-#EXTINF:-1 tvg-id="CH5" tvg-name="Channel 5" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CHANNEL5.png" group-title="港澳台",CH5
+#EXTINF:-1 tvg-id="CH5" tvg-name="Channel 5" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CHANNEL5.png" group-title="港澳台",Channel 5
 https://cdn.qd.je/163189/ch5
-#EXTINF:-1 tvg-id="CH8" tvg-name="Channel 8" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channel8.png" group-title="港澳台",CH8
+#EXTINF:-1 tvg-id="CH8" tvg-name="Channel 8" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channel8.png" group-title="港澳台",Channel 8
 https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-id="CHU" tvg-name="Channel U" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channelu.png" group-title="港澳台",CHU
+#EXTINF:-1 tvg-id="CHU" tvg-name="Channel U" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channelu.png" group-title="港澳台",Channel U
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="g-fc744a" tvg-name="龍華電影" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华电影.png" group-title="港澳台",龍華電影
 https://cdn.qd.je/163189/lhdy
@@ -321,33 +321,33 @@ https://cdn.qd.je/163189/msyj
 https://cdn.qd.je/163189/gsxj
 #EXTINF:-1 tvg-id="g-967f99" tvg-name="采昌影劇台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/采昌影剧.png" group-title="港澳台",采昌影劇
 https://cdn.qd.je/163189/ccyj
-#EXTINF:-1 tvg-id="g-29c405" tvg-name="靖天映畫" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天映画.png" group-title="港澳台",靖天映畫
+#EXTINF:-1 tvg-id="g-29c405" tvg-name="靖天映畫" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天映画.png" group-title="港澳台",靖天映画台
 https://cdn.qd.je/163189/jtyh
-#EXTINF:-1 tvg-id="g-18333f" tvg-name="靖天戲劇台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天戏剧.png" group-title="港澳台",靖天戲劇
+#EXTINF:-1 tvg-id="g-18333f" tvg-name="靖天戲劇台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天戏剧.png" group-title="港澳台",靖天戏剧台
 https://cdn.qd.je/163189/jtxj
-#EXTINF:-1 tvg-id="g-db2b1b" tvg-name="靖天電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天电影.png" group-title="港澳台",靖天電影
+#EXTINF:-1 tvg-id="g-db2b1b" tvg-name="靖天電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天电影.png" group-title="港澳台",靖天电影台
 https://cdn.qd.je/163189/jtdy
-#EXTINF:-1 tvg-id="g-b3d1c4" tvg-name="影迷數位電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/影迷数位电影.png" group-title="港澳台",影迷數位電影台
+#EXTINF:-1 tvg-id="g-b3d1c4" tvg-name="影迷數位電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/影迷数位电影.png" group-title="港澳台",影迷數位電影
 https://cdn.qd.je/163189/ymswdyt
-#EXTINF:-1 tvg-id="amc" tvg-name="amc電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AMC电影.png" group-title="港澳台",amc電影台
+#EXTINF:-1 tvg-id="amc" tvg-name="amc電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AMC电影.png" group-title="港澳台",amc电影台
 https://cdn.qd.je/163189/amc
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld頻道" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CINEMAWORLD.png" group-title="港澳台",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
-#EXTINF:-1 tvg-id="My-Cinema-Europe" tvg-name="My Cinema Europe" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/MYCINEMAEUROPE.png" group-title="港澳台",My Cinema Europe
+#EXTINF:-1 tvg-id="My-Cinema-Europe" tvg-name="My Cinema Europe" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/MYCINEMAEUROPE.png" group-title="港澳台",MyCinemaEurope
 https://cdn.qd.je/163189/mce
-#EXTINF:-1 tvg-id="g-07014f" tvg-name="經典電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HKC经典电影.png" group-title="港澳台",經典電影
+#EXTINF:-1 tvg-id="g-07014f" tvg-name="經典電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HKC经典电影.png" group-title="港澳台",經典電影台
 https://cdn.qd.je/163189/jddyt
 #EXTINF:-1 tvg-id="CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/电影原声台CMUSIC.png" group-title="港澳台",CMusic
 https://cdn.qd.je/163189/cmusic
-#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/DREAMWORKS.png" group-title="港澳台",DreamWorks夢工廠動畫
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/DREAMWORKS.png" group-title="港澳台",DreamWorks
 https://cdn.qd.je/163189/dreamworks
 #EXTINF:-1 tvg-id="g-4aead6" tvg-name="精選動漫台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/精选动漫.png" group-title="港澳台",精選動漫台
 https://cdn.qd.je/163189/jxdmt
-#EXTINF:-1 tvg-id="g-d20973" tvg-name="纬来电影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来电影.png" group-title="港澳台",緯來電影
+#EXTINF:-1 tvg-id="g-d20973" tvg-name="纬来电影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来电影.png" group-title="港澳台",纬来电影台
 https://cdn.qd.je/163189/wldy
-#EXTINF:-1 tvg-id="g-4f2567" tvg-name="纬来戏剧台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来戏剧.png" group-title="港澳台",緯來戲劇
+#EXTINF:-1 tvg-id="g-4f2567" tvg-name="纬来戏剧台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来戏剧.png" group-title="港澳台",纬来戏剧台
 https://cdn.qd.je/163189/wlxj
-#EXTINF:-1 tvg-id="g-ca92ba" tvg-name="纬来体育台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来体育.png" group-title="港澳台",緯來體育
+#EXTINF:-1 tvg-id="g-ca92ba" tvg-name="纬来体育台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来体育.png" group-title="港澳台",纬来体育台
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 tvg-id="g-5fdce2" tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙祥电影.png" group-title="港澳台",龍祥時代
 https://cdn.qd.je/163189/lxsd
