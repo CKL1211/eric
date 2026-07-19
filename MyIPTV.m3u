@@ -309,6 +309,8 @@ https://cdn.qd.je/163189/jtyh
 https://cdn.qd.je/163189/jtxj
 #EXTINF:-1 tvg-id="g-db2b1b" tvg-name="靖天電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天电影.png" group-title="港澳台",靖天电影台
 https://cdn.qd.je/163189/jtdy
+#EXTINF:-1  tvg-name="靖天日本台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天日本台.png"  group-title="港澳台",靖天日本台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=22
 #EXTINF:-1 tvg-id="g-b3d1c4" tvg-name="影迷數位電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/影迷数位电影.png" group-title="港澳台",影迷數位電影
 https://cdn.qd.je/163189/ymswdyt
 #EXTINF:-1 tvg-id="amc" tvg-name="amc電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AMC电影.png" group-title="港澳台",amc电影台
@@ -329,12 +331,30 @@ https://cdn.qd.je/163189/jxdmt
 https://cdn.qd.je/163189/wlxj
 #EXTINF:-1 tvg-id="g-5fdce2" tvg-name="龙祥时代" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙祥电影.png" group-title="港澳台",龍祥時代
 https://cdn.qd.je/163189/lxsd
+#EXTINF:-1  tvg-name="东森新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森新闻台.png"  group-title="港澳台",東森新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+#EXTINF:-1  tvg-name="东森超视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森超视.png"  group-title="港澳台",東森超視
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="g-b5181d" tvg-name="东森电影" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森电影.png" group-title="港澳台",東森電影
 https://cdn.qd.je/163189/dsdy
 #EXTINF:-1 tvg-id="g-ad88df" tvg-name="东森戏剧" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森戏剧.png" group-title="港澳台",東森戲劇
 https://cdn.qd.je/163189/dsxj
 #EXTINF:-1 tvg-id="g-2a67dd" tvg-name="东森洋片" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森洋片.png" group-title="港澳台",東森洋片
 https://cdn.qd.je/163189/dsyp
+#EXTINF:-1  tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS.png"  group-title="港澳台",TVBS
+https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+#EXTINF:-1  tvg-name="TVBS新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS新闻台.png"  group-title="港澳台",TVBS新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+#EXTINF:-1  tvg-name="TVBS欢乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS欢乐台.png"  group-title="港澳台",TVBS歡樂台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=184
+#EXTINF:-1  tvg-name="TVBS精采台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS精采台.png"  group-title="港澳台",TVBS精采台
+https://t.freetv.fun/live/tvbsjing-cai.php
+#EXTINF:-1  tvg-name="八大精彩台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大精彩台.png"  group-title="港澳台",八大精彩台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=172
+#EXTINF:-1  tvg-name="八大综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大综艺台.png"  group-title="港澳台",八大综艺台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=276
+#EXTINF:-1  tvg-name="民视综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视综艺台.png"  group-title="港澳台",民視綜藝台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=16
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="廣東台",大湾区卫视
 http://119.131.88.4:4333/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="廣東台",广东珠江
