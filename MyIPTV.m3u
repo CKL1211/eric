@@ -303,6 +303,10 @@ https://cdn.qd.je/163189/msyj
 https://cdn.qd.je/163189/gsxj
 #EXTINF:-1 tvg-id="g-967f99" tvg-name="采昌影劇台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/采昌影剧.png" group-title="港澳台",采昌影劇
 https://cdn.qd.je/163189/ccyj
+#EXTINF:-1  tvg-name="靖天综合台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天综合台.png"  group-title="港澳台",靖天综合台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=21
+#EXTINF:-1  tvg-name="靖天育乐台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天育乐台.png"  group-title="港澳台",靖天育乐台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=83
 #EXTINF:-1 tvg-id="g-29c405" tvg-name="靖天映畫" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天映画.png" group-title="港澳台",靖天映画台
 https://cdn.qd.je/163189/jtyh
 #EXTINF:-1 tvg-id="g-18333f" tvg-name="靖天戲劇台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天戏剧.png" group-title="港澳台",靖天戏剧台
@@ -311,6 +315,8 @@ https://cdn.qd.je/163189/jtxj
 https://cdn.qd.je/163189/jtdy
 #EXTINF:-1  tvg-name="靖天日本台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天日本台.png"  group-title="港澳台",靖天日本台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+#EXTINF:-1  tvg-name="靖洋戏剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋戏剧台.png"  group-title="港澳台",靖洋戏剧台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=118
 #EXTINF:-1 tvg-id="g-b3d1c4" tvg-name="影迷數位電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/影迷数位电影.png" group-title="港澳台",影迷數位電影
 https://cdn.qd.je/163189/ymswdyt
 #EXTINF:-1 tvg-id="amc" tvg-name="amc電影台" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AMC电影.png" group-title="港澳台",amc电影台
@@ -351,10 +357,20 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 https://t.freetv.fun/live/tvbsjing-cai.php
 #EXTINF:-1  tvg-name="八大精彩台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大精彩台.png"  group-title="港澳台",八大精彩台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=172
-#EXTINF:-1  tvg-name="八大综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大综艺台.png"  group-title="港澳台",八大综艺台
+#EXTINF:-1  tvg-name="八大综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大综艺台.png"  group-title="港澳台",八大綜藝台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=276
 #EXTINF:-1  tvg-name="民视综艺台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视综艺台.png"  group-title="港澳台",民視綜藝台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=16
+#EXTINF:-1  tvg-name="台视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视.png"  group-title="港澳台",台視
+https://t.freetv.fun/live/tai-shi-1.php
+#EXTINF:-1  tvg-name="台视新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视新闻台.png"  group-title="港澳台",台視新聞台
+https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
+#EXTINF:-1  tvg-name="台视财经台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/台视财经台.png"  group-title="港澳台",台視財經台
+https://t.freetv.fun/live/tai-shi-cai-jing.m3u8
+#EXTINF:-1  tvg-name="亚洲旅游台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/亚洲旅游台.png"  group-title="港澳台",亞洲旅遊台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=261
+#EXTINF:-1  tvg-name="亚洲旅游台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/亚洲旅游台.png"  group-title="港澳台",亞洲旅遊台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="廣東台",大湾区卫视
 http://119.131.88.4:4333/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="廣東台",广东珠江
