@@ -3,9 +3,9 @@
 http://14.21.166.148:4022/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="4K台",CCTV4K
 http://14.21.166.148:4022/rtp/239.77.1.180:5146
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gh-proxy.com/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="北京4K超清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京4K超清.png" group-title="4K台",北京4K超清
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
