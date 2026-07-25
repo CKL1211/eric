@@ -3,9 +3,9 @@
 http://116.4.96.22:4080/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="4K台",CCTV4K
 http://116.4.96.22:4080/rtp/239.77.1.180:5146
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
 http://116.237.161.27:8881/rtp/233.18.204.114:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
 http://116.237.161.27:8881/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="北京4K超清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京4K超清.png" group-title="4K台",北京4K超清
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
@@ -47,11 +47,11 @@ http://116.4.96.22:4080/rtp/239.77.0.58:5146
 http://116.237.161.27:8881/rtp/233.18.204.115:5140
 #EXTINF:-1 tvg-id="多彩文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场4K.png" group-title="4K台",多彩文体
 http://116.237.161.27:8881/rtp/233.18.204.205:5140
-#EXTINF:-1 tvg-id="BesTV4K动画" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/BesTV4K.png" group-title="4K台",BesTV4K动画
+#EXTINF:-1 tvg-id="BesTV4K动画" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/BesTV4K.png" group-title="4K台",BesTV4K动画
 http://116.237.161.27:8881/rtp/233.18.204.171:5140
-#EXTINF:-1 tvg-id="BesTV4K电影" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/BesTV4K.png" group-title="4K台",BesTV4K电影
+#EXTINF:-1 tvg-id="BesTV4K电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/BesTV4K.png" group-title="4K台",BesTV4K电影
 http://116.237.161.27:8881/rtp/233.18.204.169:5140
-#EXTINF:-1 tvg-id="BesTV4K记录" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/BesTV4K.png" group-title="4K台",BesTV4K记录
+#EXTINF:-1 tvg-id="BesTV4K记录" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/BesTV4K.png" group-title="4K台",BesTV4K记录
 http://116.237.161.27:8881/rtp/233.18.204.170:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視台",CCTV1
 http://116.4.96.22:4080/rtp/239.77.0.86:5146
@@ -211,143 +211,143 @@ http://116.4.96.22:4080/rtp/239.253.43.9:5146
 http://116.4.96.22:4080/rtp/239.253.43.10:5146
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央視台",电视指南
 http://116.4.96.22:4080/rtp/239.253.43.19:5146
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
 https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
 https://cdn.qd.je/163189/fct2
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/明珠台高清.png" group-title="港澳台",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/明珠台高清.png" group-title="港澳台",明珠台
 https://cdn.qd.je/163189/mzt
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbp
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB1
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB1
 https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVBJ1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVBJ1
 https://cdn.qd.je/163189/j1
-#EXTINF:-1 tvg-id="TVB-5" tvg-name="TVB星河" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线星河.png" group-title="港澳台",TVB星河
+#EXTINF:-1 tvg-id="TVB-5" tvg-name="TVB星河" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线星河.png" group-title="港澳台",TVB星河
 https://cdn.qd.je/163189/tvbxh2
-#EXTINF:-1 tvg-id="g-d9859a" tvg-name="翡翠剧集台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠剧集台.png" group-title="港澳台",翡翠劇集台
+#EXTINF:-1 tvg-id="g-d9859a" tvg-name="翡翠剧集台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠剧集台.png" group-title="港澳台",翡翠劇集台
 https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 tvg-id="WebVTT-3" tvg-name="黃金華劇台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/黄金华剧台.png" group-title="港澳台",黃金華劇台
+#EXTINF:-1 tvg-id="WebVTT-3" tvg-name="黃金華劇台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/黄金华剧台.png" group-title="港澳台",黃金華劇台
 https://cdn.qd.je/163189/hjhjt
-#EXTINF:-1 tvg-id="g-ec8e11" tvg-name="千禧經典台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/千禧經典.png" group-title="港澳台",千禧經典台
+#EXTINF:-1 tvg-id="g-ec8e11" tvg-name="千禧經典台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/千禧經典.png" group-title="港澳台",千禧經典台
 https://cdn.qd.je/163189/tvbc
-#EXTINF:-1 tvg-id="g-9a82c8" tvg-name="TVB Jade HD" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Jade_Malaysia.png" group-title="港澳台",華麗翡翠台
+#EXTINF:-1 tvg-id="g-9a82c8" tvg-name="TVB Jade HD" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Jade_Malaysia.png" group-title="港澳台",華麗翡翠台
 https://cdn.qd.je/163189/hlfct
-#EXTINF:-1 tvg-id="TVB" tvg-name="TVB亚洲武侠" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/亚洲武侠电视台.png" group-title="港澳台",亞洲武俠台
+#EXTINF:-1 tvg-id="TVB" tvg-name="TVB亚洲武侠" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/亚洲武侠电视台.png" group-title="港澳台",亞洲武俠台
 https://cdn.qd.je/163189/yzwx
-#EXTINF:-1 tvg-id="TVB-2" tvg-name="娛樂新聞台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/娱乐新闻.png" group-title="港澳台",娛樂新聞台
+#EXTINF:-1 tvg-id="TVB-2" tvg-name="娛樂新聞台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/娱乐新闻.png" group-title="港澳台",娛樂新聞台
 https://cdn.qd.je/163189/ylxw
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线新闻.png" group-title="港澳台",無綫新聞台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线新闻.png" group-title="港澳台",無綫新聞台
 https://cdn.qd.je/163189/wxxw
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/NOW新闻.png" group-title="港澳台",Now新聞台
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/NOW新闻.png" group-title="港澳台",Now新聞台
 https://cdn.qd.je/163189/now
-#EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHD.png" group-title="港澳台",凤凰中文台
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHD.png" group-title="港澳台",凤凰中文台
 https://cdn.qd.je/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixNewsHD.png" group-title="港澳台",凤凰資訊台
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixNewsHD.png" group-title="港澳台",凤凰資訊台
 https://cdn.qd.je/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
 https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
 https://cdn.qd.je/163189/viu
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
 https://cdn.qd.je/163189/viu6
-#EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
+#EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
 https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映新加坡
+#EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映新加坡
 https://cdn.qd.je/163189/typd
-#EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳台",天映經典
+#EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳台",天映經典
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_76.png" group-title="港澳台",HOY76
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_76.png" group-title="港澳台",HOY76
 https://cdn.qd.je/163189/hoy76
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
 https://cdn.qd.je/163189/hoy
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
 https://cdn.qd.je/163189/hoy2
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_78.png" group-title="港澳台"",HOY78
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_78.png" group-title="港澳台"",HOY78
 https://cdn.qd.je/163189/hoy78
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳台",RTHK31
 https://cdn.qd.je/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳台",RTHK32
 https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 tvg-id="g-e01887" tvg-name="澳视澳门" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门澳视.png" group-title="港澳台",澳視澳門
+#EXTINF:-1 tvg-id="g-e01887" tvg-name="澳视澳门" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门澳视.png" group-title="港澳台",澳視澳門
 https://cdn.qd.je/163189/asam
-#EXTINF:-1 tvg-id="g-81ff8e" tvg-name="澳视Macau" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门MACAU.png" group-title="港澳台",澳門Macau
+#EXTINF:-1 tvg-id="g-81ff8e" tvg-name="澳视Macau" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门MACAU.png" group-title="港澳台",澳門Macau
 https://cdn.qd.je/163189/as
-#EXTINF:-1 tvg-id="g-f83027" tvg-name="澳视体育" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳門體育.png" group-title="港澳台",澳門體育
+#EXTINF:-1 tvg-id="g-f83027" tvg-name="澳视体育" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳門體育.png" group-title="港澳台",澳門體育
 https://cdn.qd.je/163189/amty
-#EXTINF:-1 tvg-id="g-421efd" tvg-name="澳视综艺" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门综艺.png" group-title="港澳台",澳門綜藝
+#EXTINF:-1 tvg-id="g-421efd" tvg-name="澳视综艺" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门综艺.png" group-title="港澳台",澳門綜藝
 https://cdn.qd.je/163189/amzy
-#EXTINF:-1 tvg-id="g-fc69e0" tvg-name="澳门莲花" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/莲花卫视.png" group-title="港澳台",澳門蓮花
+#EXTINF:-1 tvg-id="g-fc69e0" tvg-name="澳门莲花" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/莲花卫视.png" group-title="港澳台",澳門蓮花
 https://cdn.qd.je/163189/amlh
-#EXTINF:-1 tvg-id="Astro-AOD" tvg-name="AOD" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AstroAOD.png" group-title="港澳台",AstroAOD
+#EXTINF:-1 tvg-id="Astro-AOD" tvg-name="AOD" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AstroAOD.png" group-title="港澳台",AstroAOD
 https://cdn.qd.je/163189/aod
-#EXTINF:-1 tvg-id="Astro" tvg-name="HUA HEE DAI" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro欢喜台.png" group-title="港澳台",Astro欢喜台
+#EXTINF:-1 tvg-id="Astro" tvg-name="HUA HEE DAI" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro欢喜台.png" group-title="港澳台",Astro欢喜台
 https://cdn.qd.je/163189/hxt
-#EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro_iQIYI.png" group-title="港澳台",爱奇艺
+#EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro_iQIYI.png" group-title="港澳台",爱奇艺
 https://cdn.qd.je/163189/iqiyi
-#EXTINF:-1 tvg-id="g-06c717" tvg-name="八度空间" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/八度空间.png" group-title="港澳台",八度空間
+#EXTINF:-1 tvg-id="g-06c717" tvg-name="八度空间" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/八度空间.png" group-title="港澳台",八度空間
 https://cdn.qd.je/163189/8tv
-#EXTINF:-1 tvg-id="CH5" tvg-name="Channel 5" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CHANNEL5.png" group-title="港澳台",Channel 5
+#EXTINF:-1 tvg-id="CH5" tvg-name="Channel 5" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CHANNEL5.png" group-title="港澳台",Channel 5
 https://cdn.qd.je/163189/ch5
-#EXTINF:-1 tvg-id="CH8" tvg-name="Channel 8" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channel8.png" group-title="港澳台",Channel 8
+#EXTINF:-1 tvg-id="CH8" tvg-name="Channel 8" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channel8.png" group-title="港澳台",Channel 8
 https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-id="CHU" tvg-name="Channel U" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channelu.png" group-title="港澳台",Channel U
+#EXTINF:-1 tvg-id="CHU" tvg-name="Channel U" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channelu.png" group-title="港澳台",Channel U
 https://cdn.qd.je/163189/chu
-#EXTINF:-1 tvg-id="g-1639fa" tvg-name="金光布袋戲" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/金光.png" group-title="港澳台",金光布袋戲
+#EXTINF:-1 tvg-id="g-1639fa" tvg-name="金光布袋戲" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/金光.png" group-title="港澳台",金光布袋戲
 https://cdn.qd.je/163189/jgbdx
-#EXTINF:-1 tvg-id="g-cf2cf7" tvg-name="民視影劇台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/民视影剧.png" group-title="港澳台",民視影劇
+#EXTINF:-1 tvg-id="g-cf2cf7" tvg-name="民視影劇台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/民视影剧.png" group-title="港澳台",民視影劇
 https://cdn.qd.je/163189/msyj
-#EXTINF:-1 tvg-id="g-4fea55" tvg-name="公視戲劇" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/公视戏剧.png" group-title="港澳台",公視戲劇
+#EXTINF:-1 tvg-id="g-4fea55" tvg-name="公視戲劇" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/公视戏剧.png" group-title="港澳台",公視戲劇
 https://cdn.qd.je/163189/gsxj
-#EXTINF:-1 tvg-id="g-967f99" tvg-name="采昌影劇台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/采昌影剧.png" group-title="港澳台",采昌影劇
+#EXTINF:-1 tvg-id="g-967f99" tvg-name="采昌影劇台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/采昌影剧.png" group-title="港澳台",采昌影劇
 https://cdn.qd.je/163189/ccyj
-#EXTINF:-1 tvg-id="g-fc744a" tvg-name="龍華電影" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华电影.png" group-title="港澳台",龍華電影
+#EXTINF:-1 tvg-id="g-fc744a" tvg-name="龍華電影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华电影.png" group-title="港澳台",龍華電影
 https://cdn.qd.je/163189/lhdy
-#EXTINF:-1 tvg-id="g-e4f513" tvg-name="龍華經典" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华经典.png" group-title="港澳台",龍華經典
+#EXTINF:-1 tvg-id="g-e4f513" tvg-name="龍華經典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华经典.png" group-title="港澳台",龍華經典
 https://cdn.qd.je/163189/lhjd
-#EXTINF:-1 tvg-id="g-94145f" tvg-name="龍華偶像" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华偶像.png" group-title="港澳台",龍華偶像
+#EXTINF:-1 tvg-id="g-94145f" tvg-name="龍華偶像" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华偶像.png" group-title="港澳台",龍華偶像
 https://cdn.qd.je/163189/lhox
-#EXTINF:-1 tvg-id="g-de829a" tvg-name="龍華日韓" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华日韩.png" group-title="港澳台",龍華日韓
+#EXTINF:-1 tvg-id="g-de829a" tvg-name="龍華日韓" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华日韩.png" group-title="港澳台",龍華日韓
 https://cdn.qd.je/163189/lhrh
-#EXTINF:-1 tvg-id="g-e878f0" tvg-name="龍華戲劇" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华戏剧.png" group-title="港澳台",龍華戲劇
+#EXTINF:-1 tvg-id="g-e878f0" tvg-name="龍華戲劇" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华戏剧.png" group-title="港澳台",龍華戲劇
 https://cdn.qd.je/163189/lhxj
-#EXTINF:-1 tvg-id="g-836478" tvg-name="龍華洋片" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华洋片.png" group-title="港澳台",龍華洋片
+#EXTINF:-1 tvg-id="g-836478" tvg-name="龍華洋片" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华洋片.png" group-title="港澳台",龍華洋片
 https://cdn.qd.je/163189/lhyp
-#EXTINF:-1 tvg-id="g-da5780" tvg-name="龍華卡通" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华卡通.png" group-title="港澳台",龍華卡通
+#EXTINF:-1 tvg-id="g-da5780" tvg-name="龍華卡通" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙华卡通.png" group-title="港澳台",龍華卡通
 https://cdn.qd.je/163189/lhkt
-#EXTINF:-1 tvg-id="g-29c405" tvg-name="靖天映畫" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天映画.png" group-title="港澳台",靖天映画台
+#EXTINF:-1 tvg-id="g-29c405" tvg-name="靖天映畫" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天映画.png" group-title="港澳台",靖天映画台
 https://cdn.qd.je/163189/jtyh
-#EXTINF:-1 tvg-id="g-18333f" tvg-name="靖天戲劇台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天戏剧.png" group-title="港澳台",靖天戏剧台
+#EXTINF:-1 tvg-id="g-18333f" tvg-name="靖天戲劇台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天戏剧.png" group-title="港澳台",靖天戏剧台
 https://cdn.qd.je/163189/jtxj
-#EXTINF:-1 tvg-id="g-db2b1b" tvg-name="靖天電影台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天电影.png" group-title="港澳台",靖天电影台
+#EXTINF:-1 tvg-id="g-db2b1b" tvg-name="靖天電影台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/靖天电影.png" group-title="港澳台",靖天电影台
 https://cdn.qd.je/163189/jtdy
 #EXTINF:-1  tvg-name="靖洋戏剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋戏剧台.png"  group-title="港澳台",靖洋戏剧台
 https://cdn.qd.je/163189/jyxj
-#EXTINF:-1 tvg-id="g-b3d1c4" tvg-name="影迷數位電影台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/影迷数位电影.png" group-title="港澳台",影迷數位電影台
+#EXTINF:-1 tvg-id="g-b3d1c4" tvg-name="影迷數位電影台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/影迷数位电影.png" group-title="港澳台",影迷數位電影台
 https://cdn.qd.je/163189/ymswdyt
-#EXTINF:-1 tvg-id="amc" tvg-name="amc電影台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AMC电影.png" group-title="港澳台",amc電影台
+#EXTINF:-1 tvg-id="amc" tvg-name="amc電影台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AMC电影.png" group-title="港澳台",amc電影台
 https://cdn.qd.je/163189/amc
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld頻道" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CINEMAWORLD.png" group-title="港澳台",CinemaWorld
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld頻道" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CINEMAWORLD.png" group-title="港澳台",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
-#EXTINF:-1 tvg-id="My-Cinema-Europe" tvg-name="My Cinema Europe" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/MYCINEMAEUROPE.png" group-title="港澳台",MyCinemaEurope
+#EXTINF:-1 tvg-id="My-Cinema-Europe" tvg-name="My Cinema Europe" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/MYCINEMAEUROPE.png" group-title="港澳台",MyCinemaEurope
 https://cdn.qd.je/163189/mce
-#EXTINF:-1 tvg-id="g-07014f" tvg-name="經典電影台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HKC经典电影.png" group-title="港澳台",经典电影台
+#EXTINF:-1 tvg-id="g-07014f" tvg-name="經典電影台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HKC经典电影.png" group-title="港澳台",经典电影台
 https://cdn.qd.je/163189/jddyt
-#EXTINF:-1 tvg-id="CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/电影原声台CMUSIC.png" group-title="港澳台",CMusic
+#EXTINF:-1 tvg-id="CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/电影原声台CMUSIC.png" group-title="港澳台",CMusic
 https://cdn.qd.je/163189/cmusic
-#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/DREAMWORKS.png" group-title="港澳台",DreamWorks
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/DREAMWORKS.png" group-title="港澳台",DreamWorks
 https://cdn.qd.je/163189/dreamworks
-#EXTINF:-1 tvg-id="g-4aead6" tvg-name="精選動漫台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/精选动漫.png" group-title="港澳台",精選動漫台
+#EXTINF:-1 tvg-id="g-4aead6" tvg-name="精選動漫台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/精选动漫.png" group-title="港澳台",精選動漫台
 https://cdn.qd.je/163189/jxdmt
-#EXTINF:-1 tvg-id="g-ca92ba" tvg-name="纬来体育台" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来体育.png" group-title="港澳台",纬来体育
+#EXTINF:-1 tvg-id="g-ca92ba" tvg-name="纬来体育台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/纬来体育.png" group-title="港澳台",纬来体育
 https://cdn.qd.je/163189/wlty
-#EXTINF:-1 tvg-id="g-5fdce2" tvg-name="龙祥时代" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙祥电影.png" group-title="港澳台",龍祥時代
+#EXTINF:-1 tvg-id="g-5fdce2" tvg-name="龙祥时代" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/龙祥电影.png" group-title="港澳台",龍祥時代
 https://cdn.qd.je/163189/lxsd
-#EXTINF:-1 tvg-id="g-b5181d" tvg-name="东森电影" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森电影.png" group-title="港澳台",東森電影
+#EXTINF:-1 tvg-id="g-b5181d" tvg-name="东森电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森电影.png" group-title="港澳台",東森電影
 https://cdn.qd.je/163189/dsdy
-#EXTINF:-1 tvg-id="g-ad88df" tvg-name="东森戏剧" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森戏剧.png" group-title="港澳台",東森戲劇
+#EXTINF:-1 tvg-id="g-ad88df" tvg-name="东森戏剧" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森戏剧.png" group-title="港澳台",東森戲劇
 https://cdn.qd.je/163189/dsxj
-#EXTINF:-1 tvg-id="g-2a67dd" tvg-name="东森洋片" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森洋片.png" group-title="港澳台",東森洋片
+#EXTINF:-1 tvg-id="g-2a67dd" tvg-name="东森洋片" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东森洋片.png" group-title="港澳台",東森洋片
 https://cdn.qd.je/163189/dsyp
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="廣東台",大湾区卫视
 http://116.4.96.22:4080/rtp/239.77.0.215:5146
@@ -385,7 +385,7 @@ http://116.4.96.22:4080/rtp/239.253.43.71:5146
 http://116.4.96.22:4080/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="g-42a88b" tvg-name="南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="廣東台",南国都市
 https://cdn.qd.je/163189/ngds
-#EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/深圳都市.png" group-title="廣東台",都市频道
+#EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/深圳都市.png" group-title="廣東台",都市频道
 http://116.4.96.22:4080/rtp/239.77.1.124:5146
 #EXTINF:-1 tvg-id="深圳少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳少儿.png" group-title="廣東台",深圳少儿
 http://116.4.96.22:4080/rtp/239.77.1.244:5146
@@ -397,7 +397,7 @@ http://116.4.96.22:4080/rtp/239.77.1.177:5146
 http://116.4.96.22:4080/rtp/239.77.1.67:5146
 #EXTINF:-1 tvg-id="深圳龙岗" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳龙岗.png" group-title="廣東台",深圳龙岗
 http://116.4.96.22:4080/rtp/239.77.1.223:5146
-#EXTINF:-1 tvg-id="东莞综合" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东莞新闻综合.png" group-title="廣東台",东莞综合
+#EXTINF:-1 tvg-id="东莞综合" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/东莞新闻综合.png" group-title="廣東台",东莞综合
 http://116.4.96.22:4080/rtp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="东莞生活资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东莞生活资讯.png" group-title="廣東台",东莞生活资讯
 http://116.4.96.22:4080/rtp/239.253.43.105:5146
@@ -407,7 +407,7 @@ http://116.4.96.22:4080/rtp/239.253.43.57:5146
 http://116.4.96.22:4080/rtp/239.253.43.54:5146
 #EXTINF:-1 tvg-id="佛山顺德" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/佛山顺德.png" group-title="廣東台",佛山顺德
 http://116.4.96.22:4080/rtp/239.253.43.55:5146
-#EXTINF:-1 tvg-id="佛山城市生活" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/佛山城市生活.png" group-title="廣東台",佛山城市生活
+#EXTINF:-1 tvg-id="佛山城市生活" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/佛山城市生活.png" group-title="廣東台",佛山城市生活
 http://116.4.96.22:4080/rtp/239.253.43.53:5146
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕头经济生活.png" group-title="廣東台",汕头经济生活
 http://116.4.96.22:4080/rtp/239.253.43.46:5146
@@ -421,15 +421,15 @@ http://116.4.96.22:4080/rtp/239.253.43.70:5146
 http://116.4.96.22:4080/rtp/239.253.43.75:5146
 #EXTINF:-1 tvg-id="河源综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河源综合.png" group-title="廣東台",河源综合
 http://116.4.96.22:4080/rtp/239.253.43.213:5146
-#EXTINF:-1 tvg-id="河源生活" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/河源公共.png" group-title="廣東台",河源生活
+#EXTINF:-1 tvg-id="河源生活" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/河源公共.png" group-title="廣東台",河源生活
 http://116.4.96.22:4080/rtp/239.253.43.214:5146
 #EXTINF:-1 tvg-id="汕头综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕头综合.png" group-title="廣東台",汕头综合
 http://116.4.96.22:4080/rtp/239.253.43.45:5146
-#EXTINF:-1 tvg-id="惠州1" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/惠州1套.png" group-title="廣東台",惠州一台
+#EXTINF:-1 tvg-id="惠州1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/惠州1套.png" group-title="廣東台",惠州一台
 http://116.4.96.22:4080/rtp/239.77.1.232:5146
-#EXTINF:-1 tvg-id="惠州2" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/惠州2套.png" group-title="廣東台",惠州二台
+#EXTINF:-1 tvg-id="惠州2" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/惠州2套.png" group-title="廣東台",惠州二台
 http://116.4.96.22:4080/rtp/239.77.1.233:5146
-#EXTINF:-1 tvg-id="梅州综合" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/梅州综合.png" group-title="廣東台",梅州综合
+#EXTINF:-1 tvg-id="梅州综合" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/梅州综合.png" group-title="廣東台",梅州综合
 http://116.4.96.22:4080/rtp/239.253.43.123:5146
 #EXTINF:-1 tvg-id="梅州客家生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梅州客家生活.png" group-title="廣東台",梅州客家生活
 http://116.4.96.22:4080/rtp/239.253.43.124:5146
@@ -639,17 +639,17 @@ http://pplee.vicp.net:4022/udp/233.18.204.175:5140
 http://116.4.96.22:4080/rtp/239.77.1.89:5146
 #EXTINF:-1 tvg-id="IPTV热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV热播剧场.png" group-title="數字台",IPTV热播剧场
 http://116.4.96.22:4080/rtp/239.77.1.90:5146
-#EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV谍战剧场.png" group-title="數字台",IPTV谍战剧场
+#EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV谍战剧场.png" group-title="數字台",IPTV谍战剧场
 http://116.4.96.22:4080/rtp/239.77.0.99:5146
 #EXTINF:-1 tvg-id="IPTV少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV少儿动画.png" group-title="數字台",IPTV少儿动画
 http://116.4.96.22:4080/rtp/239.77.1.91:5146
 #EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV魅力时尚.png" group-title="數字台",IPTV魅力时尚
 http://116.4.96.22:4080/rtp/239.77.1.88:5146
-#EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱大剧
+#EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱大剧
 http://116.4.96.22:4080/rtp/239.77.0.105:5146
-#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
+#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
 http://116.4.96.22:4080/rtp/239.77.1.138:5146
-#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
+#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
 http://116.4.96.22:4080/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="數字台",睛彩竞技
 http://116.4.96.22:4080/rtp/239.77.1.20:5146
@@ -711,7 +711,7 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.106:8002
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="北京台",北京纪实科教
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.105:8002
-#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://github.chenc.dev/raw.githubusercontent.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/北京重温经典.png" group-title="北京台",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/北京重温经典.png" group-title="北京台",重温经典
 http://home.airengine.net:9003/udp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="北京台",北京卡酷少儿
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.35:8000
