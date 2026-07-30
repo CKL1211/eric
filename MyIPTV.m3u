@@ -211,6 +211,10 @@ http://116.21.205.118:9523/rtp/239.253.43.9:5146
 http://116.21.205.118:9523/rtp/239.253.43.10:5146
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央視台",电视指南
 http://116.21.205.118:9523/rtp/239.253.43.19:5146
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
+https://cdn.qd.je/163189/viu
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
+https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
@@ -247,10 +251,6 @@ https://cdn.qd.je/163189/fhzw
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
 https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
-https://cdn.qd.je/163189/viu
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
-https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映新加坡
