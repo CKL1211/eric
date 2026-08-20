@@ -710,7 +710,7 @@ http://1.203.174.137:8180/rtp/225.1.8.108:8002
 #EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京财经.png" group-title="北京台",北京财经
 http://1.203.174.137:8180/rtp/225.1.8.106:8002
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="北京台",北京体育休闲
-http://1.203.174.137:8180/rtp/225.1.8.120:8002
+http://1.203.174.137:8180/rtp/225.1.8.23:8002
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="北京台",北京纪实科教
 http://1.203.174.137:8180/rtp/225.1.8.105:8002
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/北京重温经典.png" group-title="北京台",重温经典
