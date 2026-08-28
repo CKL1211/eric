@@ -697,6 +697,10 @@ http://14.21.134.117:8188/rtp/239.77.1.197:5146
 http://14.21.134.117:8188/rtp/239.77.0.145:5146
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国天气.png" group-title="數字台",中国天气
 http://14.21.134.117:8188/rtp/239.77.1.2:5146
+#EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动漫秀场.png" group-title="數字台",动漫秀场
+http://116.235.62.22:5002/rtp/233.18.204.46:5140
+#EXTINF:-1 tvg-id="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乐游.png" group-title="數字台",乐游
+http://116.235.62.22:5002/rtp/233.18.204.47:5140
 #EXTINF:-1 tvg-id="北京国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京国际.png" group-title="北京台",北京国际
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
 #EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北京台",北京新闻
@@ -727,6 +731,14 @@ http://1.203.174.137:8180/rtp/225.1.8.61:8002
 http://1.203.174.137:8180/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="北京台",北京IPTV萌宠TV
 http://1.203.174.137:8180/rtp/225.1.8.63:8002
+#EXTINF:-1 tvg-id="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="北京台",上海都市
+http://116.235.62.22:5002/rtp/233.18.204.53:5140
+#EXTINF:-1 tvg-id="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海教育.png" group-title="北京台",上海教育
+http://116.235.62.22:5002/rtp/233.18.204.63:5140
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/都市剧场.png" group-title="北京台",都市剧场
+http://116.235.62.22:5002/rtp/233.18.204.48:5140
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="北京台",上海新闻综合
+http://116.235.62.22:5002/rtp/233.18.204.57:5140
 #EXTINF:-1 tvg-id="CCTV1-2" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視台",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央視台",CCTV2
