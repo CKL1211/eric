@@ -673,26 +673,6 @@ http://14.21.134.117:8188/rtp/239.253.43.98:5146
 http://14.21.134.117:8188/rtp/239.77.0.160:5146
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="數字台",金鹰纪实
 http://14.21.134.117:8188/rtp/239.77.1.217:5146
-#EXTINF:-1 tvg-id="中学生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中学生.png" group-title="數字台",中学生
-http://14.21.134.117:8188/rtp/239.77.1.195:5146
-#EXTINF:-1 tvg-id="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="數字台",书画频道
-http://14.21.134.117:8188/rtp/239.77.1.115:5146
-#EXTINF:-1 tvg-id="发现之旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅.png" group-title="數字台",发现之旅
-http://14.21.134.117:8188/rtp/239.253.43.127:5146
-#EXTINF:-1 tvg-id="发现之旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/发现之旅.png" group-title="數字台",发现之旅
-http://14.21.134.117:8188/rtp/239.77.1.112:5146
-#EXTINF:-1 tvg-id="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观.png" group-title="數字台",环球奇观
-http://14.21.134.117:8188/rtp/239.77.1.198:5146
-#EXTINF:-1 tvg-id="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/环球奇观.png" group-title="數字台",环球奇观
-http://14.21.134.117:8188/rtp/239.253.43.126:5146
-#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="數字台",国学频道
-http://14.21.134.117:8188/rtp/239.77.0.226:5146
-#EXTINF:-1 tvg-id="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="數字台",国学频道
-http://14.21.134.117:8188/rtp/239.77.1.105:5146
-#EXTINF:-1 tvg-id="老故事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/老故事.png" group-title="數字台",老故事
-http://14.21.134.117:8188/rtp/239.77.0.220:5146
-#EXTINF:-1 tvg-id="老故事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/老故事.png" group-title="數字台",老故事
-http://14.21.134.117:8188/rtp/239.77.1.197:5146
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/快乐垂钓.png" group-title="數字台",快乐垂钓
 http://14.21.134.117:8188/rtp/239.77.0.145:5146
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国天气.png" group-title="數字台",中国天气
@@ -701,6 +681,12 @@ http://14.21.134.117:8188/rtp/239.77.1.2:5146
 http://116.235.62.22:5002/rtp/233.18.204.46:5140
 #EXTINF:-1 tvg-id="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乐游.png" group-title="數字台",乐游
 http://116.235.62.22:5002/rtp/233.18.204.47:5140
+#EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png" group-title="數字台",法治天地
+http://116.235.62.22:5002/rtp/233.18.204.49:5140
+#EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金色学堂.png" group-title="數字台",金色学堂
+http://116.235.62.22:5002/rtp/233.18.204.66:5140
+#EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png" group-title="數字台",生活时尚
+http://116.235.62.22:5002/rtp/233.18.204.45:5140
 #EXTINF:-1 tvg-id="北京国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京国际.png" group-title="北京台",北京国际
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
 #EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北京台",北京新闻
