@@ -218,13 +218,13 @@ https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
 https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
-https://cdn.qd.je/163189/fct4k
+https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
-https://cdn.qd.je/163189/fct2
+http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/明珠台高清.png" group-title="港澳台",明珠台
 https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
-https://cdn.qd.je/163189/tvbp
+http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB1
 https://cdn.qd.je/163189/tvb1
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVBJ1
@@ -254,23 +254,23 @@ https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
-https://cdn.qd.je/163189/typd2
+https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映新加坡
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳台",天映經典
-https://cdn.qd.je/163189/ccm
+https://cdn3.indevs.in/stream/live/ccm/
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_76.png" group-title="港澳台",HOY76
-https://cdn.qd.je/163189/hoy76
+http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
-https://cdn.qd.je/163189/hoy
+http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
 https://cdn.qd.je/163189/hoy2
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_78.png" group-title="港澳台"",HOY78
-https://cdn.qd.je/163189/hoy78
+http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳台",RTHK31
-https://cdn.qd.je/163189/rthk31
+http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳台",RTHK32
-https://cdn.qd.je/163189/rthk32
+http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 #EXTINF:-1 tvg-id="g-e01887" tvg-name="澳视澳门" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门澳视.png" group-title="港澳台",澳視澳門
 https://cdn.qd.je/163189/asam
 #EXTINF:-1 tvg-id="g-81ff8e" tvg-name="澳视Macau" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/澳门MACAU.png" group-title="港澳台",澳門Macau
