@@ -213,6 +213,30 @@ http://113.95.141.117:8188/rtp/239.253.43.9:5146
 http://113.95.141.117:8188/rtp/239.253.43.10:5146
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="央視台",电视指南
 http://113.95.141.117:8188/rtp/239.253.43.19:5146
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🔮今日影视直播",翡翠台
+http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBPlus.png" group-title="🔮今日影视直播",TVBPlus
+http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HOY76.png" group-title="🔮今日影视直播",HOY76
+http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HOY77.png" group-title="🔮今日影视直播",HOY77
+http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="🔮今日影视直播",HOY78
+http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0.png" group-title="🔮今日影视直播",黄金华剧台
+https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0%E7%B2%A4.png" group-title="🔮今日影视直播",黄金华剧台粤
+https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🔮今日影视直播",黄金翡翠台
+https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0%E7%B2%A4.png" group-title="🔮今日影视直播",美亚电影台粤
+https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0%E5%9B%BD.png" group-title="🔮今日影视直播",美亚电影台国
+https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png" group-title="🔮今日影视直播",港台电视31
+http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8632.png" group-title="🔮今日影视直播",港台电视32
+http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
 https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
