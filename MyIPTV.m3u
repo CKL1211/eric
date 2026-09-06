@@ -229,9 +229,9 @@ https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
 https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
 #EXTINF:-1 tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/黃金翡翠台.png" group-title="港澳直連",黄金翡翠台
 https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-#EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳台",天映經典
+#EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳直連",天映經典
 https://cdn3.indevs.in/stream/live/ccm/
-#EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
+#EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳直連",天映頻道
 https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/美亞电影台.png" group-title="港澳直連",美亞電影台(粵)
 https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
@@ -282,7 +282,7 @@ https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
-https://cdn3.indevs.in/stream/live/typd/
+https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映新加坡
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳台",天映經典
