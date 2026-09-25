@@ -221,6 +221,8 @@ http://173.208.234.146/live/fhzw.m3u8
 http://173.208.234.146/live/fhzx.m3u8
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳直連",凤凰香港台
 http://173.208.234.146/live/fhxg.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳直連",翡翠台
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳直連",TVBPlus
 http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 #EXTINF:-1 tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_76.png" group-title="港澳直連",HOY76
@@ -234,7 +236,7 @@ https://cdn3.indevs.in/stream/live/ccm/
 #EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳直連",天映頻道
 https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳直連",RTHK31
-http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳直連",RTHK32
 http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
@@ -277,6 +279,8 @@ https://cdn.qd.je/163189/fhzw
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
 https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="美亞電影台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/美亞电影台.png" group-title="港澳台",美亞電影台
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-id="g-32bd52" tvg-name="天映新加坡" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映新加坡
