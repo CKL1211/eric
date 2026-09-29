@@ -8,9 +8,11 @@ http://180.165.60.180:4022/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
 http://180.165.60.180:4022/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京4K超清.png" group-title="4K台",北京IPTV4K
+http://106.120.39.154:4022/rtp/225.1.8.211:8002
+#EXTINF:-1 tvg-id="北京IPTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京4K超清.png" group-title="4K台",北京IPTV4K
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="爱上4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱上4K.png" group-title="4K台",爱上4K
-http://1.203.174.137:8180/rtp/225.1.8.80:2000
+http://106.120.39.154:4022/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="4K台",北京卫视4K
 http://113.83.146.209:8188/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="4K台",北京卫视4K
@@ -722,31 +724,55 @@ http://180.165.60.180:4022/rtp/233.18.204.45:5140
 #EXTINF:-1 tvg-id="北京国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京国际.png" group-title="北京台",北京国际
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
 #EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北京台",北京新闻
+http://106.120.39.154:4022/rtp/225.1.8.129:8002
+#EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北京台",北京新闻
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.83:8000
+#EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京影视.png" group-title="北京台",北京影视
+http://106.120.39.154:4022/rtp/225.1.8.124:8002
 #EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京影视.png" group-title="北京台",北京影视
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.82:8000
 #EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京文艺.png" group-title="北京台",北京文艺
+http://106.120.39.154:4022/rtp/225.1.8.122:8002
+#EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京文艺.png" group-title="北京台",北京文艺
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.22:8002
 #EXTINF:-1 tvg-id="北京生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京生活.png" group-title="北京台",北京生活
+http://106.120.39.154:4022/rtp/225.1.8.127:8002
+#EXTINF:-1 tvg-id="北京生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京生活.png" group-title="北京台",北京生活
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.108:8002
+#EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京财经.png" group-title="北京台",北京财经
+http://106.120.39.154:4022/rtp/225.1.8.125:8002
 #EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京财经.png" group-title="北京台",北京财经
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.106:8002
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="北京台",北京体育休闲
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="北京台",北京纪实科教
+http://106.120.39.154:4022/rtp/225.1.8.123:8002
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="北京台",北京纪实科教
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.105:8002
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/北京重温经典.png" group-title="北京台",重温经典
 http://home.airengine.net:9003/udp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="北京台",北京卡酷少儿
+http://106.120.39.154:4022/rtp/225.1.8.35:8000
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="北京台",北京卡酷少儿
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.35:8000
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘电影.png" group-title="北京台",北京IPTV淘电影
+http://106.120.39.154:4022/rtp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘电影.png" group-title="北京台",北京IPTV淘电影
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘剧场.png" group-title="北京台",北京IPTV淘剧场
+http://106.120.39.154:4022/rtp/225.1.8.37:8002
+#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘剧场.png" group-title="北京台",北京IPTV淘剧场
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.37:8002
+#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘娱乐.png" group-title="北京台",北京IPTV淘娱乐
+http://106.120.39.154:4022/rtp/225.1.8.61:8002
 #EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘娱乐.png" group-title="北京台",北京IPTV淘娱乐
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.61:8002
 #EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘BABY.png" group-title="北京台",北京IPTV淘BABY
+http://106.120.39.154:4022/rtp/225.1.8.36:8002
+#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘BABY.png" group-title="北京台",北京IPTV淘BABY
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
+#EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="北京台",北京IPTV萌宠TV
+http://106.120.39.154:4022/rtp/225.1.8.63:8002
 #EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="北京台",北京IPTV萌宠TV
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
 #EXTINF:-1 tvg-id="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="北京台",上海都市
