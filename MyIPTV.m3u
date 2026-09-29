@@ -665,9 +665,9 @@ http://113.83.146.209:8188/rtp/239.77.1.79:5146
 http://113.83.146.209:8188/rtp/239.77.0.209:5146
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="衛視台",重庆汽摩
 http://113.83.146.209:8188/rtp/239.77.1.205:5146
-#EXTINF:-1 tvg-id="星影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="數字台",星影
+#EXTINF:-1 tvg-id="星影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV星影.png" group-title="數字台",星影
 http://106.120.39.154:4022/rtp/225.1.8.254:4120
-#EXTINF:-1 tvg-id="光影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/光影.png" group-title="數字台",光影
+#EXTINF:-1 tvg-id="光影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV光影.png" group-title="數字台",光影
 http://106.120.39.154:4022/rtp/225.1.8.244:4120
 #EXTINF:-1 tvg-id="喜剧影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/喜剧影院.png" group-title="數字台",喜剧影院
 http://106.120.39.154:4022/rtp/225.1.8.251:4120
@@ -689,13 +689,13 @@ http://113.83.146.209:8188/rtp/239.77.0.99:5146
 http://113.83.146.209:8188/rtp/239.77.1.91:5146
 #EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV魅力时尚.png" group-title="數字台",IPTV魅力时尚
 http://113.83.146.209:8188/rtp/239.77.1.88:5146
-#EXTINF:-1 tvg-id="城市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/城市剧场.png" group-title="數字台",城市剧场
+#EXTINF:-1 tvg-id="城市剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV城市剧场.png" group-title="數字台",城市剧场
 http://106.120.39.154:4022/rtp/225.1.8.227:4120
-#EXTINF:-1 tvg-id="军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军旅剧场.png" group-title="數字台",军旅剧场
+#EXTINF:-1 tvg-id="军旅剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV军旅剧场.png" group-title="數字台",军旅剧场
 http://106.120.39.154:4022/rtp/225.1.8.228:4120
-#EXTINF:-1 tvg-id="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/古装剧场.png" group-title="數字台",古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV古装剧场.png" group-title="數字台",古装剧场
 http://106.120.39.154:4022/rtp/225.1.8.229:4120
-#EXTINF:-1 tvg-id="武侠剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武侠剧场.png" group-title="數字台",武侠剧场
+#EXTINF:-1 tvg-id="武侠剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV武侠剧场.png" group-title="數字台",武侠剧场
 http://106.120.39.154:4022/rtp/225.1.8.250:4120
 #EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱大剧
 http://113.83.146.209:8188/rtp/239.77.0.105:5146
