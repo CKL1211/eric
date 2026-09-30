@@ -4,13 +4,11 @@ http://113.83.146.209:8188/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="4K台",CCTV4K
 http://113.83.146.209:8188/rtp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
-http://180.165.60.180:4022/rtp/233.18.204.114:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
 http://180.165.60.180:4022/rtp/233.18.204.215:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CCTV16_4K.png" group-title="4K台",CCTV16 4K
+http://180.165.60.180:4022/rtp/233.18.204.114:5140
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京4K超清.png" group-title="4K台",北京IPTV4K
 http://106.120.39.154:4022/rtp/225.1.8.211:8002
-#EXTINF:-1 tvg-id="北京IPTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京4K超清.png" group-title="4K台",北京IPTV4K
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="爱上4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱上4K.png" group-title="4K台",爱上4K
 http://106.120.39.154:4022/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="4K台",北京卫视4K
@@ -26,9 +24,9 @@ http://113.83.146.209:8188/rtp/239.77.0.66:5146
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="4K台",广东卫视4K
 http://113.83.146.209:8188/rtp/239.77.0.65:5146
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K超高清.png" group-title="4K台",广东4K超高清
-http://113.83.146.209:8188/rtp/239.77.0.245:5146
-#EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K超高清.png" group-title="4K台",广东4K超高清
 http://113.83.146.209:8188/rtp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K超高清.png" group-title="4K台",广东4K超高清
+http://113.83.146.209:8188/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K超高清.png" group-title="4K台",广东4K超高清
 http://113.83.146.209:8188/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="4K台",南国都市4K
@@ -657,52 +655,6 @@ http://113.83.146.209:8188/rtp/239.77.1.35:5146
 http://113.83.146.209:8188/rtp/239.77.0.164:5146
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="衛視台",嘉佳卡通
 http://113.83.146.209:8188/rtp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="衛視台",优漫卡通
-http://113.83.146.209:8188/rtp/239.77.0.222:5146
-#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="衛視台",优漫卡通
-http://113.83.146.209:8188/rtp/239.77.1.79:5146
-#EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="衛視台",重庆汽摩
-http://113.83.146.209:8188/rtp/239.77.0.209:5146
-#EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆汽摩.png" group-title="衛視台",重庆汽摩
-http://113.83.146.209:8188/rtp/239.77.1.205:5146
-#EXTINF:-1 tvg-id="星影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV星影.png" group-title="數字台",星影
-http://106.120.39.154:4022/rtp/225.1.8.254:4120
-#EXTINF:-1 tvg-id="光影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV光影.png" group-title="數字台",光影
-http://106.120.39.154:4022/rtp/225.1.8.244:4120
-#EXTINF:-1 tvg-id="喜剧影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/喜剧影院.png" group-title="數字台",喜剧影院
-http://106.120.39.154:4022/rtp/225.1.8.251:4120
-#EXTINF:-1 tvg-id="动作影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动作影院.png" group-title="數字台",动作影院
-http://106.120.39.154:4022/rtp/225.1.8.252:4120
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="數字台",CHC动作电影
-http://pplee.vicp.net:4022/udp/233.18.204.174:5140
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="數字台",CHC家庭影院
-http://pplee.vicp.net:4022/udp/233.18.204.173:5140
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="數字台",CHC影迷电影
-http://pplee.vicp.net:4022/udp/233.18.204.175:5140
-#EXTINF:-1 tvg-id="IPTV经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV经典电影.png" group-title="數字台",IPTV经典电影
-http://113.83.146.209:8188/rtp/239.77.1.89:5146
-#EXTINF:-1 tvg-id="IPTV热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV热播剧场.png" group-title="數字台",IPTV热播剧场
-http://113.83.146.209:8188/rtp/239.77.1.90:5146
-#EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV谍战剧场.png" group-title="數字台",IPTV谍战剧场
-http://113.83.146.209:8188/rtp/239.77.0.99:5146
-#EXTINF:-1 tvg-id="IPTV少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV少儿动画.png" group-title="數字台",IPTV少儿动画
-http://113.83.146.209:8188/rtp/239.77.1.91:5146
-#EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV魅力时尚.png" group-title="數字台",IPTV魅力时尚
-http://113.83.146.209:8188/rtp/239.77.1.88:5146
-#EXTINF:-1 tvg-id="城市剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV城市剧场.png" group-title="數字台",城市剧场
-http://106.120.39.154:4022/rtp/225.1.8.227:4120
-#EXTINF:-1 tvg-id="军旅剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV军旅剧场.png" group-title="數字台",军旅剧场
-http://106.120.39.154:4022/rtp/225.1.8.228:4120
-#EXTINF:-1 tvg-id="古装剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV古装剧场.png" group-title="數字台",古装剧场
-http://106.120.39.154:4022/rtp/225.1.8.229:4120
-#EXTINF:-1 tvg-id="武侠剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV武侠剧场.png" group-title="數字台",武侠剧场
-http://106.120.39.154:4022/rtp/225.1.8.250:4120
-#EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱大剧
-http://113.83.146.209:8188/rtp/239.77.0.105:5146
-#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
-http://113.83.146.209:8188/rtp/239.77.1.138:5146
-#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
-http://113.83.146.209:8188/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="數字台",睛彩竞技
 http://113.83.146.209:8188/rtp/239.77.1.20:5146
 #EXTINF:-1 tvg-id="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="數字台",睛彩青少
@@ -711,6 +663,44 @@ http://113.83.146.209:8188/rtp/239.77.1.22:5146
 http://113.83.146.209:8188/rtp/239.77.1.21:5146
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="數字台",睛彩广场舞
 http://113.83.146.209:8188/rtp/239.77.1.23:5146
+#EXTINF:-1 tvg-id="喜剧影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/喜剧影院.png" group-title="數字台",喜剧影院
+http://106.120.39.154:4022/rtp/225.1.8.251:4120
+#EXTINF:-1 tvg-id="动作影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动作影院.png" group-title="數字台",动作影院
+http://106.120.39.154:4022/rtp/225.1.8.252:4120
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="數字台",CHC家庭影院
+http://pplee.vicp.net:4022/udp/233.18.204.173:5140
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="數字台",CHC动作电影
+http://pplee.vicp.net:4022/udp/233.18.204.174:5140
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="數字台",CHC影迷电影
+http://pplee.vicp.net:4022/udp/233.18.204.175:5140
+#EXTINF:-1 tvg-id="星影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV星影.png" group-title="數字台",星影
+http://106.120.39.154:4022/rtp/225.1.8.254:4120
+#EXTINF:-1 tvg-id="光影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV光影.png" group-title="數字台",光影
+http://106.120.39.154:4022/rtp/225.1.8.244:4120
+#EXTINF:-1 tvg-id="IPTV经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV经典电影.png" group-title="數字台",IPTV经典电影
+http://113.83.146.209:8188/rtp/239.77.1.89:5146
+#EXTINF:-1 tvg-id="IPTV热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV热播剧场.png" group-title="數字台",IPTV热播剧场
+http://113.83.146.209:8188/rtp/239.77.1.90:5146
+#EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV谍战剧场.png" group-title="數字台",IPTV谍战剧场
+http://113.83.146.209:8188/rtp/239.77.0.99:5146
+#EXTINF:-1 tvg-id="城市剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV城市剧场.png" group-title="數字台",城市剧场
+http://106.120.39.154:4022/rtp/225.1.8.227:4120
+#EXTINF:-1 tvg-id="军旅剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV军旅剧场.png" group-title="數字台",军旅剧场
+http://106.120.39.154:4022/rtp/225.1.8.228:4120
+#EXTINF:-1 tvg-id="古装剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV古装剧场.png" group-title="數字台",古装剧场
+http://106.120.39.154:4022/rtp/225.1.8.229:4120
+#EXTINF:-1 tvg-id="武侠剧场" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV武侠剧场.png" group-title="數字台",武侠剧场
+http://106.120.39.154:4022/rtp/225.1.8.250:4120
+#EXTINF:-1 tvg-id="IPTV少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV少儿动画.png" group-title="數字台",IPTV少儿动画
+http://113.83.146.209:8188/rtp/239.77.1.91:5146
+#EXTINF:-1 tvg-id="IPTV魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV魅力时尚.png" group-title="數字台",IPTV魅力时尚
+http://113.83.146.209:8188/rtp/239.77.1.88:5146
+#EXTINF:-1 tvg-id="华数爱大剧" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱大剧
+http://113.83.146.209:8188/rtp/239.77.0.105:5146
+#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
+http://113.83.146.209:8188/rtp/239.77.1.138:5146
+#EXTINF:-1 tvg-id="华数爱电影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/华数.png" group-title="數字台",华数爱电影
+http://113.83.146.209:8188/rtp/239.77.0.103:5146
 #EXTINF:-1 tvg-id="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="數字台",五星体育
 http://pplee.vicp.net:4022/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/武术世界.png" group-title="數字台",武术世界
@@ -737,67 +727,43 @@ http://180.165.60.180:4022/rtp/233.18.204.49:5140
 http://180.165.60.180:4022/rtp/233.18.204.66:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png" group-title="數字台",生活时尚
 http://180.165.60.180:4022/rtp/233.18.204.45:5140
-#EXTINF:-1 tvg-id="北京国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京国际.png" group-title="北京台",北京国际
+#EXTINF:-1 tvg-id="北京国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京国际.png" group-title="北上台",北京国际
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
-#EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北京台",北京新闻
+#EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北上台",北京新闻
 http://106.120.39.154:4022/rtp/225.1.8.83:8000
-#EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北京台",北京新闻
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.83:8000
-#EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京影视.png" group-title="北京台",北京影视
+#EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京影视.png" group-title="北上台",北京影视
 http://106.120.39.154:4022/rtp/225.1.8.82:8000
-#EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京影视.png" group-title="北京台",北京影视
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.82:8000
-#EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京文艺.png" group-title="北京台",北京文艺
+#EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京文艺.png" group-title="北上台",北京文艺
 http://106.120.39.154:4022/rtp/225.1.8.22:8002
-#EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京文艺.png" group-title="北京台",北京文艺
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.22:8002
-#EXTINF:-1 tvg-id="北京生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京生活.png" group-title="北京台",北京生活
+#EXTINF:-1 tvg-id="北京生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京生活.png" group-title="北上台",北京生活
 http://106.120.39.154:4022/rtp/225.1.8.108:8002
-#EXTINF:-1 tvg-id="北京生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京生活.png" group-title="北京台",北京生活
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.108:8002
-#EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京财经.png" group-title="北京台",北京财经
+#EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京财经.png" group-title="北上台",北京财经
 http://106.120.39.154:4022/rtp/225.1.8.106:8002
-#EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京财经.png" group-title="北京台",北京财经
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.106:8002
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="北京台",北京体育休闲
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="北京台",北京纪实科教
-http://106.120.39.154:4022/rtp/225.1.8.123:8002
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="北京台",北京纪实科教
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.105:8002
-#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/北京重温经典.png" group-title="北京台",重温经典
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="北上台",北京体育休闲
+http://106.120.39.154:4022/rtp/225.1.8.23:8002
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="北上台",北京纪实科教
+http://106.120.39.154:4022/rtp/225.1.8.105:8002
+#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/北京重温经典.png" group-title="北上台",重温经典
 http://home.airengine.net:9003/udp/228.1.1.237:8002
-#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="北京台",北京卡酷少儿
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="北上台",北京卡酷少儿
 http://106.120.39.154:4022/rtp/225.1.8.35:8000
-#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卡酷少儿.png" group-title="北京台",北京卡酷少儿
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.35:8000
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘电影.png" group-title="北京台",北京IPTV淘电影
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘电影.png" group-title="北上台",北京IPTV淘电影
 http://106.120.39.154:4022/rtp/225.1.8.38:8002
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘电影.png" group-title="北京台",北京IPTV淘电影
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.38:8002
-#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘剧场.png" group-title="北京台",北京IPTV淘剧场
+#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘剧场.png" group-title="北上台",北京IPTV淘剧场
 http://106.120.39.154:4022/rtp/225.1.8.37:8002
-#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘剧场.png" group-title="北京台",北京IPTV淘剧场
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.37:8002
-#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘娱乐.png" group-title="北京台",北京IPTV淘娱乐
+#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘娱乐.png" group-title="北上台",北京IPTV淘娱乐
 http://106.120.39.154:4022/rtp/225.1.8.61:8002
-#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘娱乐.png" group-title="北京台",北京IPTV淘娱乐
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.61:8002
-#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘BABY.png" group-title="北京台",北京IPTV淘BABY
+#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘BABY.png" group-title="北上台",北京IPTV淘BABY
 http://106.120.39.154:4022/rtp/225.1.8.36:8002
-#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘BABY.png" group-title="北京台",北京IPTV淘BABY
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
-#EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="北京台",北京IPTV萌宠TV
+#EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="北上台",北京IPTV萌宠TV
 http://106.120.39.154:4022/rtp/225.1.8.63:8002
-#EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="北京台",北京IPTV萌宠TV
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
-#EXTINF:-1 tvg-id="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="北京台",上海都市
+#EXTINF:-1 tvg-id="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="北上台",上海都市
 http://180.165.60.180:4022/rtp/233.18.204.53:5140
-#EXTINF:-1 tvg-id="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海教育.png" group-title="北京台",上海教育
+#EXTINF:-1 tvg-id="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海教育.png" group-title="北上台",上海教育
 http://180.165.60.180:4022/rtp/233.18.204.63:5140
-#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/都市剧场.png" group-title="北京台",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/都市剧场.png" group-title="北上台",都市剧场
 http://180.165.60.180:4022/rtp/233.18.204.48:5140
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="北京台",上海新闻综合
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="北上台",上海新闻综合
 http://180.165.60.180:4022/rtp/233.18.204.57:5140
 #EXTINF:-1 tvg-id="CCTV1-2" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央視台",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
