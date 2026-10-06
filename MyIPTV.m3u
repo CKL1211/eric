@@ -218,6 +218,8 @@ https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠台高清.png" group-title="港澳台",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/明珠台高清.png" group-title="港澳台",明珠台
+http://cdn3.123.rr.kg/stream/tvb/mzt/
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/明珠台高清.png" group-title="港澳台",明珠台
 https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线新闻.png" group-title="港澳台",無綫新聞台
 http://cdn6.123.rr.kg/163189/wxxw
@@ -228,23 +230,25 @@ http://cdn6.123.rr.kg/163189/ylxw
 #EXTINF:-1 tvg-id="TVB-2" tvg-name="娛樂新聞台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/娱乐新闻.png" group-title="港澳台",娛樂新聞台
 https://cdn.qd.je/163189/ylxw
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/NOW新闻.png" group-title="港澳台",Now新聞台
-http://173.208.234.146/live/nowxw.m3u8
+http://cdn.123.rr.kg/163189/now
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/NOW新闻.png" group-title="港澳台",Now新聞台
 https://cdn.qd.je/163189/now
 #EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHD.png" group-title="港澳台",凤凰中文台
-http://173.208.234.146/live/fhzw.m3u8
+http://cdn6.123.rr.kg/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHD.png" group-title="港澳台",凤凰中文台
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixNewsHD.png" group-title="港澳台",凤凰資訊台
-http://173.208.234.146/live/fhzx.m3u8
+http://cdn6.123.rr.kg/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixNewsHD.png" group-title="港澳台",凤凰資訊台
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
-http://173.208.234.146/live/fhxg.m3u8
+http://cdn6.123.rr.kg/163189/fhhk
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/PhoenixHK.png" group-title="港澳台",凤凰香港台
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="美亞電影台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/美亞电影台.png" group-title="港澳台",美亞電影台
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
+http://cdn6.123.rr.kg/163189/tvbd
 #EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
 https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 tvg-id="g-cb4cfc" tvg-name="天映马来西亚" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映频道.png" group-title="港澳台",天映頻道
@@ -256,35 +260,49 @@ https://cdn3.indevs.in/stream/live/ccm/
 #EXTINF:-1 tvg-id="g-82b698" tvg-name="天映经典" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/天映經典.png" group-title="港澳台",天映經典
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
+http://cdn3.123.rr.kg/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Plus_2024.png" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbp2
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB1
+http://cdn6.123.rr.kg/163189/tvb1
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠1台.png" group-title="港澳台",TVB1
 https://cdn.qd.je/163189/tvb1
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVBJ1
+http://cdn6.123.rr.kg/163189/j1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVBJ11.png" group-title="港澳台",TVBJ1
 https://cdn.qd.je/163189/j1
 #EXTINF:-1 tvg-id="TVB-5" tvg-name="TVB星河" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线星河.png" group-title="港澳台",TVB星河
-https://cdn.qd.je/163189/tvbxh2
+http://cdn3.123.rr.kg/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="TVB-5" tvg-name="TVB星河" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/无线星河.png" group-title="港澳台",TVB星河
+https://cdn3.indevs.in/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="g-d9859a" tvg-name="翡翠剧集台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠剧集台.png" group-title="港澳台",翡翠劇集台
+http://cdn6.123.rr.kg/163189/tvbd
 #EXTINF:-1 tvg-id="g-d9859a" tvg-name="翡翠剧集台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/翡翠剧集台.png" group-title="港澳台",翡翠劇集台
 https://cdn.qd.je/163189/tvbd
 #EXTINF:-1 tvg-id="WebVTT-3" tvg-name="黃金華劇台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/黄金华剧台.png" group-title="港澳台",黃金華劇台
 https://cdn.qd.je/163189/hjhjt
 #EXTINF:-1 tvg-id="g-ec8e11" tvg-name="千禧經典台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/千禧經典.png" group-title="港澳台",千禧經典台
-https://cdn.qd.je/163189/tvbc
+http://cdn3.123.rr.kg/stream/live/tvbc/
+#EXTINF:-1 tvg-id="g-9a82c8" tvg-name="TVB Jade HD" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Jade_Malaysia.png" group-title="港澳台",華麗翡翠台
+http://cdn6.123.rr.kg/163189/jade
 #EXTINF:-1 tvg-id="g-9a82c8" tvg-name="TVB Jade HD" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/TVB_Jade_Malaysia.png" group-title="港澳台",華麗翡翠台
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-id="TVB" tvg-name="TVB亚洲武侠" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/亚洲武侠电视台.png" group-title="港澳台",亞洲武俠台
+http://cdn6.123.rr.kg/163189/yzwx
+#EXTINF:-1 tvg-id="TVB" tvg-name="TVB亚洲武侠" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/亚洲武侠电视台.png" group-title="港澳台",亞洲武俠台
 https://cdn.qd.je/163189/yzwx
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_76.png" group-title="港澳台",HOY76
-https://cdn.qd.je/163189/hoy76
+https://cdn11.163189.xyz/163189/hoy76
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
-https://cdn.qd.je/163189/hoy
+http://cdn6.123.rr.kg/163189/hoy
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_77.png" group-title="港澳台",HOY77
 https://cdn.qd.je/163189/hoy2
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/HOY_78.png" group-title="港澳台"",HOY78
-https://cdn.qd.je/163189/hoy78
+http://cdn.123.rr.kg/163189/hoy78
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳台",RTHK31
-https://cdn.qd.je/163189/rthk31
+http://cdn.123.rr.kg/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳台",RTHK32
-https://cdn.qd.je/163189/rthk32
+http://cdn.123.rr.kg/163189/rthk32
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
 https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
@@ -299,20 +317,28 @@ https://cdn.qd.je/163189/amty
 https://cdn.qd.je/163189/amzy
 #EXTINF:-1 tvg-id="g-fc69e0" tvg-name="澳门莲花" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/莲花卫视.png" group-title="港澳台",澳門蓮花
 https://cdn.qd.je/163189/amlh
+#EXTINF:-1 tvg-id="Astro-AEC" tvg-name="AEC" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AstroAEC.png" group-title="港澳台",AstroAEC
+https://cdn3.indevs.in/stream/live/aec/
+#EXTINF:-1 tvg-id="Astro-AOD" tvg-name="AOD" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AstroAOD.png" group-title="港澳台",AstroAOD
+http://cdn3.123.rr.kg/stream/live/aod/
 #EXTINF:-1 tvg-id="Astro-AOD" tvg-name="AOD" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/AstroAOD.png" group-title="港澳台",AstroAOD
 https://cdn.qd.je/163189/aod
 #EXTINF:-1 tvg-id="Astro" tvg-name="HUA HEE DAI" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro欢喜台.png" group-title="港澳台",Astro欢喜台
+http://cdn3.123.rr.kg/stream/live/hxt/
+#EXTINF:-1 tvg-id="Astro" tvg-name="HUA HEE DAI" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro欢喜台.png" group-title="港澳台",Astro欢喜台
 https://cdn.qd.je/163189/hxt
+#EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro_iQIYI.png" group-title="港澳台",爱奇艺
+http://cdn3.123.rr.kg/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="g-67a67f" tvg-name="iQIYI" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/Astro_iQIYI.png" group-title="港澳台",爱奇艺
 https://cdn.qd.je/163189/iqiyi
 #EXTINF:-1 tvg-id="g-06c717" tvg-name="八度空间" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/八度空间.png" group-title="港澳台",八度空間
-https://cdn.qd.je/163189/8tv
+http://cdn6.123.rr.kg/163189/8tv
 #EXTINF:-1 tvg-id="CH5" tvg-name="Channel 5" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/CHANNEL5.png" group-title="港澳台",Channel 5
-https://cdn.qd.je/163189/ch5
+http://cdn6.123.rr.kg/163189/ch5
 #EXTINF:-1 tvg-id="CH8" tvg-name="Channel 8" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channel8.png" group-title="港澳台",Channel 8
-https://cdn.qd.je/163189/ch8
+http://cdn6.123.rr.kg/163189/ch8
 #EXTINF:-1 tvg-id="CHU" tvg-name="Channel U" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/channelu.png" group-title="港澳台",Channel U
-https://cdn.qd.je/163189/chu
+http://cdn6.123.rr.kg/163189/chu
 #EXTINF:-1 tvg-id="g-1639fa" tvg-name="金光布袋戲" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/金光.png" group-title="港澳台",金光布袋戲
 https://cdn.qd.je/163189/jgbdx
 #EXTINF:-1 tvg-id="g-cf2cf7" tvg-name="民視影劇台" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/民视影剧.png" group-title="港澳台",民視影劇
