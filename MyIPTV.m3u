@@ -742,7 +742,7 @@ http://180.165.60.180:4022/rtp/233.18.204.66:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png" group-title="數字台",生活时尚
 http://180.165.60.180:4022/rtp/233.18.204.45:5140
 #EXTINF:-1 tvg-id="北京国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京国际.png" group-title="北上台",北京国际
-http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
+http://106.120.39.161:4022/rtp/225.1.8.131:8002
 #EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北上台",北京新闻
 http://106.120.39.161:4022/rtp/225.1.8.83:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京影视.png" group-title="北上台",北京影视
