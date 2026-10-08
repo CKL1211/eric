@@ -682,9 +682,15 @@ http://106.120.39.161:4022/rtp/225.1.8.251:4120
 #EXTINF:-1 tvg-id="动作影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动作影院.png" group-title="數字台",动作影院
 http://106.120.39.161:4022/rtp/225.1.8.252:4120
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="數字台",CHC家庭影院
+http://180.165.60.180:4022/rtp/233.18.204.173:5140
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="數字台",CHC家庭影院
 http://pplee.vicp.net:4022/udp/233.18.204.173:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="數字台",CHC动作电影
+http://180.165.60.180:4022/rtp/233.18.204.174:5140
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="數字台",CHC动作电影
 http://pplee.vicp.net:4022/udp/233.18.204.174:5140
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="數字台",CHC影迷电影
+http://180.165.60.180:4022/rtp/233.18.204.175:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="數字台",CHC影迷电影
 http://pplee.vicp.net:4022/udp/233.18.204.175:5140
 #EXTINF:-1 tvg-id="星影" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/IPTV星影.png" group-title="數字台",IPTV星影
