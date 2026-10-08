@@ -303,6 +303,8 @@ http://cdn.123.rr.kg/163189/hoy78
 http://cdn.123.rr.kg/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳台",RTHK32
 http://cdn.123.rr.kg/163189/rthk32
+#EXTINF:-1 tvg-id="RTHK33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK33.png" group-title="港澳台",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTV.png" group-title="港澳台",ViuTV
 https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://git.yylx.win/github.com/CKL1211/eric/blob/master/logo/%E6%B8%AF%E6%BE%B3%E5%8F%B0/VIUTVSIX.png" group-title="港澳台",ViuTV6
